@@ -1,0 +1,1027 @@
+{"src": "Tap target land.", "trg": "横置目标地。"}
+{"src": "Orochi Hatchery enters the battlefield with X charge counters on it.", "trg": "蛇人孵化场进场时上面有X个充电指示物。"}
+{"src": "Enchant permanent", "trg": "永久物结界"}
+{"src": "Buyback {2} ", "trg": "购回{2}"}
+{"src": "{X}{X}{R}: Monstrosity X.", "trg": "{X}{X}{R}：蛮化X。"}
+{"src": "• Creatures target player controls gain trample until end of turn.", "trg": "•由目标牌手操控的生物获得践踏异能直到回合结束。"}
+{"src": "At the beginning of your end step, if you control a creature with power greater than its base power, create a 1/1 white Soldier creature token.", "trg": "在你的结束步骤开始时，若你操控其力量比其基础力量大的生物，则派出一个1/1白色士兵衍生生物。"}
+{"src": "{B}, Sacrifice X creatures: Target player draws X cards and gains X life.", "trg": "{B}，牺牲X个生物：目标牌手抓X张牌且获得X点生命。"}
+{"src": "At the beginning of enchanted opponent's end step, you and that player each draw a card.", "trg": "在所结附的对手之结束步骤开始时，你和该牌手各抓一张牌。"}
+{"src": "Flying", "trg": "飞行"}
+{"src": "Spend this mana only to cast spells from your graveyard.", "trg": "此法术力只能用来从你坟墓场中施放咒语。"}
+{"src": "Haste", "trg": "敏捷"}
+{"src": "Enter the first room or advance to the next room.", "trg": "进入第一个房间，或前进至下一个房间。"}
+{"src": "{1}{W}{B}, {T}: Destroy target creature or enchantment.", "trg": "{1}{W}{B}，{T}：消灭目标生物或结界。"}
+{"src": "Flying", "trg": "飞行"}
+{"src": "Activate only as a sorcery.", "trg": "只可以于你能施放法术的时机下起动此异能。"}
+{"src": "Trample", "trg": "践踏"}
+{"src": "Enchant creature", "trg": "生物结界"}
+{"src": "• Create a token that's a copy of target nonartifact creature you control.", "trg": "•派出一个衍生物，此衍生物为目标由你操控的非神器生物之复制品。"}
+{"src": "You may put that card into your graveyard.", "trg": "你可以将该牌置入你的坟墓场。"}
+{"src": "Vigilance", "trg": "警戒"}
+{"src": "Encore {5}{B}{B}", "trg": "返场{5}{B}{B}"}
+{"src": "Rather than cast this card from your hand, you may pay {1}{R} and exile it with three time counters on it.", "trg": "除了从你手上施放此牌，你可以支付{1}{R}并将它放逐，且上面有三个计时指示物。"}
+{"src": "When enchanted land dies, return that card to its owner's hand.", "trg": "当所结附的地置入坟墓场时，将该牌移回其拥有者手上。"}
+{"src": "Equipped creature has \"{2}, {T}: Tap target creature.\"", "trg": "佩带此武具的生物具有\"{2}，{T}：横置目标生物。\""}
+{"src": "When you do, search your library for a basic Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle and you gain 1 life.", "trg": "当你如此作时，从你牌库中搜寻一张基本的海岛，沼泽或山脉牌，将之横置放进战场，然后洗牌且你获得1点生命。"}
+{"src": "Tap target untapped creature.", "trg": "横置目标未横置的生物。"}
+{"src": "Counter target spell.", "trg": "反击目标咒语。"}
+{"src": "{T}: Lobber Crew deals 1 damage to each opponent.", "trg": "{T}：抛投小组向每位对手各造成1点伤害。"}
+{"src": "You may look at the top card of your library any time.", "trg": "你可以随时检视你的牌库顶牌。"}
+{"src": "It gains haste.", "trg": "它获得敏捷异能。"}
+{"src": "Flying, lifelink", "trg": "飞行，系命"}
+{"src": "Damage dealt by the creature also causes its controller to gain that much life.", "trg": "每当它造成伤害时，其操控者获得等量的生命。"}
+{"src": "II — Destroy all nonartifact creatures.", "trg": "II — 消灭所有非神器的生物。"}
+{"src": "Flying, double strike, lifelink", "trg": "飞行，连击，系命"}
+{"src": "For each player, choose a creature card in that player's graveyard.", "trg": "为每位牌手各选择一张在其坟墓场中的生物牌。"}
+{"src": "That player discards that card.", "trg": "该牌手弃掉该牌。"}
+{"src": "This spell costs {X} less to cast, where X is the total mana value of Dragons you control.", "trg": "此咒语减少{X}来施放，X为由你操控之龙的法术力值总和。"}
+{"src": "Whenever Najal, the Storm Runner attacks, you may pay {2}.", "trg": "每当追风魔纳贾尔攻击时，你可以支付{2}。"}
+{"src": "Target creature gets +X/+X until end of turn, where X is the number of cards in your hand.", "trg": "目标生物得+X/+X直到回合结束，X为你的手牌数量。"}
+{"src": "{T}: Add {G}.", "trg": "{T}：加{G}到你的法术力池中。"}
+{"src": "{T}: Add {C}.", "trg": "{T}：加{C}。"}
+{"src": "They mutate into the creature on top plus all abilities from under it.", "trg": "它们合变作顶上的生物，外加具有底下所有异能。"}
+{"src": "If you cast this card for its bestow cost, it's an Aura spell with enchant creature.", "trg": "如果你支付此牌的神授费用来施放它，则它便是具\"结附于生物\"的灵气咒语。"}
+{"src": "Flying, deathtouch, haste", "trg": "飞行，死触，敏捷"}
+{"src": "Morph {4}{W}", "trg": "变身{4}{W}"}
+{"src": "+1: Look at the top two cards of your library.", "trg": "+1：检视你牌库顶的两张牌。"}
+{"src": "Put the top two cards of your library into your graveyard.", "trg": "将你牌库顶的两张牌置入你的坟墓场。"}
+{"src": "Otherwise, put the rest on the bottom of your library in a random order.", "trg": "若否，则以随机顺序置于你牌库底。"}
+{"src": "{R}: Arcbound Whelp gets +1/+0 until end of turn.", "trg": "{R}：能缰幼龙得+1/+0直到回合结束。"}
+{"src": "Delve", "trg": "掘穴"}
+{"src": "Flying", "trg": "飞行"}
+{"src": "{1}, Sacrifice an artifact: Put a +1/+1 counter on Syndicate Trafficker.", "trg": "{1}，牺牲一个神器：在集团私贩上放置一个+1/+1指示物。"}
+{"src": "Whenever Armored Skyhunter attacks, look at the top six cards of your library.", "trg": "每当武装空猎者攻击时，检视你牌库顶的六张牌。"}
+{"src": "{W}{U}{B}{R}{G}, {T}: Return target enchantment card from your graveyard to the battlefield.", "trg": "{W}{U}{B}{R}{G}，{T}：将目标结界牌从你的坟墓场移回战场。"}
+{"src": "Whenever another creature you control dies, draw a card if it was attacking.", "trg": "每当另一个由你操控的生物死去时，如果它正进行攻击，则抓一张牌。"}
+{"src": "If you cast this spell during your main phase, instead that player draws four cards, then discards two cards.", "trg": "如果你在你的行动阶段使用此咒语，则改为该牌手抓四张牌，然后弃两张牌。"}
+{"src": "Target creature gets -5/-5 until end of turn.", "trg": "目标生物得-5/-5直到回合结束。"}
+{"src": "Look at the top card of your library.", "trg": "检视你牌库顶的牌。"}
+{"src": "Whenever you cast your second spell each turn, exile up to one target creature you control, then return it to the battlefield under its owner's control.", "trg": "每当你施放每回合中你的第二个咒语时，放逐至多一个目标由你操控的生物，然后将它在其拥有者的操控下移回战场。"}
+{"src": "{X}: Destroy each nonland permanent with mana value X whose controller was dealt combat damage by Steel Hellkite this turn.", "trg": "{X}：对本回合已受到钢铁残虐者之战斗伤害的玩家而言，消灭所有由他操控、且总法术力费用为X的非地永久物。"}
+{"src": "• Look at the top X cards of your library.", "trg": "•检视你牌库顶的X张牌。"}
+{"src": "{5}{B}: Return Death Tyrant from your graveyard to the battlefield tapped.", "trg": "{5}{B}：将死亡暴君从你的坟墓场横置移回战场。"}
+{"src": "Flying", "trg": "飞行"}
+{"src": "At the beginning of your upkeep, put a knowledge counter on The Magic Mirror, then draw a card for each knowledge counter on The Magic Mirror.", "trg": "在你的维持开始时，在魔法明镜上放置一个知识指示物，然后魔法明镜上每有一个知识指示物，便抓一张牌。"}
+{"src": "Whenever Thriving Grubs attacks, you may pay {E}{E}.", "trg": "每当强旺幼灵攻击时，你可以支付{E}{E}。"}
+{"src": "If a creature would deal combat damage to Ironscale Hydra, prevent that damage and put a +1/+1 counter on Ironscale Hydra.", "trg": "如果某生物将对铁鳞多头龙造成战斗伤害，则防止该伤害且在铁鳞多头龙上放置一个+1/+1指示物。"}
+{"src": "Mutate {1}{W/U}{R}{R} ", "trg": "合变{1}{W/U}{R}{R}"}
+{"src": "That creature loses flying until end of turn.", "trg": "该生物失去飞行异能直到回合结束。"}
+{"src": "At the beginning of your upkeep, look at the top card of your library.", "trg": "在你的维持开始时，检视你的牌库顶牌。"}
+{"src": "It's an artifact with \"{T}: Add {C}. This mana can't be spent to cast a nonartifact spell.\"", "trg": "它是具有\"{T}：加{C}。此法术力不能用来施放非神器咒语\"的神器。"}
+{"src": "Enchant creature", "trg": "结附于生物"}
+{"src": "If you do, create a 2/2 black Zombie Berserker creature token, then attach Draugr's Helm to it.", "trg": "若你如此作，则派出一个2/2黑色灵俑／狂战士衍生生物，然后将尸鬼头盔装备于其上。"}
+{"src": "{3}{G}: Until end of turn, Werewolf Pack Leader has base power and toughness 5/3, gains trample, and isn't a Human.", "trg": "{3}{G}：直到回合结束，狼人群首领的基础力量与防御力为5/3，获得践踏异能，且不是人类。"}
+{"src": "Whenever Svyelun attacks, draw a card.", "trg": "每当希亚尔攻击时，抓一张牌。"}
+{"src": "When Separatist Voidmage enters the battlefield, you may return target creature to its owner's hand.", "trg": "当独立派销法师进战场时，你可以将目标生物移回其拥有者手上。"}
+{"src": "You gain 3 life for each harvest vote.", "trg": "你获得若干生命，其数量等同于投票选择\"丰收\"之总票数的三倍。"}
+{"src": "You may cast that exiled card without paying its mana cost.", "trg": "你可以施放所放逐的牌，且不需支付其法术力费用。"}
+{"src": "You may cast this card from your graveyard for its escape cost.", "trg": "你可以从你的坟墓场施放此牌，并支付其逸脱费用。"}
+{"src": "Each copy targets a different one of those creatures.", "trg": "每个复制品都要以这些生物之一为目标，且不能重复选择。"}
+{"src": "Infect", "trg": "侵染"}
+{"src": "Raid — {3}{R}{R}: Return Repeating Barrage from your graveyard to your hand.", "trg": "突击～{3}{R}{R}：将持续齐射从你的坟墓场移回你手上。"}
+{"src": "At the beginning of each opponent's end step, if that player controls more lands than you, you may search your library for a basic Plains card, put it onto the battlefield tapped, then shuffle.", "trg": "在每位对手的结束步骤开始时，若该牌手操控的地比你多，则你可以从你的牌库中搜寻一张基本的平原牌，将之横置放进战场，然后将你的牌库洗牌。"}
+{"src": "You gain 6 life.", "trg": "你获得6点生命。"}
+{"src": "Whenever enchanted creature attacks, put a +1/+1 counter on it.", "trg": "每当所结附的生物攻击时，在其上放置一个+1/+1指示物。"}
+{"src": "Choose one —", "trg": "选择一项～"}
+{"src": "Green creatures you control get +1/+1.", "trg": "由你操控的绿色生物得+1/+1。"}
+{"src": "Equip only as a sorcery.", "trg": "佩带的时机视同法术。"}
+{"src": "Those tokens gain haste.", "trg": "这些衍生物获得敏捷异能。"}
+{"src": "When Realm Razer leaves the battlefield, return the exiled cards to the battlefield tapped under their owners' control.", "trg": "当夷壤离场时，将所移出对战的牌分别在其拥有者的操控下横置移回场上。"}
+{"src": "At the beginning of enchanted player's upkeep, that player loses 3 life unless they sacrifice a nonland permanent or discard a card.", "trg": "在所结附的牌手维持开始时，除非该牌手牺牲一个非地永久物或弃一张牌，否则便失去3点生命。"}
+{"src": "At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.", "trg": "在你的维持开始时，在此永久物上放置一个岁月指示物，然后除非你为其上每个岁月指示物各支付其维持费用，否则牺牲之。"}
+{"src": "Essence Extraction deals 3 damage to target creature and you gain 3 life.", "trg": "萃取菁华对目标生物造成3点伤害且你获得3点生命。"}
+{"src": "Put a +1/+1 counter on it for each land you had enter the battlefield under your control this turn.", "trg": "在其上放置若干+1/+1指示物，其数量等同于本回合中在你操控下进战场的地数量。"}
+{"src": "Untap that creature.", "trg": "重置该生物。"}
+{"src": "{1}: Attach to target creature you control.", "trg": "{1}：装备在目标由你操控的生物上。"}
+{"src": "Flying", "trg": "飞行"}
+{"src": "Flying", "trg": "飞行"}
+{"src": "At the beginning of combat on your turn, you may choose two.", "trg": "在你回合的战斗开始时，你可以选择两项。"}
+{"src": "Put the rest on the bottom of your library in a random order.", "trg": "将其余的牌以随机顺序置于你的牌库底。"}
+{"src": "Eternalize only as a sorcery.", "trg": "永生的时机视同法术。"}
+{"src": "Whenever you cast a creature spell with one of the chosen names, you may search your library for a creature card with the other chosen name, reveal it, put it into your hand, then shuffle.", "trg": "每当你施放具这两者之间任一名称的生物咒语时，你可以从你的牌库中搜寻一张具这两者之间另一名称的生物牌，展示该牌，将它置于你手上，然后将你的牌库洗牌。"}
+{"src": "Players dealt combat damage by this creature also get a poison counter.", "trg": "受此生物战斗伤害的牌手还会得到一个中毒指示物。"}
+{"src": "When Spell Queller leaves the battlefield, the exiled card's owner may cast that card without paying its mana cost.", "trg": "当镇咒灵离开战场时，所放逐之牌的拥有者可以施放该牌，且不需支付其法术力费用。"}
+{"src": "Delirium — This spell costs {2} less to cast if there are four or more card types among cards in your graveyard.", "trg": "躁狂～如果你坟墓场中牌的类别有四种或更多，则薄暮餮客减少{2}来施放。"}
+{"src": "Enchanted creature gets +2/+1 and has \"{S}: This creature can't be blocked this turn except by snow creatures.\"", "trg": "受此结界的生物得+2/+1并具有\"{S}：此生物本回合中只能被雪境生物阻挡。\""}
+{"src": "−3: Draw two cards.", "trg": "−3：抓两张牌。"}
+{"src": "{T}: Add {U}{B}.", "trg": "{T}：加{U}{B}到你的法术力池中。"}
+{"src": "Sacrifice after III.", "trg": "到III后牺牲之。"}
+{"src": "When Ghirapur Gearcrafter enters the battlefield, create a 1/1 colorless Thopter artifact creature token with flying.", "trg": "当吉拉波机械匠进战场时，将一个1/1无色，具飞行异能的振翼机衍生神器生物放进战场。"}
+{"src": "Vigilance", "trg": "警戒"}
+{"src": "Rather than cast this card from your hand, you may pay {1}{U} and exile it with four time counters on it.", "trg": "除了从你手上使用此牌，你可以支付{1}{U}并将此牌移出对战，且上面有四个计时指示物。"}
+{"src": "Exile up to one target artifact, up to one target creature, up to one target enchantment, up to one target planeswalker, and/or up to one target land.", "trg": "放逐至多一个目标神器，至多一个目标生物，至多一个目标结界，至多一个目标鹏洛客和／或至多一个目标地。"}
+{"src": "You may exile a creature card from among the cards milled this way.", "trg": "你可以从以此法磨掉的牌中放逐一张生物牌。"}
+{"src": "Adamant — If at least three white mana was spent to cast this spell, Ardenvale Paladin enters the battlefield with a +1/+1 counter on it.", "trg": "固色～如果施放此咒语时支付过至少三点白色法术力，则雅登瓦神圣武士进战场时上面有一个+1/+1指示物。"}
+{"src": "{T}: Draw a card.", "trg": "{T}：抓一张牌。"}
+{"src": "When Exhibition Magician enters the battlefield, choose one —", "trg": "当登台魔术师进战场时，选择一项～"}
+{"src": "Landfall — Whenever a land enters the battlefield under your control, tap target creature an opponent controls.", "trg": "地落～每当一个地在你的操控下进战场时，横置目标由对手操控的生物。"}
+{"src": "I, II, III — Until end of turn, target creature gains trample and gets +X/+0, where X is the number of lore counters on The Triumph of Anax.", "trg": "I, II, III — 直到回合结束，目标生物获得践踏异能且得+X/+0，X为阿纳克斯凯旋志上的学问指示物数量。"}
+{"src": "• Target opponent sacrifices a creature or planeswalker they control with the highest mana value among creatures and planeswalkers they control.", "trg": "•目标对手牺牲一个由其操控的生物或鹏洛客，且须是由其操控的生物和鹏洛客中法术力值最大者。"}
+{"src": "Ronom Serpent can't attack unless defending player controls a snow land.", "trg": "除非防御牌手操控雪境地，否则若纳巨蛇不能攻击。"}
+{"src": "Garrison Sergeant has double strike as long as you control a Gate.", "trg": "只要你操控门，驻防地军士长便具有连击异能。"}
+{"src": "Activate only during your upkeep.", "trg": "你只可以于你的维持中使用此异能。"}
+{"src": "Draw three cards.", "trg": "抓三张牌。"}
+{"src": "You may cast this card face down as a 2/2 creature for {3}.", "trg": "你可牌面朝下地施放此牌并支付{3}，将其当成2/2生物。"}
+{"src": "{T}: Add {W} or {U}.", "trg": "{T}：加{W}或{U}。"}
+{"src": "Another player can pay up to {3} of this spell's cost.", "trg": "另一位牌手能够为此咒语的费用支付至多{3}。"}
+{"src": "Enchanted creature has lifelink.", "trg": "所结附的生物具有系命异能。"}
+{"src": "Players dealt combat damage by this creature also get a poison counter.", "trg": "受此生物战斗伤害的牌手还会得到一个中毒指示物。"}
+{"src": "Scry 1.", "trg": "占卜1。"}
+{"src": "{2}{U}: Put an hour counter on Midnight Clock.", "trg": "{2}{U}：在午夜怪钟上放置一个时刻指示物。"}
+{"src": "Crew 3", "trg": "搭载3"}
+{"src": "When you do, Hypothesizzle deals 4 damage to target creature.", "trg": "当你如此作时，破颅假想对目标生物造成4点伤害。"}
+{"src": "Take an extra turn after this one.", "trg": "于本回合后进行额外的一个回合。"}
+{"src": "{B}, Sacrifice a creature: Target creature gets -1/-1 until end of turn.", "trg": "{B}，牺牲一个生物：目标生物得-1/-1直到回合结束。"}
+{"src": "Sacrifice after III.", "trg": "到III后牺牲之。"}
+{"src": "If it's an artifact, creature, or land card, you may put it onto the battlefield with a manifestation counter on it.", "trg": "如果它是神器、生物或地牌，你可以将之放进战场且上面有一个具现指示物。"}
+{"src": "{2}{U}, Sacrifice Surgical Skullbomb: Return target creature to its owner's hand.", "trg": "{2}{U}，牺牲外展骨击弹：将目标生物移回其拥有者手上。"}
+{"src": "20 | X is three.", "trg": "20 | X为三。"}
+{"src": "Imprint — When Semblance Anvil enters the battlefield, you may exile a nonland card from your hand.", "trg": "压印～当近貌铁砧进战场时，你可以从你手上放逐一张非地牌。"}
+{"src": "Flying, vigilance", "trg": "飞行，警戒"}
+{"src": "You may have Masterwork of Ingenuity enter the battlefield as a copy of any Equipment on the battlefield.", "trg": "你可以使巧手神兵当成战场上任一武具的复制品来进入战场。"}
+{"src": "As an additional cost to cast this spell, pay {4} or sacrifice an artifact or creature.", "trg": "支付{4}或牺牲一个神器或生物，以作为施放此咒语的额外费用。"}
+{"src": "Kicker {3}{B}", "trg": "增幅{3}{B}"}
+{"src": "Whenever Hans Eriksson attacks, reveal the top card of your library.", "trg": "每当汉斯艾力克森攻击时，展示你的牌库顶牌。"}
+{"src": "As an additional cost to cast this spell, you may tap any number of untapped creatures you control.", "trg": "你可以横置任意数量由你操控且未横置的生物，以作为施放此咒语的额外费用。"}
+{"src": "Whenever enchanted creature attacks, put a +1/+1 counter on it.", "trg": "每当所结附的生物攻击时，在其上放置一个+1/+1指示物。"}
+{"src": "Enchanted permanent has hexproof.", "trg": "所结附的永久物具有辟邪异能。"}
+{"src": "Whenever a source you control deals noncombat damage to an opponent, Chandra's Pyreling gets +1/+0 and gains double strike until end of turn.", "trg": "每当一个由你操控的来源向任一对手造成非战斗伤害时，直到回合结束，茜卓的幼火灵得+1/+0且获得连击异能。"}
+{"src": "Exile Harness Infinity.", "trg": "放逐掌驭无垠。"}
+{"src": "Enchanted creature gets -2/-2.", "trg": "所结附的生物得-2/-2。"}
+{"src": "Indestructible", "trg": "不灭"}
+{"src": "{T}: Add {R} or {G}.", "trg": "{T}：加{R}或{G}。"}
+{"src": "Cindervines deals 2 damage to that permanent's controller.", "trg": "烬火藤蔓对该永久物的操控者造成2点伤害。"}
+{"src": "LEVEL 1-2", "trg": "等级1-2"}
+{"src": "Turn it face up any time for its morph cost.", "trg": "可随时支付其变身费用使其翻回正面。"}
+{"src": "{T}: Add {C}.", "trg": "{T}：加{C}到你的法术力池中。"}
+{"src": "If you cast this spell during your main phase, that player discards four cards instead.", "trg": "如果你在你的行动阶段使用此牌，则改为该牌手弃四张牌。"}
+{"src": "It gets +2/+4 and gains reach until end of turn.", "trg": "它得+2/+4且获得延势异能直到回合结束。"}
+{"src": "Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.", "trg": "横置任意数量由你操控且力量总和等于或大于3的生物：此载具成为神器生物直到回合结束。"}
+{"src": "Rather than cast this card from your hand, you may pay {1}{R} and exile it with four time counters on it.", "trg": "除了从你手上使用此牌，你可以支付{1}{R}并将此牌移出对战，且上面有四个计时指示物。"}
+{"src": "Shinen of Fear's Chill can't block.", "trg": "冷颤思念不能进行阻挡。"}
+{"src": "If a creature dealt damage this way would die this turn, exile it instead.", "trg": "如果本回合中曾以此法受到伤害的生物将死去，则改为将它放逐。"}
+{"src": "Draw a card, then discard a card.", "trg": "抓一张牌，然后弃一张牌。"}
+{"src": "You draw X cards and you lose X life, where X is the number of counters on that creature.", "trg": "你抓X张牌且失去X点生命，X为该生物上的指示物数量。"}
+{"src": "−5: Each opponent loses life equal to the number of creature cards in your graveyard.", "trg": "−5：每位对手各失去等同于你坟墓场中生物牌数量的生命。"}
+{"src": "Whenever Depala, Pilot Exemplar becomes tapped, you may pay {X}.", "trg": "每当驾手模范德珀拉成为横置时，你可以支付{X}。"}
+{"src": "Exile the chosen cards.", "trg": "放逐所选之牌。"}
+{"src": "Flying", "trg": "飞行"}
+{"src": "Lands you control have \"{T}: Add one mana of any color.\"", "trg": "由你操控的地具有\"{T}：加一点任意颜色的法术力到你的法术力池中。\""}
+{"src": "Ascend ", "trg": "登殿"}
+{"src": "Put up to one of them on top of your library and the rest on the bottom in a random order.", "trg": "将其中至多一张置于你的牌库顶，其余则以随机顺序置于你的牌库底。"}
+{"src": "They put two +1/+1 counters on a creature they control.", "trg": "他在一个由其操控的生物上放置两个+1/+1指示物。"}
+{"src": "Equip {2}", "trg": "佩带{2}"}
+{"src": "Damage dealt by this creature also causes you to gain that much life.", "trg": "此生物所造成的伤害会让你获得等量的生命。"}
+{"src": "{R}: Target creature with power 2 or less gains haste until end of turn and can't be blocked this turn.", "trg": "{R}：目标力量等于或小于2的生物获得敏捷异能直到回合结束，且本回合不能被阻挡。"}
+{"src": "When Oji, the Exquisite Blade enters the battlefield, you gain 2 life and scry 2.", "trg": "当精刻利刃欧寄进战场时，你获得2点生命且占卜2。"}
+{"src": "If you control creatures named Mine Worker and Tower Worker, put two +1/+1 counters on Power Plant Worker instead.", "trg": "如果你操控名称为矿脉工人和高塔工人的生物，则改为在动力炉工人上放置两个+1/+1指示物。"}
+{"src": "Target player discards two cards.", "trg": "目标牌手弃两张牌。"}
+{"src": "Protection from black and from red", "trg": "反黑保护，反红保护"}
+{"src": "Flash ", "trg": "闪现"}
+{"src": "When Thalia's Lieutenant enters the battlefield, put a +1/+1 counter on each other Human you control.", "trg": "当莎利雅的副官进战场时，在每个由你操控的其他人类上各放置一个+1/+1指示物。"}
+{"src": "Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.", "trg": "每当此生物成为由对手操控之咒语或异能的目标时，除非该牌手支付{2}，否则反击之。"}
+{"src": "This creature can't be blocked except by two or more creatures.", "trg": "此生物只能被两个或更多生物阻挡。"}
+{"src": "A Food token is an artifact with \"{2}, {T}, Sacrifice this artifact: You gain 3 life.\"", "trg": "食品衍生物是具有\"{2}，{T}，牺牲此神器：你获得3点生命\"的神器。"}
+{"src": "If you do, discard that many cards.", "trg": "若你如此作，则弃等量的牌。"}
+{"src": "Ward—Pay 2 life.", "trg": "守护～支付2点生命。"}
+{"src": "Target creature gets +0/+5 and gains reach until end of turn.", "trg": "目标生物得+0/+5且获得延势异能直到回合结束。"}
+{"src": "You may reveal an artifact card from among them and put it into your hand.", "trg": "你可以展示其中一张神器牌并置于你手上。"}
+{"src": "Creatures you control of the chosen color get +1/+1.", "trg": "由你操控的该色生物得+1/+1。"}
+{"src": "Inspired — Whenever Arbiter of the Ideal becomes untapped, reveal the top card of your library.", "trg": "启悟～每当理念仲裁者成为未横置时，展示你的牌库顶牌。"}
+{"src": "Equip only as a sorcery.", "trg": "佩带的时机视同法术。"}
+{"src": "Cycling {1}{G}", "trg": "循环{1}{G}"}
+{"src": "Remove an indestructible counter from Myojin of Towering Might: Distribute eight +1/+1 counters among any number of target creatures you control.", "trg": "从雄力明神上移去一个不灭指示物：将八个+1/+1指示物分配给任意数量目标由你操控的生物。"}
+{"src": "Pharika's Cure deals 2 damage to target creature and you gain 2 life.", "trg": "芳瑞卡的医治对目标生物造成2点伤害，且你获得2点生命。"}
+{"src": "{B}: Evolved Sleeper becomes a Human Cleric with base power and toughness 2/2.", "trg": "{B}：进化潜探成为基础力量与防御力为2/2的人类／僧侣。"}
+{"src": "{4}{R}{R}, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able.", "trg": "{4}{R}{R}，从你的坟墓场放逐此牌：为每位对手各进行以下流程～派出一个衍生复制品，且其本回合若能攻击该对手，便须如此作。"}
+{"src": "A copy of a permanent spell becomes a token.", "trg": "以此法施放的永久物咒语会成为衍生物。"}
+{"src": "Whenever another nontoken Dragon enters the battlefield under your control, create a token that's a copy of it, except the token isn't legendary.", "trg": "每当另一个非衍生物的龙在你操控下进战场时，派出一个衍生物，此衍生物为前者的复制品，但如果该龙是传奇，则此衍生物不是传奇。"}
+{"src": "Whenever you cast a spell, creatures you control can't be the targets of spells or abilities your opponents control this turn.", "trg": "当你使用任一咒语时，由你操控的生物本回合中不能成为由对手操控之咒语或异能的目标。"}
+{"src": "Counter target noncreature spell.", "trg": "反击目标非生物咒语。"}
+{"src": "You may choose new targets for the copy.", "trg": "你可以为该复制品选择新的目标。"}
+{"src": "+2: Look at the top card of target player's library.", "trg": "+2：检视目标牌手的牌库顶牌。"}
+{"src": "This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.", "trg": "此生物会以-1/-1指示物的方式对生物造成伤害，并以中毒指示物的方式对牌手造成伤害。"}
+{"src": "{T}, Sacrifice a creature: Proliferate.", "trg": "{T}，牺牲一个生物：增殖。"}
+{"src": "You may play an additional land this turn.", "trg": "本回合中，你可以额外使用一个地。"}
+{"src": "Devoid ", "trg": "虚色"}
+{"src": "Defender ", "trg": "守军"}
+{"src": "When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.", "trg": "当此生物从场上置入坟墓场时，若其上没有-1/-1指示物，则将它在其拥有者的操控下返回场上，且其上有一个-1/-1指示物。"}
+{"src": "Enchanted creature has \"Whenever this creature attacks, it deals X damage to defending player, where X is the number of cards in their hand.\"", "trg": "所结附的生物具有\"每当此生物攻击时，它对防御牌手造成X点伤害，X为其手牌数量。\""}
+{"src": "As an additional cost to cast this spell, pay 5 life or sacrifice a creature or enchantment.", "trg": "支付5点生命或牺牲一个生物或结界，以作为施放此咒语的额外费用。"}
+{"src": "Scry 3.", "trg": "占卜3。"}
+{"src": "This spell can't be countered.", "trg": "搞破坏不能被咒语或异能反击。"}
+{"src": "{3}, {T}: Exile target instant or sorcery spell that targets you.", "trg": "{3}，{T}：将目标以你为目标的瞬间或法术咒语移出对战。"}
+{"src": "Target creature gets +2/+2 until end of turn.", "trg": "目标生物得+2/+2直到回合结束。"}
+{"src": "When Abzan Skycaptain dies, bolster 2.", "trg": "当阿布赞空队长死去时，振励2。"}
+{"src": "Shredding Winds deals 7 damage to target creature with flying.", "trg": "裂碎之风对目标具飞行异能的生物造成7点伤害。"}
+{"src": "Skipped chapters don't trigger.", "trg": "跳过的章节不会触发。"}
+{"src": "You may put that card on the bottom of your library.", "trg": "你可以将该牌置于你的牌库底。"}
+{"src": "When the last is removed, cast it without paying its mana cost.", "trg": "当移去最后一个时，施放它且不需支付其法术力费用。"}
+{"src": "This creature enters the battlefield with three +1/+1 counters on it.", "trg": "它进场时上面有三个+1/+1指示物。"}
+{"src": "When the last is removed, cast it without paying its mana cost.", "trg": "当移去最后一个时，则使用它且不需支付其法术力费用。"}
+{"src": "Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.", "trg": "每当一个由你操控的生物单独攻击时，该生物得+1/+1直到回合结束。"}
+{"src": "{1}{R}{R}: Put a blaze counter on target land without a blaze counter on it.", "trg": "{1}{R}{R}：在目标不具火灾指示物的地上放置一个火灾指示物。"}
+{"src": "Giant spells you cast cost {2} less to cast.", "trg": "你使用的巨人咒语费用减少{2}来使用。"}
+{"src": "If you do, put a +1/+1 counter on it.", "trg": "若你如此作，则在其上放置一个+1/+1指示物。"}
+{"src": "When Archaeomancer's Map enters the battlefield, search your library for up to two basic Plains cards, reveal them, put them into your hand, then shuffle.", "trg": "当古语术士地图进战场时，从你的牌库中搜寻至多两张基本的平原牌，展示这些牌，将它们置于你手上，然后洗牌。"}
+{"src": "Whenever Dazzling Sphinx deals combat damage to a player, that player exiles cards from the top of their library until they exile an instant or sorcery card.", "trg": "每当炫目史芬斯对任一牌手造成战斗伤害时，该牌手从其牌库顶开始放逐牌，直到放逐一张瞬间或法术牌为止。"}
+{"src": "{2}{U}{R}: Until end of turn, Wandering Fumarole becomes a 1/4 blue and red Elemental creature with \"{0}: Switch this creature's power and toughness until end of turn.\" It's still a land.", "trg": "{2}{U}{R}：直到回合结束，漫游喷发孔成为1/4蓝红双色的元素生物，且具有\"{0}：将此生物的力量与防御力互换直到回合结束。\"它仍然是地。"}
+{"src": "Target player mills that many cards.", "trg": "目标牌手将其牌库顶等量的牌置入其坟墓场。"}
+{"src": "If you control a Nissa planeswalker, you gain 2 life.", "trg": "如果你操控妮莎鹏洛客，则你获得2点生命。"}
+{"src": "Outlast {1}{W}", "trg": "延生{1}{W}"}
+{"src": "Until the end of your next turn, you may play those cards.", "trg": "直到你下一个回合的回合结束，你可以使用这些牌。"}
+{"src": "If you do, add this card's effects to that spell.", "trg": "若你如此作，则将此牌的效应加入该咒语中。"}
+{"src": "At the beginning of your upkeep, put a +1/+1 counter on enchanted creature.", "trg": "在你的维持开始时，在所结附的生物上放置一个+1/+1指示物。"}
+{"src": "When Path to the World Tree enters the battlefield, search your library for a basic land card, reveal it, put it into your hand, then shuffle.", "trg": "当世界树径路进战场时，从你的牌库中搜寻一张基本地牌，展示该牌，将它置于你手上，然后将你的牌库洗牌。"}
+{"src": "Golem creatures you control have trample.", "trg": "由你操控的魔像生物具有践踏异能。"}
+{"src": "Other Knight creatures you control get +1/+1 and have indestructible.", "trg": "由你操控的其他骑士生物得+1/+1且不会毁坏。"}
+{"src": "Target player sacrifices a creature or planeswalker.", "trg": "目标牌手牺牲一个生物或鹏洛客。"}
+{"src": "Draw a card.", "trg": "抓一张牌。"}
+{"src": "Lifelink", "trg": "系命"}
+{"src": "Ward {2} ", "trg": "守护{2}"}
+{"src": "The blitz cost is equal to its mana cost.", "trg": "其急袭费用等同于其法术力费用。"}
+{"src": "As long as Geist Trappers is paired with another creature, both creatures have reach.", "trg": "只要捕游魂师与另一生物搭档，此两者便具有延势异能。"}
+{"src": "During your turn, you may pay {2} and exile this card from your hand face down.", "trg": "在你的回合中，你可以支付{2}并从你手上牌面朝下地放逐此牌。"}
+{"src": "When Jedit's Dragoons enters the battlefield, you gain 4 life.", "trg": "当杰迪的重装兵进场时，你获得4点生命。"}
+{"src": "Scry 1.", "trg": "占卜1。"}
+{"src": "Reach", "trg": "延势"}
+{"src": "Choose any number of permanents and/or players, then give each another counter of each kind already there.", "trg": "选择任意数量的永久物和／或牌手，然后为其已有之每种指示物各多放置一个同类的指示物。"}
+{"src": "Matter Absorption — Whenever an artifact is put into a graveyard from the battlefield or is put into exile from the battlefield, put two +1/+1 counters on Shard of the Void Dragon.", "trg": "物质吸收～每当一个神器从战场进入坟墓场或放逐区时，在虚空龙碎片上放置两个+1/+1指示物。"}
+{"src": "Manifest the top card of your library.", "trg": "显化你的牌库顶牌。"}
+{"src": "You and that player each sacrifice a creature.", "trg": "你和该牌手各牺牲一个生物。"}
+{"src": "As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost.", "trg": "于你使用古咒咒语时，你可以从你的手上展示此牌，并支付其通联费用。"}
+{"src": "{T}: Add {C}.", "trg": "{T}：加{C}。"}
+{"src": "Return Plague Reaver to the battlefield under that player's control at the beginning of their next upkeep.", "trg": "在他的下一个维持开始时，将疫病裂肢兽在该牌手的操控下移回战场。"}
+{"src": "{T}: Add {C}.", "trg": "{T}：加{C}。"}
+{"src": "Activate only as a sorcery.", "trg": "只可以于你能施放法术的时机下起动此异能。"}
+{"src": "{T}: Add {R}, {G}, or {W}.", "trg": "{T}：加{R}，{G}或{W}。"}
+{"src": "Cipher", "trg": "暗码"}
+{"src": "Whenever one or more creatures you control deal combat damage to a player, you may return one of them to its owner's hand.", "trg": "每当由你操控的一个或数个生物对任一牌手造成战斗伤害时，你可以将其中一个移回其拥有者手上。"}
+{"src": "If it's an Elf, create two 1/1 green Elf Warrior creature tokens.", "trg": "如果它是妖精，则派出两个1/1绿色妖精／战士衍生生物。"}
+{"src": "When Purity is put into a graveyard from anywhere, shuffle it into its owner's library.", "trg": "当纯洁从任何地方置入坟墓场时，将它洗入其拥有者的牌库。"}
+{"src": "Evolve ", "trg": "进化"}
+{"src": "Other creatures you control get +1/+1.", "trg": "由你操控的其他生物得+1/+1。"}
+{"src": "You may put that card into your graveyard.", "trg": "你可以将该牌置入你的坟墓场。"}
+{"src": "Create an X/X black and green Spirit Warrior creature token, where X is the greatest toughness among creatures you control.", "trg": "将一个X/X，黑绿双色的精怪／战士衍生生物放进战场，X为由你操控的生物中防御力最大者的数值。"}
+{"src": "You may reveal a creature or enchantment card from among them and put it into your hand.", "trg": "你可以展示其中的一张生物或结界牌，并将它置于你手上。"}
+{"src": "When Circle of Confinement enters the battlefield, exile target creature an opponent controls with mana value 3 or less until Circle of Confinement leaves the battlefield.", "trg": "当拘禁牢环进战场时，放逐目标由对手操控且法术力值等于或小于3的生物，直到拘禁牢环离开战场为止。"}
+{"src": "If it doesn't have suspend, it gains suspend.", "trg": "如果它原本不具有延缓，则它获得延缓异能。"}
+{"src": "You may cast this card any time you could cast an instant.", "trg": "你可以于你能够施放瞬间的时机下施放此牌。"}
+{"src": "Put the top card of your library into your graveyard.", "trg": "将你牌库顶的一张牌置入你的坟墓场。"}
+{"src": "At the beginning of combat on your turn, exile target red, white, or black creature card from your graveyard.", "trg": "在你回合的战斗开始时，将目标红色，白色或黑色生物牌从你的坟墓场放逐。"}
+{"src": "You may choose new targets for the copy.", "trg": "你可以为该复制品选择新的目标。"}
+{"src": "If you cast this card for its bestow cost, it's an Aura spell with enchant creature.", "trg": "如果你支付此牌的神授费用来施放它，则它便是具\"结附于生物\"的灵气咒语。"}
+{"src": "Target creature gets +1/+0 and gains flying and first strike until end of turn.", "trg": "目标生物得+1/+0且获得飞行与先攻异能直到回合结束。"}
+{"src": "At the beginning of your upkeep, put a -1/-1 counter on each nonblack creature.", "trg": "在你的维持开始时，在每个非黑色生物上各放置一个-1/-1指示物。"}
+{"src": "{2}, Sacrifice Neverwinter Dryad: Search your library for a basic Forest card, put it onto the battlefield tapped, then shuffle.", "trg": "{2}，牺牲绝冬之森树精：从你的牌库中搜寻一张基本的树林牌，将之横置放进战场，然后洗牌。"}
+{"src": "When you proliferate, return Voidwing Hybrid from your graveyard to your hand.", "trg": "当你增殖时，将虚翼杂蝠从你的坟墓场移回你手上。"}
+{"src": "Put those cards into your hand and the rest on the bottom of your library in a random order.", "trg": "将这些牌置于你手上，其余则以随机顺序置于你的牌库底。"}
+{"src": "{5}{G}{W}{U}, Discard this card: Draw a card.", "trg": "{5}{G}{W}{U}，弃掉此牌：抓一张牌。"}
+{"src": "When Dreadhorde Twins enters the battlefield, amass 2.", "trg": "当震惧军双子进战场时，囤兵2。"}
+{"src": "{T}: Add {G} or {W}.", "trg": "{T}：加{G}或{W}。"}
+{"src": "{T}, Pay 2 life: Until end of turn, you may cast a creature spell from among cards exiled with Serpent's Soul-Jar.", "trg": "{T}，支付2 点生命：直到回合结束，你可以从以盘蛇魂瓶放逐的牌中施放一个生物咒语。"}
+{"src": "Flying", "trg": "飞行"}
+{"src": "If it's a Warrior, it gets +2/+1 instead.", "trg": "如果它是战士，则改为它得+2/+1。"}
+{"src": "If no player does, you draw three cards.", "trg": "如果没有牌手如此选择，则你抓三张牌。"}
+{"src": "Double strike, vigilance, haste", "trg": "连击，警戒，敏捷"}
+{"src": "Whenever you cast a creature spell that doesn't share a creature type with a creature you control or a creature card in your graveyard, copy that spell.", "trg": "每当你施放与由你操控的生物或你坟墓场中之生物牌均不具共通生物类别的生物咒语时，复制该咒语。"}
+{"src": "{T}: Choose one.", "trg": "{T}：选择一项。"}
+{"src": "Damage dealt by the creature also causes its controller to gain that much life.", "trg": "此生物所造成的伤害会让其操控者获得等量的生命。"}
+{"src": "Cleave {X}{R}{W} ", "trg": "贯通{X}{R}{W}"}
+{"src": "When Sea Gate Oracle enters the battlefield, look at the top two cards of your library.", "trg": "当海户先知进战场时，检视你牌库顶的两张牌。"}
+{"src": "Choose one of them.", "trg": "选择其中一张。"}
+{"src": "Activate only if you control four or more snow permanents.", "trg": "你只可以于你操控四个或更多雪境永久物时使用此异能。"}
+{"src": "{T}: Add {B}.", "trg": "{T}：加{B}到你的法术力池中。"}
+{"src": "{3}{B}{B}, {T}, Sacrifice another Cleric: Search your library for a black creature card, put it onto the battlefield, then shuffle.", "trg": "{3}{B}{B}，{T}，牺牲另一个僧侣：从你牌库中搜寻一张黑色生物牌，将之放进战场，然后洗牌。"}
+{"src": "Activate only once each turn.", "trg": "每回合只能起动一次。"}
+{"src": "{10}: Monstrosity 10.", "trg": "{10}：蛮化10。"}
+{"src": "{2}, Discard this card: Draw a card.", "trg": "{2}，弃掉此牌：抓一张牌。"}
+{"src": "You may put a Human creature card from among them onto the battlefield tapped and attacking.", "trg": "你可以将其中一张人类生物牌放进战场，其为横置且正进行攻击。"}
+{"src": "Tap four untapped creatures you control: Destroy target artifact or enchantment.", "trg": "横置四个由你操控且未横置的生物：消灭目标神器或结界。"}
+{"src": "As long as there are five or more mana values among cards in your graveyard, Aven Heartstabber gets +2/+2 and has deathtouch.", "trg": "只要你坟墓场中牌的法术力值有五种或更多，刺心艾文便得+2/+2且具有死触异能。"}
+{"src": "Exile that card.", "trg": "放逐该牌。"}
+{"src": "Target creature gets -5/-0 until end of turn.", "trg": "目标生物得-5/-0直到回合结束。"}
+{"src": "Belligerent Hatchling enters the battlefield with four -1/-1 counters on it.", "trg": "好斗幼雏进场时上面有四个-1/-1指示物。"}
+{"src": "Return it only if it's on the battlefield.", "trg": "若它在场，才将其移回手上"}
+{"src": "As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost.", "trg": "于你使用古咒咒语时，你可以从你的手上展示此牌，并支付其通联费用。"}
+{"src": "Enchant land", "trg": "地结界"}
+{"src": "Enchant creature", "trg": "生物结界"}
+{"src": "Put the exiled cards on the bottom of your library in a random order.", "trg": "将所放逐的牌以随机顺序置于你的牌库底。"}
+{"src": "Devoid ", "trg": "虚色"}
+{"src": "Until your next turn, spells with the chosen name can't be cast and lands with the chosen name can't be played.", "trg": "直到你的下一个回合，该牌都不能使用。"}
+{"src": "Whenever Yidris, Maelstrom Wielder deals combat damage to a player, as you cast spells from your hand this turn, they gain cascade.", "trg": "每当涡心法师依吉对任一牌手造成战斗伤害时，对你从你手上施放的咒语而言，它于你本回合中你如此施放时获得倾曳异能。"}
+{"src": "Return target permanent card from your graveyard to your hand.", "trg": "将目标永久物牌从你的坟墓场移回你手上。"}
+{"src": "When Howl of the Hunt enters the battlefield, if enchanted creature is a Wolf or Werewolf, untap that creature.", "trg": "当狩猎威嚎进战场时，若所结附的生物是狼或狼人，则重置该生物。"}
+{"src": "Deathtouch", "trg": "死触"}
+{"src": "Activated abilities cost {2} more to activate unless they're mana abilities.", "trg": "除了法术力异能之外，起动式异能的费用增加{2}来使用。"}
+{"src": "Return target creature card from your graveyard to the battlefield.", "trg": "将目标生物牌从你的坟墓场移回战场。"}
+{"src": "This spell costs {3} less to cast if you control a Giant.", "trg": "如果你操控巨人，则此咒语减少{3}来施放。"}
+{"src": "LEVEL 1-3", "trg": "等级1-3"}
+{"src": "When this creature enters the battlefield, target player may put Virtus into their hand from their library, then shuffle.", "trg": "当此生物进战场时，目标牌手可以将维特兹从其牌库置于其手上，然后洗牌。"}
+{"src": "When it attacks, sacrifice it at end of combat.", "trg": "当它攻击，在战斗结束时将它牺牲。"}
+{"src": "Level up only as a sorcery.", "trg": "升级的时机视同法术。"}
+{"src": "Whenever an opponent discards a card, you may gain 3 life.", "trg": "每当一位对手弃一张牌时，你可以获得3点生命。"}
+{"src": "Whenever a spell or ability you control counters a spell, you may create a 1/1 blue Merfolk creature token.", "trg": "每当由你操控的一个咒语或异能反击一个咒语时，你可以将一个1/1蓝色人鱼衍生物放进战场。"}
+{"src": "Add one after your draw step.", "trg": "于你抓牌步骤后再加一个。"}
+{"src": "Other red creatures you control get +1/+1.", "trg": "由你操控的其他红色生物得+1/+1。"}
+{"src": "Silverbluff Bridge enters the battlefield tapped.", "trg": "银崖结桥须横置进战场。"}
+{"src": "{3}{R}, Sacrifice Font of Ire: It deals 5 damage to target player or planeswalker.", "trg": "{3}{R}，牺牲愤怒洗礼池：愤怒洗礼池对目标牌手造成5点伤害。"}
+{"src": "{T}, Pay 3 life: Flip a coin.", "trg": "{T}，支付3点生命：掷一枚硬币。"}
+{"src": "As long as enchanted creature is black, it gets +2/+1.", "trg": "只要受此结界的生物是黑色，它便得+2/+1。"}
+{"src": "• Discard a card.", "trg": "•弃一张牌。"}
+{"src": "When Tivadar of Thorn enters the battlefield, destroy target Goblin.", "trg": "当荆城的提瓦达进场时，消灭目标精灵。"}
+{"src": "Rielle, the Everwise gets +1/+0 for each instant and sorcery card in your graveyard.", "trg": "你坟墓场中每有一张瞬间与法术牌，全知利艾尔便得+1/+0。"}
+{"src": "Exile Pull from the Deep.", "trg": "放逐深海捕捞。"}
+{"src": "Until end of turn, creatures you control get +1/+1 and gain haste.", "trg": "直到回合结束，由你操控的生物得+1/+1且获得敏捷异能。"}
+{"src": "Whenever you cast a colorless spell, Sky Scourer gets +1/+0 until end of turn.", "trg": "每当你施放无色咒语时，荡空奴兽得+1/+0直到回合结束。"}
+{"src": "Trample", "trg": "践踏"}
+{"src": "Flying", "trg": "飞行"}
+{"src": "Destroy target attacking or blocking creature.", "trg": "消灭目标进行攻击或阻挡的生物。"}
+{"src": "Flying", "trg": "飞行"}
+{"src": "Flying, deathtouch", "trg": "飞行，死触"}
+{"src": "Until end of turn, target creature gets +2/+0 and gains \"When this creature dies or is put into exile from the battlefield, return it to its owner's hand.\"", "trg": "直到回合结束，目标生物得+2/+0且获得\"当此生物死去或从战场进入放逐区时，将它移回其拥有者手上。\""}
+{"src": "{T}: Untap target attacking creature.", "trg": "{T}：重置目标进行攻击的生物。"}
+{"src": "Partner", "trg": "拍档"}
+{"src": "Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.", "trg": "每当此生物成为由对手操控之咒语或异能的目标时，除非该牌手支付{3}，否则反击之。"}
+{"src": "If that creature is an enchantment, Starfall deals 3 damage to that creature's controller.", "trg": "如果该生物是结界，则星坠击对该生物的操控者造成3点伤害。"}
+{"src": "Grakmaw, Skyclave Ravager enters the battlefield with three +1/+1 counters on it.", "trg": "空境噬怪血盆口进战场时上面有三个+1/+1指示物。"}
+{"src": "You may cast this card face down as a 2/2 creature for {3}.", "trg": "你可牌面朝下地施放此牌并支付{3}，将其当成2/2生物。"}
+{"src": "This creature deals combat damage before creatures without first strike.", "trg": "此生物会比不具先攻异能的生物提前造成战斗伤害。"}
+{"src": "This land enters the battlefield with a +1/+1 counter on it.", "trg": "此地进场时上面有一个+1/+1指示物。"}
+{"src": "When Rise of the Hobgoblins enters the battlefield, you may pay {X}.", "trg": "当大精灵涌现进场时，你可以支付{X}。"}
+{"src": "Defender", "trg": "守军"}
+{"src": "{T}, Sacrifice an Island: Create a 2/2 blue Elemental creature token with flying.", "trg": "{T}，牺牲一个海岛：将一个2/2蓝色，具有飞行异能的元素衍生物放置进场。"}
+{"src": "{1}{R}: Creatures without defender can't block Sabertooth Alley Cat this turn.", "trg": "{1}{R}：本回合中，不具守军异能的生物不能阻挡剑齿流浪猫。"}
+{"src": "Cast it on a later turn for its foretell cost.", "trg": "过了该回合后，便可利用其预示费用来施放之。"}
+{"src": "{1}{W}: Create a 4/4 white Angel creature token with flying.", "trg": "{1}{W}：将一个4/4白色，具飞行异能的天使衍生物放进战场。"}
+{"src": "As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.", "trg": "只要此咒语在堆叠上，牌手便不能施放咒语或起动不是法术力异能的异能。"}
+{"src": "If you do, draw a card.", "trg": "若你如此作，则抓一张牌。"}
+{"src": "If that cost wasn't paid, you draw X cards.", "trg": "如果并非支付此费用，则你抓X张牌。"}
+{"src": "At the beginning of your upkeep, remove a time counter.", "trg": "在你的维持开始时，从其上移去一个计时指示物。"}
+{"src": "Infect ", "trg": "侵染 "}
+{"src": "Coven — At the beginning of your end step, if you control three or more creatures with different powers, put a +1/+1 counter on target creature you control.", "trg": "鸠集～在你的结束步骤开始时，若你操控三个或更多力量各不相同的生物，在目标由你操控的生物上放置一个+1/+1指示物。"}
+{"src": "Crew 3", "trg": "搭载3"}
+{"src": "Then if you have more life than an opponent, draw a card.", "trg": "然后如果你的生命比某位对手多，则抓一张牌。"}
+{"src": "Flames of the Firebrand deals 3 damage divided as you choose among one, two, or three targets.", "trg": "惹事人烈焰对一个，两个，或三个目标生物和／或牌手造成共3点伤害，你可以任意分配。"}
+{"src": "When Azra Smokeshaper enters the battlefield, target creature you control gains indestructible until end of turn.", "trg": "当烟遁亚札人进战场时，目标由你操控的生物获得不灭异能直到回合结束。"}
+{"src": "Whenever Chiss-Goria, Forge Tyrant attacks, exile the top five cards of your library.", "trg": "每当熔炉暴君齐歌利攻击时，放逐你牌库顶的五张牌。"}
+{"src": "{T}: Add {C}.", "trg": "{T}：加{C}到你的法术力池中。"}
+{"src": "Until end of turn, you may play that card and you may spend mana as though it were mana of any color to cast it.", "trg": "直到回合结束，你可以使用该牌，且你可以将法术力视同任意颜色的法术力来支付施放该牌的费用。"}
+{"src": "Equip {2} or {B}", "trg": "佩带{2}或{B}"}
+{"src": "Each one phases in before its controller untaps during their next untap step.", "trg": "各永久物会于其操控者下一个重置步骤重置之前跃回。"}
+{"src": "Counter target spell unless its controller pays {2}.", "trg": "除非目标咒语的操控者支付{2}，否则反击之。"}
+{"src": "When this Equipment enters the battlefield, create a 0/0 black Phyrexian Germ creature token, then attach this to it.", "trg": "当此武具进战场时，将一个0/0黑色病菌衍生生物放进战场，然后将它装备上去。"}
+{"src": "• Form a Party — Look at the top five cards of your library.", "trg": "•组成团队～检视你牌库顶的五张牌。"}
+{"src": "Deathcap Glade enters the battlefield tapped unless you control two or more other lands.", "trg": "除非你操控两个或更多其他地，否则毒蕈林地须横置进战场。"}
+{"src": "Cycling {2} ", "trg": "循环{2}"}
+{"src": "You can't cast noncreature spells.", "trg": "你不能施放非生物咒语。"}
+{"src": "Flash", "trg": "闪现"}
+{"src": "{1}, {T}: Untap another target artifact.", "trg": "{1}，{T}：重置另一个目标神器。"}
+{"src": "At the beginning of your upkeep, remove a time counter from it.", "trg": "在你的维持开始时，从其上移去一个计时指示物。"}
+{"src": "Altar Golem's power and toughness are each equal to the number of creatures on the battlefield.", "trg": "祭坛魔像的力量和防御力各等同于场上生物的数量。"}
+{"src": "+1: You lose 1 life.", "trg": "+1：你失去1点生命。"}
+{"src": "{T}: Add two mana in any combination of colors.", "trg": "{T}：加两点法术力，其颜色组合由你选择。"}
+{"src": "Deathtouch", "trg": "死触"}
+{"src": "Constellation — Whenever Humbler of Mortals or another enchantment enters the battlefield under your control, creatures you control gain trample until end of turn.", "trg": "星彩～每当凡人煞星或另一个结界在你的操控下进战场时，由你操控的生物获得践踏异能直到回合结束。"}
+{"src": "Enchant snow land you control", "trg": "结附于由你操控的雪境地"}
+{"src": "When Plague Belcher enters the battlefield, put two -1/-1 counters on target creature you control.", "trg": "当疫病喷发兽进战场时，在目标由你操控的生物上放置两个-1/-1指示物。"}
+{"src": "When Guardian Shield-Bearer is turned face up, put a +1/+1 counter on another target creature you control.", "trg": "当执盾守护者翻回正面时，在另一个目标由你操控的生物上放置一个+1/+1指示物。"}
+{"src": "Untap each other white attacking creature you control.", "trg": "重置所有由你操控且进行攻击的其他白色生物。"}
+{"src": "When this creature dies, you may return target Spirit card with mana value 6 or less from your graveyard to your hand.", "trg": "当它从场上进入坟墓场时，你可以将目标总法术力费用等于或小于6的精怪牌从你的坟墓场移回你手上。"}
+{"src": "You may have Jwari Shapeshifter enter the battlefield as a copy of any Ally creature on the battlefield.", "trg": "你可以使爪尔变形兽当成战场上任一伙伴生物的复制品来进入战场。"}
+{"src": "When Astor, Bearer of Blades enters the battlefield, look at the top seven cards of your library.", "trg": "当利刃之主阿斯托进战场时，检视你牌库顶的七张牌。"}
+{"src": "{1}, Sacrifice a nontoken artifact: Create a 1/1 blue Thopter artifact creature token with flying.", "trg": "{1}，牺牲一个非衍生物的神器：将一个1/1蓝色，具飞行异能的振翼机神器生物衍生物放置进场。"}
+{"src": "When Avenging Hunter enters the battlefield, you take the initiative.", "trg": "当寻仇猎人进战场时，你掌握先制。"}
+{"src": "{T}: Add {B} or {G}.", "trg": "{T}：加{B}或{G}。"}
+{"src": "When you cast this spell, you may copy it.", "trg": "当你施放此咒语时，你可以将其复制。"}
+{"src": "Whenever Fortress Cyclops attacks, it gets +3/+0 until end of turn.", "trg": "每当要塞独眼巨人攻击时，它得+3/+0直到回合结束。"}
+{"src": "Indestructible", "trg": "不灭"}
+{"src": "At the beginning of that combat, untap all creatures you control.", "trg": "在该次战斗开始时，重置所有由你操控的生物。"}
+{"src": "Activate only as a sorcery.", "trg": "只可以于你能施放法术的时机下起动此异能。"}
+{"src": "Splice onto instant or sorcery {3}{W}", "trg": "通联瞬间或法术{3}{W}"}
+{"src": "Flying, vigilance", "trg": "飞行，警戒"}
+{"src": "Flying", "trg": "飞行"}
+{"src": "{4}, Sacrifice Dragonspark Reactor: It deals damage equal to the number of charge counters on it to target player and that much damage to up to one target creature.", "trg": "{4}，牺牲龙火反应炉：它对目标牌手造成等同于其上充电指示物数量的伤害，并对至多一个目标生物造成等量的伤害。"}
+{"src": "{B}, Sacrifice Kill-Suit Cultist: The next time damage would be dealt to target creature this turn, destroy that creature instead.", "trg": "{B}，牺牲杀生装教众：于本回合中，如果目标生物将受到伤害，则改为消灭该生物。"}
+{"src": "Activate only if an opponent has three or more poison counters and only once each turn.", "trg": "只能于某对手具有三个或更多中毒指示物时起动，且每回合限一次。"}
+{"src": "Prevent all combat damage target creature would deal this turn.", "trg": "于本回合中，防止目标生物将造成的所有战斗伤害。"}
+{"src": "{1}{W}{U}{B}, {T}, Sacrifice two artifact tokens, Exile an artifact or creature card from your graveyard: Create a token that's a copy of the exiled card, except it's an artifact in addition to its other types.", "trg": "{1}{W}{U}{B}，{T}，牺牲两个衍生神器，从你的坟墓场放逐一张神器或生物牌：派出一个衍生物，此衍生物为所放逐之牌的复制品，但它额外具有神器此类别。"}
+{"src": "Multicolored creatures you control have trample.", "trg": "由你操控的多色生物具有践踏异能。"}
+{"src": "{2}{W}, {T}: Tap target creature.", "trg": "{2}{W}，{T}：横置目标生物。"}
+{"src": "You may cast this spell any time you could cast an instant.", "trg": "你可以于你能够使用瞬间的时机下使用此咒语。"}
+{"src": "When Bookwurm enters the battlefield, you gain 3 life and draw a card.", "trg": "当噬书亚龙进战场时，你获得3点生命且抓一张牌。"}
+{"src": "Domain — {7}{G}: Return Llanowar Greenwidow from your graveyard to the battlefield tapped.", "trg": "领土～{7}{G}：将罗堰绿寡妇从你的坟墓场横置移回战场。"}
+{"src": "Players can't gain life.", "trg": "牌手不能获得生命。"}
+{"src": "As long as you have seven or more cards in hand, Akki Underling gets +2/+1 and has first strike.", "trg": "只要你的手牌有七张或更多，恶鬼手下便得+2/+1并具有先攻异能。"}
+{"src": "• Return target creature card with mana value 2 or less from your graveyard to the battlefield.", "trg": "• 将目标总法术力费用等于或小于2的生物牌从你的坟墓场移回战场。"}
+{"src": "Non-Horror creatures with slime counters on them lose all abilities and have base power and toughness 2/2.", "trg": "所有其上有黏菌指示物的非惊惧兽生物都失去所有异能，且基础力量与防御力均为2/2。"}
+{"src": "Return up to three target artifacts and/or creatures to their owners' hands.", "trg": "将至多三个目标神器和／或生物移回其拥有者手上。"}
+{"src": "Flying, haste", "trg": "飞行，敏捷"}
+{"src": "Myriad", "trg": "繁影"}
+{"src": "It's still a land.", "trg": "它仍然是地。"}
+{"src": "Enchanted creature gets +3/+0 and has first strike.", "trg": "所结附的生物得+3/+0且具有先攻异能。"}
+{"src": "Cycling {W}", "trg": "循环{W}"}
+{"src": "Vigilance", "trg": "警戒"}
+{"src": "Flying", "trg": "飞行"}
+{"src": "Lifelink", "trg": "系命"}
+{"src": "Do both if {W}{B} was spent.", "trg": "如果支付了{W}{B}，则两者都作。"}
+{"src": "When Phylath, World Sculptor enters the battlefield, create a 0/1 green Plant creature token for each basic land you control.", "trg": "当塑世灵菲拉斯进战场时，你每操控一个基本地，便派出一个0/1绿色植物衍生生物。"}
+{"src": "{B/G}{B/G}: Exile target card from a graveyard.", "trg": "{B/G}{B/G}：将目标牌从坟墓场移出对战。"}
+{"src": "Exile it at the beginning of the next end step or if it would leave the battlefield.", "trg": "于它将离场时，或在回合结束时，将它移出对战。"}
+{"src": "As long as it's your turn, creatures you control get +1/+0 and have trample.", "trg": "只要是在你的回合中，由你操控的生物便得+1/+0且具有践踏异能。"}
+{"src": "Trample, haste", "trg": "践踏，敏捷"}
+{"src": "Whenever Thorn Lieutenant becomes the target of a spell or ability an opponent controls, create a 1/1 green Elf Warrior creature token.", "trg": "每当荆棘副官成为由对手操控之咒语或异能的目标时，派出一个1/1绿色妖精／战士衍生生物。"}
+{"src": "Return it to your hand at the beginning of the next end step.", "trg": "在下一个结束步骤开始时，将它移回你手上。"}
+{"src": "When the last time counter is removed from Veiling Oddity while it's exiled, creatures can't be blocked this turn.", "trg": "于匿踪奇影被移出对战的期间，当移去其上最后一个计时指示物时，本回合生物不能被阻挡。"}
+{"src": "6/6", "trg": "6/6"}
+{"src": "When you do, Mount Velus Manticore deals X damage to any target, where X is the number of card types the discarded card has.", "trg": "当你如此作时，维鲁斯山蝎狮对任意一个目标造成X点伤害，X为所弃之牌具有的牌张类别数量。"}
+{"src": "Each {G} in the mana costs of permanents you control counts toward your devotion to green.", "trg": "由你操控之永久物的法术力费用当中每含有一个{G}，你的绿色献力就加一。"}
+{"src": "{T}: Add {C}.", "trg": "{T}：加{C}到你的法术力池中。"}
+{"src": "Put target artifact or creature on top of its owner's library.", "trg": "将目标神器或生物置于其拥有者的牌库顶。"}
+{"src": "{3}{W}{W}, Exile Valiant Veteran from your graveyard: Put a +1/+1 counter on each Soldier you control.", "trg": "{3}{W}{W}，从你的坟墓场放逐英勇老兵：在每个由你操控的士兵上各放置一个+1/+1指示物。"}
+{"src": "Whenever a creature an opponent controls dies, exile it with a hit counter on it.", "trg": "每当一个由对手操控的生物死去时，将它放逐且上面有一个灭口指示物。"}
+{"src": "If you do, return that card to the battlefield under your control.", "trg": "若你如此作，将该牌在你的操控下返回场上。"}
+{"src": "Enchanted land is the chosen type.", "trg": "所结附的地为该类别。"}
+{"src": "Multikicker {1}{W} ", "trg": "多重增幅{1}{W} "}
+{"src": "II — Return target creature card from your graveyard to your hand.", "trg": "II — 将目标生物牌从你的坟墓场移回你手上。"}
+{"src": "{B}{B}: Stromgald Crusader gets +1/+0 until end of turn.", "trg": "{B}{B}：史卓古得圣战军得+1/+0直到回合结束。"}
+{"src": "Whenever Civic Gardener attacks, untap target creature or land.", "trg": "每当公地园丁攻击时，重置目标生物或地。"}
+{"src": "When Jade Bearer enters the battlefield, put a +1/+1 counter on another target Merfolk you control.", "trg": "当翠玉传人进战场时，在另一个目标由你操控的人鱼上放置一个+1/+1指示物。"}
+{"src": "Changeling ", "trg": "化形 "}
+{"src": "Bestow {3}{B}{B} ", "trg": "神授{3}{B}{B}"}
+{"src": "Until end of turn, target artifact or creature becomes a 4/4 Angel artifact creature and gains flying.", "trg": "直到回合结束，目标神器或生物成为4/4天使神器生物且获得飞行异能。"}
+{"src": "It's still a land.", "trg": "它仍然是地。"}
+{"src": "Another target creature you control gains toxic 1 and hexproof from that color until end of turn.", "trg": "直到回合结束，另一个目标由你操控的生物获得下毒1与反该色辟邪异能。"}
+{"src": "When Labyrinth Guardian becomes the target of a spell, sacrifice it.", "trg": "当迷宫守护者成为咒语的目标时，将它牺牲。"}
+{"src": "When Rune of Flight enters the battlefield, draw a card.", "trg": "当翔空符文进战场时，抓一张牌。"}
+{"src": "When Relentless Dead dies, you may pay {X}.", "trg": "当无情亡者死去时，你可以支付{X}。"}
+{"src": "When Aligned Hedron Network enters the battlefield, exile all creatures with power 5 or greater until Aligned Hedron Network leaves the battlefield.", "trg": "当晶石网阵进战场时，放逐所有力量等于或大于5的生物，直到晶石网阵离开战场为止。"}
+{"src": "Whenever Tuktuk Grunts or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Tuktuk Grunts.", "trg": "每当图图大兵或另一个伙伴在你的操控下进战场时，你可以在图图大兵上放置一个+1/+1指示物。"}
+{"src": "Whenever Thriving Ibex attacks, you may pay {E}{E}.", "trg": "每当强旺原羊攻击时，你可以支付{E}{E}。"}
+{"src": "Keymaster Rogue can't be blocked.", "trg": "开锁浪客不能被阻挡。"}
+{"src": "Aetherflame Wall can block creatures with shadow as though they didn't have shadow.", "trg": "对于具次元幽影异能的生物，乙太焰墙能将后者视同不具该异能地进行阻挡。"}
+{"src": "• Remove up to three counters from target creature.", "trg": "•从目标生物上移去至多三个指示物。"}
+{"src": "Enchanted creature gets +7/+7 and has trample.", "trg": "所结附的生物得+7/+7且具有践踏异能。"}
+{"src": "Each artifact you tap after you're done activating mana abilities pays for {1}.", "trg": "你起动完法术力异能之后每横置一个神器，就能为此咒语支付{1}。"}
+{"src": "−2: Choose target creature an opponent controls.", "trg": "−2：选择目标由对手操控的生物。"}
+{"src": "Equip {4}", "trg": "佩带{4}"}
+{"src": "Menace ", "trg": "威慑"}
+{"src": "Overload {X}{X}{R}{R}", "trg": "超载{X}{X}{R}{R}"}
+{"src": "Melee ", "trg": "乱斗"}
+{"src": "It enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.", "trg": "用过几种颜色的法术力来施放它，其进战场时上面便有几个+1/+1指示物。"}
+{"src": "If they do, tap Reservoir Kraken and create a 1/1 blue Fish creature token with \"This creature can't be blocked.\"", "trg": "若他如此作，则你横置水库巨海兽并派出一个1/1蓝色的鱼衍生生物，且具有\"此生物不能被阻挡。\""}
+{"src": "Look at the top two cards of your library.", "trg": "检视你牌库顶的两张牌。"}
+{"src": "Flying", "trg": "飞行"}
+{"src": "• Target player sacrifices a planeswalker.", "trg": "•目标牌手牺牲一个鹏洛客。"}
+{"src": "This spell costs {2} less to cast if an opponent controls a green permanent.", "trg": "如果任一对手操控绿色永久物，则此咒语减少{2}来施放。"}
+{"src": "{R}: War-Spike Changeling gains first strike until end of turn.", "trg": "{R}：战刺化形获得先攻异能直到回合结束。"}
+{"src": "Cycling {2}{U} ", "trg": "循环{2}{U}"}
+{"src": "{T}: Add one mana of any color.", "trg": "{T}：加一点任意颜色的法术力。"}
+{"src": "It's still a land.", "trg": "它仍然是地。"}
+{"src": "Enchanted creature can't attack or block.", "trg": "受此结界的生物不能进行攻击或阻挡。"}
+{"src": "You can have two commanders if both have partner.", "trg": "你可将两个具有拍档异能的生物共同用作指挥官。"}
+{"src": "This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.", "trg": "此生物会以-1/-1指示物的方式对生物造成伤害，并以中毒指示物的方式对牌手造成伤害。"}
+{"src": "+1: Whenever one or more creatures you control deal combat damage to a player this turn, draw a card, then discard a card.", "trg": "+1：本回合中，每当由你操控的一个或数个生物对任一牌手造成战斗伤害时，抓一张牌，然后弃一张牌。"}
+{"src": "They can't be blocked by creatures with greater power.", "trg": "它们不能被力量比自己大的生物阻挡。"}
+{"src": "Flying", "trg": "飞行"}
+{"src": "Whenever Meandering Towershell attacks, exile it.", "trg": "每当曲行塔壳龟攻击时，将它放逐。"}
+{"src": "Whenever Vaevictis Asmadi, the Dire attacks, for each player, choose target permanent that player controls.", "trg": "每当怖龙瓦威提阿玛迪攻击时，为每位牌手各选择目标由该牌手操控的永久物。"}
+{"src": "When Phantom Beast becomes the target of a spell or ability, sacrifice it.", "trg": "当幽魅兽成为咒语或异能的目标时，将它牺牲。"}
+{"src": "The first instant or sorcery spell you cast each turn has casualty 2.", "trg": "你每回合施放的第一个瞬间或法术咒语具有催命2。"}
+{"src": "Target creature becomes red and gains haste until end of turn.", "trg": "直到回合结束，目标生物成为红色且具有敏捷异能。"}
+{"src": "{B}, Pay 1 life: Grimclaw Bats gets +1/+1 until end of turn.", "trg": "{B}，支付1点生命：阴爪蝙蝠得+1/+1直到回合结束。"}
+{"src": "Zombies you control get +2/+1 until end of turn.", "trg": "由你操控的灵俑得+2/+1直到回合结束。"}
+{"src": "Creatures target player controls get +0/+1 and gain all creature types until end of turn.", "trg": "由目标牌手操控的生物得+0/+1且获得所有生物类别直到回合结束。"}
+{"src": "Defender", "trg": "守军"}
+{"src": "{1}, {T}, Sacrifice Inscribed Tablet: Reveal the top five cards of your library.", "trg": "{1}，{T}，牺牲雕印石板：展示你牌库顶的五张牌。"}
+{"src": "As Temple of the Dragon Queen enters the battlefield, choose a color.", "trg": "于龙后神殿进战场时，选择一种颜色。"}
+{"src": "Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.", "trg": "检视你牌库顶的两张牌，然后将其中任意数量的牌置入你的坟墓场，其余则以任意顺序置于你牌库顶。"}
+{"src": "Deathtouch", "trg": "死触"}
+{"src": "Flying, first strike", "trg": "飞行，先攻"}
+{"src": "Destroy target creature, then proliferate.", "trg": "消灭目标生物，然后增殖。"}
+{"src": "Unearth {1}{B}", "trg": "破坟{1}{B}"}
+{"src": "You do the same with the top three cards of your library.", "trg": "你对你牌库顶的三张牌执行同样流程。"}
+{"src": "Equip {3}", "trg": "佩带{3}"}
+{"src": "{1}{W}: Kitsune Loreweaver gets +0/+X until end of turn, where X is the number of cards in your hand.", "trg": "{1}{W}：狐族织智师得+0/+X直到回合结束，X为你的手牌数量。"}
+{"src": "When Bitter Reunion enters the battlefield, you may discard a card.", "trg": "当苦涩重逢进战场时，你可以弃一张牌。"}
+{"src": "Trample, haste", "trg": "践踏，敏捷"}
+{"src": "Sacrifice Goblin Skycutter: It deals 2 damage to target creature with flying.", "trg": "牺牲灭空精灵：灭空精灵对目标具飞行异能的生物造成2点伤害。"}
+{"src": "Infect ", "trg": "侵染 "}
+{"src": "+1: Scry 2.", "trg": "+1：占卜2。"}
+{"src": "Metalcraft — Chrome Steed gets +2/+2 as long as you control three or more artifacts.", "trg": "金技～只要你操控三个或更多神器，铬亮驹便得+2/+2。"}
+{"src": "You may choose new targets for the copies.", "trg": "你可以为每个复制品选择新的目标。"}
+{"src": "Haste", "trg": "敏捷"}
+{"src": "Enchanted creature has \"{1}{W}, {T}: You gain 3 life.\"", "trg": "所结附的生物具有\"{1}{W}，{T}：你获得3点生命。\""}
+{"src": "Lightning Serpent enters the battlefield with X +1/+0 counters on it.", "trg": "闪电巨蛇进场时上面有X个+1/+0指示物。"}
+{"src": "• Create a token that's a copy of target creature, except it's an artifact in addition to its other types.", "trg": "•派出一个衍生物，此衍生物为目标生物之复制品，但它额外具有神器此类别。"}
+{"src": "When enchanted permanent leaves the battlefield, if it was historic, draw two cards.", "trg": "当所结附的永久物离开战场时，若它是史迹，则抓两张牌。"}
+{"src": "{2}{S}: Tap target creature and put an ice counter on it.", "trg": "{2}{S}：横置目标生物，并在其上放置一个寒冰指示物。"}
+{"src": "Do this before you draw.", "trg": "先如此作后再抓牌。"}
+{"src": "Put three of those cards into your hand and the rest on the bottom of your library in a random order.", "trg": "将其中三张置于你手上，其余的牌则以随机顺序置于你的牌库底。"}
+{"src": "Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.", "trg": "你于施放此咒语时每横置一个生物，就能为此咒语支付{1}或一点该生物颜色之法术力。"}
+{"src": "Melee ", "trg": "乱斗"}
+{"src": "Whenever you cast a Spirit or Arcane spell, target opponent exiles a card from their hand.", "trg": "每当你使用精怪或古咒咒语时，目标对手将其手上一张牌移出对战。"}
+{"src": "Vantress Gargoyle can't block unless you have four or more cards in hand.", "trg": "除非你有四张或更多手牌，否则凡翠丝石像鬼不能进行阻挡。"}
+{"src": "Whenever Wedding Security attacks, you may sacrifice a Blood token.", "trg": "每当婚礼警卫攻击时，你可以牺牲一个血滴衍生物。"}
+{"src": "Vigilance, protection from creatures", "trg": "警戒，反生物保护"}
+{"src": "Then if there are no cards exiled with Search the City, sacrifice it.", "trg": "然后如果已经没有牌被遍寻全城放逐，则牺牲之。"}
+{"src": "At the beginning of your postcombat main phase, you may pay X life, where X is the number of opponents that were dealt combat damage this turn.", "trg": "在你战斗后的行动阶段开始时，你可以支付X点生命，X为本回合中曾受到战斗伤害的对手数量。"}
+{"src": "When Loaming Shaman enters the battlefield, target player shuffles any number of target cards from their graveyard into their library.", "trg": "当填土祭师进场时，目标牌手将任意数量的目标牌从其坟墓场洗入其牌库。"}
+{"src": "Evoke—Exile a white card from your hand.", "trg": "呼魂～从你手上放逐一张白色牌。"}
+{"src": "{T}: Put an oil counter on Tablet of Compleation.", "trg": "{T}：在完化荣志上放置一个烁油指示物。"}
+{"src": "Explosive Welcome deals 5 damage to any target and 3 damage to any other target.", "trg": "热烈欢迎对任意一个目标造成5点伤害，且对任意另一个目标造成3点伤害。"}
+{"src": "−2: Look at the top three cards of your library.", "trg": "−2：检视你牌库顶的三张牌。"}
+{"src": "As long as you control a Tezzeret planeswalker, Tezzeret's Strider has menace.", "trg": "只要你操控泰兹瑞鹏洛客，泰兹瑞的神行像便具有威慑异能。"}
+{"src": "Look at the top card of your library.", "trg": "检视你牌库顶的牌。"}
+{"src": "Hellbent — As long as you have no cards in hand, Gobhobbler Rats gets +1/+0 and has \"{B}: Regenerate Gobhobbler Rats.\"", "trg": "背水战～只要你没有手牌，卡霍布老鼠得+1/+0且具有\"{B}：重生卡霍布老鼠。\""}
+{"src": "Each deals damage equal to its power to the other.", "trg": "它们各向对方造成等同于本身力量的伤害。"}
+{"src": "You may pay an additional {2}{U} as you cast this spell.", "trg": "你施放此咒语时可以额外支付{2}{U}。"}
+{"src": "{2}, {T}, Sacrifice Field of Ruin: Destroy target nonbasic land an opponent controls.", "trg": "{2}，{T}，牺牲战场遗迹：消灭目标由对手操控的非基本地。"}
+{"src": "{3}: Destroy Detention Vortex.", "trg": "{3}：消灭拘禁漩涡。"}
+{"src": "Prevent all combat damage that would be dealt by target attacking or blocking creature this turn.", "trg": "于本回合中，防止将由目标进行攻击或阻挡的生物造成之所有战斗伤害。"}
+{"src": "As you draft a creature card, you may reveal it, note its creature types, then turn Paliano Vanguard face down.", "trg": "于你抽选生物牌时，你可以展示该牌，记下其生物类别，然后将帕兰诺城先锋翻为面朝下。"}
+{"src": "Toxic Iguanar has deathtouch as long as you control a green permanent.", "trg": "只要你操控绿色永久物，毒巨鬣蜥便具有死触异能。"}
+{"src": "{2}, Discard this card: Draw a card.", "trg": "{2}，弃掉此牌：抓一张牌。"}
+{"src": "Turn it face up any time for its morph cost.", "trg": "可随时支付其变身费用使其翻回正面。"}
+{"src": "If X is 2, you may choose a player.", "trg": "如果X为2，则你可以选择一位牌手。"}
+{"src": "Return each creature that dealt damage this turn to its owner's hand.", "trg": "将所有本回合造成过伤害的生物移回其拥有者手上。"}
+{"src": "As this Saga enters and after your draw step, add a lore counter.", "trg": "于此传纪进战场时及于你抓牌步骤后，加一个学问指示物。"}
+{"src": "Crew 3", "trg": "搭载3"}
+{"src": "−1: Put a +1/+1 counter on target creature.", "trg": "−1：在目标生物上放置一个+1/+1指示物。"}
+{"src": "At the beginning of your upkeep, you get a poison counter.", "trg": "在你的维持开始时，你得到一个中毒指示物。"}
+{"src": "Whenever you cast an enchantment spell, put a +1/+1 counter on Kami of Transience.", "trg": "每当你施放结界咒语时，在无常神上放置一个+1/+1指示物。"}
+{"src": "Whenever you cast an instant or sorcery spell that targets only Zada, Hedron Grinder, copy that spell for each other creature you control that the spell could target.", "trg": "每当你施放仅以晶石磨工查妲为目标的瞬间或法术咒语时，该咒语每能以一个由你操控的其他生物为目标，便将该咒语复制一次。"}
+{"src": "Whenever Creepy Puppeteer attacks, if you attacked with exactly one other creature this combat, you may have that creature's base power and toughness become 4/3 until end of turn.", "trg": "每当可怖控偶师攻击时，若你本次战斗中还以正好一个其他生物攻击，则你可以使后者生物之基础力量与防御力成为4/3直到回合结束。"}
+{"src": "Whenever you activate an ability of an artifact or creature that isn't a mana ability, if one or more permanents were sacrificed to activate it, you may copy that ability.", "trg": "每当你起动神器或生物的异能，且其不为法术力异能时，若牺牲了一个或数个永久物来起动，则你可以复制该异能。"}
+{"src": "If you don't, Game Trail enters the battlefield tapped.", "trg": "如果你未如此作，狩猎小径须横置进战场。"}
+{"src": "Enchant creature", "trg": "结附于生物"}
+{"src": "Target creature gets -X/-X until end of turn, where X is the amount of life you gained this turn.", "trg": "目标生物得-X/-X直到回合结束，X为你于本回合中所获得的生命数量。"}
+{"src": "Infect", "trg": "侵染"}
+{"src": "If you don't control one, create a 0/0 black Zombie Army creature token first.", "trg": "如果你未操控军队，则先派出一个0/0黑色灵俑／军队衍生物。"}
+{"src": "Whenever Ancient Silver Dragon deals combat damage to a player, roll a d20.", "trg": "每当远古银龙对任一牌手造成战斗伤害时，掷一颗d20。"}
+{"src": "Flying", "trg": "飞行"}
+{"src": "At the beginning of your end step, you may sacrifice an artifact, creature, enchantment, land, or planeswalker.", "trg": "在你的结束步骤开始时，你可以牺牲一个神器，生物，结界，地或鹏洛客。"}
+{"src": "You may put that card on the bottom of your library.", "trg": "你可以将该牌置于你的牌库底。"}
+{"src": "Partner", "trg": "拍档"}
+{"src": "When Bribe Taker enters the battlefield, for each kind of counter on permanents you control, you may put your choice of a +1/+1 counter or a counter of that kind on Bribe Taker.", "trg": "当受贿战士进战场时，为由你操控之永久物上的每种指示物各进行以下流程～你可以依你的选择在受贿战士上放置一个+1/+1指示物或一个同种类的指示物。"}
+{"src": "It's an artifact with \"{T}, Sacrifice this artifact: Add one mana of any color.\"", "trg": "它是具有\"{T}，牺牲此神器：加一点任意颜色的法术力\"的神器。"}
+{"src": "When Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.", "trg": "当记忆墙进战场时，你可以将目标瞬间或法术牌从你的坟墓场移回你手上。"}
+{"src": "Enchanted creature gets +1/+1 for each enchantment you control and has first strike.", "trg": "你每操控一个结界，所结附的生物便得+1/+1且具有先攻异能。"}
+{"src": "• Draw a card.", "trg": "•抓一张牌。"}
+{"src": "You can have two commanders if both have partner.", "trg": "你可将两个具有拍档异能的生物共同用作指挥官。"}
+{"src": "Undergrowth — When you cast this spell, reveal the top X cards of your library, where X is the number of creature cards in your graveyard.", "trg": "朽力～当你施放此咒语时，展示你牌库顶的X张牌，X为你坟墓场中的生物牌数量。"}
+{"src": "First strike", "trg": "先攻"}
+{"src": "Corrupted — As long as an opponent has three or more poison counters, Bonepicker Skirge has deathtouch and lifelink.", "trg": "腐化～只要某对手具有三个或更多中毒指示物，拣骨斯克魔便具有死触与系命异能。"}
+{"src": "Flash", "trg": "闪现"}
+{"src": "Defender, protection from Zombies", "trg": "守军，反灵俑保护"}
+{"src": "{T}: Add one mana of any color.", "trg": "{T}：加一点任意颜色的法术力。"}
+{"src": "Otherwise, put that card into your hand.", "trg": "若否，则将该牌置于你手上。"}
+{"src": "Destroy one of them chosen at random.", "trg": "随机选择并消灭其中一个。"}
+{"src": "Target creature gets +2/+0 and gains indestructible until end of turn.", "trg": "直到回合结束，目标生物得+2/+0且获得不灭异能。"}
+{"src": "Splice onto Arcane {1}{B}", "trg": "通联古咒{1}{B}"}
+{"src": "Whenever you draw a card, put a +1/+1 counter on Lorescale Coatl.", "trg": "每当你抓一张牌时，你可以在鳞文寇特蛇上放置一个+1/+1指示物。"}
+{"src": "Counter target spell unless its controller pays {X}.", "trg": "除非目标咒语的操控者支付{X}，否则反击该咒语。"}
+{"src": "Whenever you activate an ability of a Sarkhan planeswalker, Sarkhan's Whelp deals 1 damage to any target.", "trg": "每当你起动萨坎鹏洛客的异能时，萨坎的幼龙对任意一个目标造成1点伤害。"}
+{"src": "It must survive the damage to get the counter.", "trg": "受伤害后要活下来才能得到指示物。"}
+{"src": "Damage and effects that say \"destroy\" don't destroy it.", "trg": "伤害与注明\"消灭\"的效应不会将它消灭。"}
+{"src": "Multikicker {W} ", "trg": "多重增幅{W} "}
+{"src": "You may put that card into your graveyard.", "trg": "你可以将该牌置入你的坟墓场。"}
+{"src": "{2}{W}: Bolster 1.", "trg": "{2}{W}：振励1。"}
+{"src": "Constellation — Whenever an enchantment enters the battlefield under your control, target creature gets +1/+1 until end of turn.", "trg": "星彩～每当一个结界在你的操控下进战场时，目标生物得+1/+1直到回合结束。"}
+{"src": "Creatures you control get +1/+1 until end of turn.", "trg": "由你操控的生物得+1/+1直到回合结束。"}
+{"src": "Equipped creature gets +1/+1 and has \"{W}, {T}, Sacrifice Citizen's Crowbar: Destroy target artifact or enchantment.\"", "trg": "佩带此武具的生物得+1/+1且具有\"{W}，{T}，牺牲市民撬棒：消灭目标神器或结界。\""}
+{"src": "Add six {R}.", "trg": "加六点{R}。"}
+{"src": "{7}: Draw two cards.", "trg": "{7}：抓两张牌。"}
+{"src": "Soulshift 6", "trg": "转生6"}
+{"src": "Enchant creature", "trg": "结附于生物"}
+{"src": "20 | Iron Mastiff deals damage equal to its power to each opponent.", "trg": "20 | 钢铁獒犬向每位对手各造成等同于其力量的伤害。"}
+{"src": "II — Mill three cards.", "trg": "II — 磨三张牌。"}
+{"src": "Whenever you cast an enchantment spell, you gain 1 life and draw a card.", "trg": "每当你施放结界咒语时，你获得1点生命且抓一张牌。"}
+{"src": "If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.", "trg": "如果此生物上没有+1/+1指示物，则在其上放置两个+1/+1指示物。"}
+{"src": "Any amount of damage it deals to a creature is enough to destroy it.", "trg": "它对生物造成的任何数量伤害都足以消灭后者。"}
+{"src": "Toxic 3", "trg": "下毒3"}
+{"src": "• Choose target nonland permanent.", "trg": "•选择目标非地永久物。"}
+{"src": "Enchant player", "trg": "牌手结界"}
+{"src": "When enchanted land dies, return that card to its owner's hand.", "trg": "当所结附的地置入坟墓场时，将该牌移回其拥有者手上。"}
+{"src": "Then discard a card unless there are five or more mana values among cards in your graveyard.", "trg": "然后除非你坟墓场中牌的法术力值有五种或更多，否则弃一张牌。"}
+{"src": "−3: Exile target creature or enchantment.", "trg": "−3：放逐目标生物或结界。"}
+{"src": "{1}{R}{R}: Spikeshot Elder deals damage equal to its power to any target.", "trg": "{1}{R}{R}：飞刺长老对目标生物或牌手造成伤害，其数量等同于前者的力量。"}
+{"src": "Other Vampires you control get +1/+1.", "trg": "由你操控的其他吸血鬼得+1/+1。"}
+{"src": "Enchant creature", "trg": "结附于生物"}
+{"src": "For each player who chose fortune, you draw a card and create a Treasure token.", "trg": "每有一位选择\"财富\"的牌手，你便抓一张牌并派出一个珍宝衍生物。"}
+{"src": "When Omenspeaker enters the battlefield, scry 2.", "trg": "当示兆先知进战场时，占卜2。"}
+{"src": "When a player casts a spell or a creature attacks, exile Norin the Wary.", "trg": "每当任一牌手使用咒语，或是任一生物攻击时，将谨慎的诺林移出对战。"}
+{"src": "If you do, draw a card.", "trg": "若你如此作，则抓一张牌。"}
+{"src": "Choose one.", "trg": "选择一项。"}
+{"src": "Equipped creature gets +1/+1 for each +1/+1 counter on Lion Sash.", "trg": "狮头饰带上每有一个+1/+1指示物，佩带此武具的生物便得+1/+1。"}
+{"src": "When Mogg War Marshal enters the battlefield or dies, create a 1/1 red Goblin creature token.", "trg": "当莫葛战场元帅进场或从场上置入坟墓场时，将一个1/1红色精灵衍生物放置进场。"}
+{"src": "Enchant creature", "trg": "生物结界"}
+{"src": "Haste", "trg": "敏捷"}
+{"src": "Unearth only as a sorcery.", "trg": "只能于法术时机破坟。"}
+{"src": "Until end of turn, that player can't cast spells, you may look at the top card of their library any time, you may play the top card of their library, and you may spend mana as though it were mana of any color to cast spells this way.", "trg": "直到回合结束，该牌手不能施放咒语，你可以随时检视其牌库顶牌，你可以使用其牌库顶牌，且你可以将法术力视同任意颜色的法术力来支付以此法施放之咒语的费用。"}
+{"src": "{1}, Remove X storage counters from Fungal Reaches: Add X mana in any combination of {R} and/or {G}.", "trg": "{1}，从真菌地带上移去X个储藏指示物：加X点法术力到你的法术力池中，且为{R}和／或{G}的任意组合。"}
+{"src": "Revolt — When Hidden Herbalists enters the battlefield, if a permanent you controlled left the battlefield this turn, add {G}{G}.", "trg": "反抗～当隐匿草药师进战场时，若本回合中曾有由你操控的永久物离开战场，则加{G}{G}到你的法术力池中。"}
+{"src": "Gnarled Scarhide can't block.", "trg": "糙节覆痕怪不能进行阻挡。"}
+{"src": "Mutate {2}{W}{W} ", "trg": "合变{2}{W}{W}"}
+{"src": "As this enters the battlefield, you may sacrifice any number of creatures.", "trg": "于它进场时，你可以牺牲任意数量的生物。"}
+{"src": "Reveal the top card of your library.", "trg": "展示你的牌库顶牌。"}
+{"src": "{2}{G}: Return Vivien's Jaguar from your graveyard to your hand.", "trg": "{2}{G}：将薇薇安的猎豹从你的坟墓场移回你手上。"}
+{"src": "Destroy target creature or enchantment.", "trg": "消灭目标生物或结界。"}
+{"src": "Return all creature cards from your graveyard to the battlefield.", "trg": "将所有生物牌从你的坟墓场移回战场。"}
+{"src": "Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.", "trg": "你于施放此咒语时每横置一个生物，就能为此咒语支付{1}或一点该生物颜色之法术力。"}
+{"src": "Put target face-up exiled card into its owner's graveyard.", "trg": "将目标牌面朝上、且被移出对战的牌置入其拥有者的坟墓场。"}
+{"src": "Trample", "trg": "践踏"}
+{"src": "Suspend 1—{2}{G}{G}", "trg": "延缓1～{2}{G}{G}"}
+{"src": "Whenever it deals combat damage to a player this turn, exile that many cards from the top of your library.", "trg": "本回合中，每当它对任一牌手造成战斗伤害时，从你的牌库顶放逐等量的牌。"}
+{"src": "Put a +1/+1 counter on each of up to three target creatures.", "trg": "在至多三个目标生物上各放置一个+1/+1指示物。"}
+{"src": "Put a +1/+1 counter on target creature and untap it.", "trg": "在目标生物上放置一个+1/+1指示物并重置它。"}
+{"src": "When Eyeblight Cullers dies, create three 1/1 green Elf Warrior creature tokens, then mill three cards.", "trg": "当碍眼绞杀客死去时，派出三个1/1绿色妖精／战士衍生生物，然后磨三张牌。"}
+{"src": "When Implement of Ferocity is put into a graveyard from the battlefield, draw a card.", "trg": "当蛮野擎具从战场进入坟墓场时，抓一张牌。"}
+{"src": "Enter the first room or advance to the next room.", "trg": "进入第一个房间，或前进至下一个房间。"}
+{"src": "Exalted ", "trg": "颂威 "}
+{"src": "Ferocious — The creature you control gets +2/+2 until end of turn before it fights if you control a creature with power 4 or greater.", "trg": "威猛～如果你操控力量等于或大于4的生物，则所影响之由你操控的生物在互斗前得+2/+2直到回合结束。"}
+{"src": "• Unite the Coalition deals 2 damage to any target.", "trg": "•重结联盟对任意一个目标造成2点伤害。"}
+{"src": "{2}, Sacrifice Investigator's Journal: Draw a card.", "trg": "{2}，牺牲调查员日志：抓一张牌。"}
+{"src": "When you do, that player reveals their hand and you choose a nonland card from it.", "trg": "当你如此作时，该牌手展示其手牌且你选择其中一张非地牌。"}
+{"src": "Return up to two target creatures to their owners' hands.", "trg": "将至多两个目标生物移回其拥有者手上。"}
+{"src": "Equipped creature gets +2/+0 and has afflict 1.", "trg": "佩带此武具的生物得+2/+0且具有折磨1。"}
+{"src": "That player discards that card.", "trg": "该牌手弃掉该牌。"}
+{"src": "At the beginning of your upkeep, put a spore counter on Pallid Mycoderm.", "trg": "在你的维持开始时，在苍白菌衣上放置一个芽孢指示物。"}
+{"src": "You may cast it without paying its mana cost.", "trg": "你可以使用该牌，并且不需支付其法术力费用。"}
+{"src": "Shinechaser gets +1/+1 as long as you control an enchantment.", "trg": "只要你操控结界，逐宝仙灵便得+1/+1。"}
+{"src": "{1}, {T}: Add one mana of any color.", "trg": "{1}，{T}：加一点任意颜色的法术力到你的法术力池中。"}
+{"src": "Put one of them into your hand and the rest into your graveyard.", "trg": "将其中一张置于你手上，其余则置入你的坟墓场。"}
+{"src": "Monstrous Carabid attacks each combat if able.", "trg": "巨大步行虫每回合若能攻击，则必须攻击。"}
+{"src": "This creature can't be the target of spells or abilities.", "trg": "此永久物不能成为咒语或异能的目标。"}
+{"src": "Shard Volley deals 3 damage to any target.", "trg": "碎片射击对目标生物或牌手造成3点伤害。"}
+{"src": "It's still a land.", "trg": "它仍然是地。"}
+{"src": "Flying", "trg": "飞行"}
+{"src": "Whenever another creature enters the battlefield under your control, Purphoros deals 2 damage to each opponent.", "trg": "每当另一个生物在你的操控下进战场时，普罗烽斯向每位对手各造成2点伤害。"}
+{"src": "Lifelink ", "trg": "系命"}
+{"src": "Equipped creature gets +1/+0.", "trg": "佩带此武具的生物得+1/+0。"}
+{"src": "When Nezumi Prowler enters the battlefield, target creature you control gains deathtouch and lifelink until end of turn.", "trg": "当游掠鼠人进战场时，目标由你操控的生物获得死触与系命异能直到回合结束。"}
+{"src": "You may turn this conspiracy face up any time and reveal that name.", "trg": "你随时可以将此诡局翻回正面并公布该名称。"}
+{"src": "Flying", "trg": "飞行"}
+{"src": "You draw two cards and you lose 2 life.", "trg": "你抓两张牌且失去2点生命。"}
+{"src": "Equipped creature gets +1/+1 for each land you control.", "trg": "你每操控一个地，佩带此武具的生物便得+1/+1。"}
+{"src": "This spell costs {1} less to cast for each artifact creature you control.", "trg": "你每操控一个神器生物，此咒语便减少{1}来施放。"}
+{"src": "When enchanted creature leaves the battlefield, create a 1/1 white Spirit creature token with flying.", "trg": "当所结附的生物离开战场时，派出一个1/1白色，具飞行异能的精怪衍生生物。"}
+{"src": "Wrap in Flames deals 1 damage to each of up to three target creatures.", "trg": "火焰包覆对至多三个目标生物各造成1点伤害。"}
+{"src": "Magecraft — Whenever you cast or copy an instant or sorcery spell, put a +1/+1 counter on Quandrix Pledgemage.", "trg": "魔艺～每当你施放或复制瞬间或法术咒语时，在量析证法师上放置一个+1/+1指示物。"}
+{"src": "Training ", "trg": "见习"}
+{"src": "Silverquill Campus enters the battlefield tapped.", "trg": "银毫校区须横置进战场。"}
+{"src": "{1}{W}{B}: Target creature gains lifelink until end of turn.", "trg": "{1}{W}{B}：目标生物获得系命异能直到回合结束。"}
+{"src": "It can't be the target of spells or abilities.", "trg": "它不能成为咒语或异能的目标。"}
+{"src": "III — Search your library for an artifact card with mana cost {0} or {1}, put it onto the battlefield, then shuffle.", "trg": "III — 从你的牌库中搜寻一张法术力费用为{0}或{1}的神器牌，将之放进战场，然后洗牌。"}
+{"src": "Whenever enchanted opponent draws a card, you may draw a card.", "trg": "每当受此结界的对手抓一张牌时，你可以抓一张牌。"}
+{"src": "This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.", "trg": "此生物会以-1/-1指示物的方式对生物造成伤害，并以中毒指示物的方式对牌手造成伤害。"}
+{"src": "Destroy all creatures.", "trg": "消灭所有生物。"}
+{"src": "Enchant creature", "trg": "结附于生物"}
+{"src": "Enchant creature", "trg": "结附于生物"}
+{"src": "Equip {2}", "trg": "佩带{2}"}
+{"src": "As an additional cost to cast this spell, return a permanent you control to its owner's hand.", "trg": "将一个由你操控的永久物移回其拥有者手上，以作为施放消失把戏的额外费用。"}
+{"src": "Destroy target artifact or enchantment.", "trg": "消灭目标神器或结界。"}
+{"src": "{1}, Discard this card: Draw a card.", "trg": "{1}，弃掉此牌：抓一张牌。"}
+{"src": "You may have this creature enter the battlefield with a +1/+1 counter on it.", "trg": "你可以让此生物进战场时上面有一个+1/+1指示物。"}
+{"src": "Swooping Protector enters the battlefield with a shield counter on it.", "trg": "俯冲卫士进战场时上面有一个后盾指示物。"}
+{"src": "Put the rest into your graveyard.", "trg": "将其余牌置入你的坟墓场。"}
+{"src": "When Shaper Parasite is turned face up, target creature gets +2/-2 or -2/+2 until end of turn.", "trg": "当塑形寄生怪翻回正面时，目标生物得+2/-2或-2/+2直到回合结束。"}
+{"src": "A creature with decayed can't block.", "trg": "具败朽异能的生物不能进行阻挡。"}
+{"src": "It deals both first-strike and regular combat damage.", "trg": "它能造成先攻与普通战斗伤害。"}
+{"src": "{2}, Discard this card: Draw a card.", "trg": "{2}，弃掉此牌：抓一张牌。"}
+{"src": "When Wispweaver Angel enters the battlefield, you may exile another target creature you control, then return that card to the battlefield under its owner's control.", "trg": "当编缕天使进战场时，你可以放逐另一个目标由你操控的生物，然后将该牌在其拥有者的操控下移回战场。"}
+{"src": "{T}: Add X mana of any one color, where X is Heronblade Elite's power.", "trg": "{T}：加X点任意颜色的单色法术力，X为苍鹭刃菁英的力量。"}
+{"src": "{T}: Add {R}.", "trg": "{T}：加{R}到你的法术力池中。"}
+{"src": "{3}, {T}, Sacrifice Shell of the Last Kappa: You may cast a spell from among cards exiled with Shell of the Last Kappa without paying its mana cost.", "trg": "{3}，{T}，牺牲末代河童壳：你可以使用以末代河童壳移出对战的一张牌，且不需支付其法术力费用。"}
+{"src": "Cycling {1}", "trg": "循环{1}"}
+{"src": "Each {G} in the mana costs of permanents you control counts toward your devotion to green.", "trg": "由你操控之永久物的法术力费用当中每含有一个{G}，你的绿色献力就加一。"}
+{"src": "{T}: Add {C}.", "trg": "{T}：加{1}到你的法术力池中。"}
+{"src": "This ability triggers only once each turn.", "trg": "此异能每回合只会触发一次。"}
+{"src": "It gains haste until end of turn.", "trg": "它获得敏捷异能直到回合结束。"}
+{"src": "{1}{G}: Until end of turn, target land you control becomes a 1/1 Elemental creature with vigilance, indestructible, and haste.", "trg": "{1}{G}：直到回合结束，目标由你操控的地成为1/1，具警戒、不灭与敏捷异能的元素生物。"}
+{"src": "Prevent all damage that would be dealt to target creature this turn.", "trg": "于本回合中，防止将对目标生物造成的所有伤害。"}
+{"src": "When you do, cast it for its madness cost or put it into your graveyard.", "trg": "当你如此作时，支付其疯魔费用施放之，否则便将其置入你的坟墓场。"}
+{"src": "This spell costs {2} less to cast if you've cast another instant or sorcery spell this turn.", "trg": "如果你本回合中施放过其他瞬间或法术咒语，则此咒语减少{2}来施放。"}
+{"src": "The Fall of Kroog deals 3 damage to that player and 1 damage to each creature they control.", "trg": "萼城陷落对该牌手造成3点伤害，且对每个由其操控的生物各造成1点伤害。"}
+{"src": "That player may cast that card without paying its mana cost.", "trg": "该牌手可以施放该牌且不需支付其法术力费用。"}
+{"src": "Whenever Basri's Lieutenant or another creature you control dies, if it had a +1/+1 counter on it, create a 2/2 white Knight creature token with vigilance.", "trg": "每当巴席利的副官或另一个由你操控的生物死去时，若其上有+1/+1指示物，则派出一个2/2白色，具警戒异能的骑士衍生生物。"}
+{"src": "−2: Each opponent discards a card and you draw a card.", "trg": "−2：每位对手各弃一张牌且你抓一张牌。"}
+{"src": "Flying", "trg": "飞行"}
+{"src": "• Target opponent sacrifices a creature.", "trg": "•目标对手牺牲一个生物。"}
+{"src": "It has \"Sacrifice this creature: Add {C}.\"", "trg": "它具有\"牺牲此生物：加{1}到你的法术力池中。\""}
+{"src": "This spell costs {2} less to cast for each card exiled this way.", "trg": "每以此法放逐一张牌，此咒语便减少{2}来施放。"}
+{"src": "Whenever you cast a multicolored spell, Gloryscale Viashino gets +3/+3 until end of turn.", "trg": "每当你使用一个多色咒语时，荣鳞凡尔西诺得+3/+3直到回合结束。"}
+{"src": "Bestow {6}{W} ", "trg": "神授{6}{W}"}
+{"src": "Then if you control a permanent with an oil counter on it, draw a card.", "trg": "然后如果你操控其上有烁油指示物的永久物，则抓一张牌。"}
+{"src": "Create a tapped Powerstone token.", "trg": "派出一个已横置的魔力石衍生物。"}
+{"src": "Trample", "trg": "践踏"}
+{"src": "This creature enters the battlefield with that many +1/+1 counters on it.", "trg": "此生物进场时上面有该数量的+1/+1指示物。"}
+{"src": "{1}{R}: Return this card from your graveyard to the battlefield.", "trg": "{1}{R}：将此牌从你的坟墓场移回场上。"}
+{"src": "Rebound", "trg": "弹回"}
+{"src": "When you do, cast it for its madness cost or put it into your graveyard.", "trg": "当你如此作时，支付其疯魔费用施放之，否则便将其置入你的坟墓场。"}
+{"src": "Scry 1.", "trg": "占卜1。"}
+{"src": "{T}: Exile target land card from a graveyard.", "trg": "{T}：将目标地牌从坟墓场放逐。"}
+{"src": "Sacrifice after III.", "trg": "到III后牺牲之。"}
+{"src": "When Knight of Autumn enters the battlefield, choose one —", "trg": "当暮秋骑士进战场时，选择一项～"}
+{"src": "Trigon of Rage enters the battlefield with three charge counters on it.", "trg": "愤怒三角进战场时上面有三个充电指示物。"}
+{"src": "{T}: Add {G}{W}.", "trg": "{T}：加{G}{W}。"}
+{"src": "You may cast Squee, the Immortal from your graveyard or from exile.", "trg": "你可以从你的坟墓场或放逐区中施放不死斯奎。"}
+{"src": "When Midnight Arsonist enters the battlefield, destroy up to X target artifacts without mana abilities, where X is the number of Vampires you control.", "trg": "当午夜纵火犯进战场时，消灭至多X个目标不具法术力异能的神器，X为由你操控的吸血鬼数量。"}
+{"src": "First strike, vigilance", "trg": "先攻，警戒"}
+{"src": "Exploit ", "trg": "榨取"}
+{"src": "Scourge of Geier Reach gets +1/+1 for each creature your opponents control.", "trg": "你所有对手每操控一个生物，基尔山脉祸害便得+1/+1。"}
+{"src": "Enchanted land is snow.", "trg": "所结附的地是雪境。"}
+{"src": "Draw two cards, then discard a card.", "trg": "抓两张牌，然后弃一张牌。"}
+{"src": "Enchant opponent", "trg": "结附于对手"}
+{"src": "Barkhide Troll enters the battlefield with a +1/+1 counter on it.", "trg": "树皮巨魔进战场时上面有一个+1/+1指示物。"}
+{"src": "{W/B}{W/B}{W/B}: Resolute Rider gains indestructible until end of turn.", "trg": "{W/B}{W/B}{W/B}：坚毅骑兵获得不灭异能直到回合结束。"}
+{"src": "Whenever another nontoken Vampire you control dies, you may pay {1} and exile it.", "trg": "每当另一个由你操控且非衍生物的吸血鬼死去时，你可以支付{1}并将它放逐。"}
+{"src": "Vanishing 3 ", "trg": "消逝3"}
+{"src": "Adamant — If at least three black mana was spent to cast this spell, create a Food token.", "trg": "固色～如果施放此咒语时支付过至少三点黑色法术力，则派出一个食品衍生物。"}
+{"src": "If this spell was kicked, you gain 3 life.", "trg": "如果此咒语已增幅，则你获得3点生命。"}
+{"src": "Equip {3}", "trg": "佩带{3}"}
+{"src": "When enchanted artifact is put into a graveyard, create a 2/2 red Gremlin creature token.", "trg": "当所结附的神器置入坟墓场时，派出一个2/2红色怪灵衍生生物。"}
+{"src": "{B}: Regenerate Null Champion.", "trg": "{B}：重生躯壳斗士。"}
+{"src": "Deathtouch", "trg": "死触"}
+{"src": "Whenever you gain life, each opponent loses 1 life.", "trg": "每当你获得生命时，每位对手各失去1点生命。"}
+{"src": "This spell costs {1} less to cast for each Forest you control.", "trg": "你每操控一个树林，使用此咒语的费用便减少{1}来使用"}
+{"src": "Cycling {X}{1}{U} ", "trg": "循环{X}{1}{U}"}
+{"src": "Enchanted creature loses all abilities and is a blue Fish with base power and toughness 0/1.", "trg": "所结附的生物失去所有异能，且是基础力量与防御力为0/1的蓝色鱼。"}
+{"src": "You can't cast permanent spells.", "trg": "你不能施放永久物咒语。"}
+{"src": "If you do, Oros deals 3 damage to each nonwhite creature.", "trg": "若你如此作，则欧若对每个非白色生物造成3点伤害。"}
+{"src": "Regenerate it.", "trg": "将它重生。"}
+{"src": "Equipped creature has vigilance.", "trg": "佩带此武具的生物具有警戒异能。"}
+{"src": "−3: Exile target creature.", "trg": "−3：放逐目标生物。"}
+{"src": "Equipped creature gets +1/+1.", "trg": "佩带此武具的生物得+1/+1。"}
+{"src": "{T}: Add {C}.", "trg": "{T}：加{C}。"}
+{"src": "Splice onto Arcane—Exile four cards from your graveyard.", "trg": "通联古咒～从你的坟墓场中将四张牌移出对战。"}
+{"src": "They gain haste.", "trg": "它们获得敏捷异能。"}
+{"src": "Squad {2} ", "trg": "小队{2}"}
+{"src": "Then that player shuffles.", "trg": "然后该牌手将其牌库洗牌。"}
+{"src": "{S} can be paid with one mana from a snow source.", "trg": "{S}能以产自雪境来源的一点法术力来支付。"}
+{"src": "• You gain 2 life and scry 2.", "trg": "•你获得2点生命且占卜2。"}
+{"src": "When Deadbridge Shaman dies, target opponent discards a card.", "trg": "当亡桥祭师死去时，目标对手弃一张牌。"}
+{"src": "Flying", "trg": "飞行"}
+{"src": "If two cards that share a card type are discarded this way, put two +1/+1 counters on Rowdy Crew.", "trg": "如果以此法弃掉的两张牌之间具共通的牌类别，则在喧闹船员上放置两个+1/+1指示物。"}
+{"src": "Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Vinelasher Kudzu.", "trg": "每当一个地在你的操控下进场时，在缠藤野葛上放置一个+1/+1指示物。"}
+{"src": "At the beginning of each opponent's upkeep, untap a creature you control.", "trg": "在每位对手的维持开始时，重置一个由你操控的生物。"}
+{"src": "Exile target artifact, creature, or enchantment with mana value X or less.", "trg": "放逐目标法术力值等于或小于X的神器，生物或结界。"}
+{"src": "When Nulltread Gargantuan enters the battlefield, put a creature you control on top of its owner's library.", "trg": "当无踪巨兽进场时，将由你操控的一个生物置于其拥有者的牌库顶。"}
+{"src": "Target creature gets -3/-3 until end of turn.", "trg": "目标生物得-3/-3直到回合结束。"}
+{"src": "Magecraft — Whenever you cast or copy an instant or sorcery spell, target creature has base power and toughness 8/8 until end of turn.", "trg": "魔艺～每当你施放或复制瞬间或法术咒语时，目标生物的基础力量与防御力为8/8直到回合结束。"}
+{"src": "Whenever a permanent you control is turned face up, draw a card.", "trg": "每当一个由你操控的永久物翻回正面时，抓一张牌。"}
+{"src": "{X}{R}, Sacrifice Pain Kami: It deals X damage to target creature.", "trg": "{X}{R}，牺牲苦痛神：苦痛神对目标生物造成X点伤害。"}
+{"src": "Turn it face up any time for its morph cost.", "trg": "可随时支付其变身费用使其翻回正面。"}
+{"src": "{W}, Sacrifice Implement of Improvement: You gain 2 life.", "trg": "{W}，牺牲改进擎具：你获得2点生命。"}
+{"src": "Creatures you control with mana value 3 or less get +1/+0.", "trg": "由你操控且法术力值等于或小于3的生物得+1/+0。"}
+{"src": "Whenever you sacrifice a permanent, put a +1/+1 counter on Blood Aspirant.", "trg": "每当你牺牲一个永久物时，在鲜血求索客上放置一个+1/+1指示物。"}
+{"src": "When Frostpyre Arcanist enters the battlefield, search your library for an instant or sorcery card with the same name as a card in your graveyard, reveal it, put it into your hand, then shuffle.", "trg": "当霜焰奥术师进战场时，从你的牌库中搜寻一张瞬间或法术牌，且其须与你坟墓场中的某张牌同名，展示该牌，将它置于你手上，然后将你的牌库洗牌。"}
+{"src": "When Adder-Staff Boggart enters the battlefield, clash with an opponent.", "trg": "当蛇杖波尬进场时，与一位对手比点。"}
+{"src": "{B}{G}, Exile a Fungus card from a graveyard: Put a spore counter on each Fungus on the battlefield.", "trg": "{B}{G}，将一张真菌牌从任一坟墓场移出对战：在每个由你操控的真菌上放置一个芽孢指示物。"}
+{"src": "Addendum — If you cast this spell during your main phase, draw a card.", "trg": "附案～如果你是在你的行动阶段施放此咒语，则抓一张牌。"}
+{"src": "When Loxodon Lifechanter enters the battlefield, you may have your life total become the total toughness of creatures you control.", "trg": "当象族颂生师进战场时，你可以令你的总生命成为由你操控之生物的防御力总和。"}
+{"src": "When Cinder Hellion enters the battlefield, it deals 2 damage to target opponent or planeswalker.", "trg": "当烬火地狱兽进战场时，它向目标对手造成2点伤害。"}
+{"src": "Lifelink", "trg": "系命"}
+{"src": "If a creature is attacking you and you control a Forest and a Plains, you may cast Qasali Ambusher without paying its mana cost and as though it had flash.", "trg": "如果有生物攻击你，且你操控了树林与平原，你可以将夸萨伏击队视同具有闪现异能地来使用，且不须支付其法术力费用。"}
+{"src": "{T}: Other creatures you control with flying get +1/+0 until end of turn.", "trg": "{T}：由你操控且具飞行异能的其它生物得+1/+0直到回合结束。"}
+{"src": "Untap that creature.", "trg": "重置该生物。"}
+{"src": "Take an extra turn after this one.", "trg": "于本回合后进行额外的一个回合。"}
+{"src": "Nonartifact spells cost {1} more to cast.", "trg": "非神器咒语增加{1}来施放。"}
+{"src": "{1}{B}, {T}: Attacking creatures get -1/-1 until end of turn.", "trg": "{1}{B}，{T}：进行攻击的生物得-1/-1直到回合结束。"}
+{"src": "Whenever a creature attacks you or a planeswalker you control, that creature's controller loses 1 life.", "trg": "每当一个生物攻击你或由你操控的鹏洛客时，该生物的操控者失去1点生命。"}
+{"src": "When Cartouche of Knowledge enters the battlefield, draw a card.", "trg": "当知识魔符进战场时，抓一张牌。"}
+{"src": "Exile it at the beginning of the next end step or if it would leave the battlefield.", "trg": "于它将离场时，或在回合结束时，将它移出对战。"}
+{"src": "Put the rest on the bottom of your library in a random order.", "trg": "将其余的牌以随机顺序置于你牌库底。"}
+{"src": "You may cast this card from your graveyard for its escape cost.", "trg": "你可以从你的坟墓场施放此牌，并支付其逸脱费用。"}
+{"src": "At the beginning of your upkeep, each player discards a card.", "trg": "在你的维持开始时，每位牌手各弃一张牌。"}
+{"src": "{3}{G}: Put a +1/+1 counter on target creature.", "trg": "{3}{G}：在目标生物上放置一个+1/+1指示物。"}
+{"src": "You may cast this spell for its dash cost.", "trg": "你可以支付此咒语的掩袭费用来施放它。"}
+{"src": "Zurgo Bellstriker can't block creatures with power 2 or greater.", "trg": "司钟珠高不能阻挡力量等于或大于2的生物。"}
+{"src": "This spell costs {1} less to cast for each creature card in your graveyard.", "trg": "你坟墓场中每有一张生物牌，此咒语便减少{1}来施放。"}
+{"src": "Start the game with this conspiracy face down in the command zone and secretly choose a card name.", "trg": "开始游戏时将此诡局牌面朝下地置于统帅区，并私下决定一个牌名。"}
+{"src": "Haste", "trg": "敏捷"}
+{"src": "• Creatures target player controls get +1/+1 and gain first strike until end of turn.", "trg": "•直到回合结束，由目标牌手操控的生物得+1/+1且获得先攻异能。"}
+{"src": "Whenever you attack a player, tap target creature that player controls and goad it.", "trg": "每当你攻击任一牌手时，横置目标由该牌手操控的生物并煽惑它。"}
+{"src": "{1}{B}, {T}: Put a +1/+1 counter on this creature.", "trg": "{1}{B}，{T}：在此生物上放置一个+1/+1指示物。"}
+{"src": "This spell costs {X} less to cast, where X is the total mana value of noncreature artifacts you control.", "trg": "金工巨像减少{X}来施放，X为所有由你操控之非生物神器总法术力费用的总和。"}
+{"src": "Up to X target creatures phase out.", "trg": "至多X个目标生物跃离。"}
+{"src": "{U}: Return this card from your graveyard to the battlefield.", "trg": "{U}：将此牌从你的坟墓场移回战场。"}
+{"src": "{T}: Add one mana of any color.", "trg": "{T}：加一点任意颜色的法术力。"}
+{"src": "• Creatures without flying can't block this turn.", "trg": "• 不具飞行异能的生物本回合不能进行阻挡。"}
+{"src": "Flying", "trg": "飞行"}
+{"src": "Raid — At the beginning of your postcombat main phase, if you attacked with a creature this turn, exile the top card of your library.", "trg": "突击～在你战斗后的行动阶段开始时，若你本回合中曾以生物攻击，则放逐你的牌库顶牌。"}
+{"src": "Morph {3}{R}", "trg": "变身{3}{R}"}
+{"src": "+1: Venture into the dungeon.", "trg": "+1：深入地城。"}
+{"src": "{G}, Discard this card: Draw a card.", "trg": "{G}，弃掉此牌：抓一张牌。"}
+{"src": "I — Create an 8/8 blue Kraken creature token with hexproof.", "trg": "I — 派出一个8/8蓝色，具辟邪异能的巨海兽衍生生物。"}
+{"src": "Cumulative upkeep {W} or {U} ", "trg": "累积维持{W}或{U}"}
+{"src": "Trample", "trg": "践踏"}
+{"src": "You return that card to the battlefield with an additional +1/+1 counter on it.", "trg": "你将该牌移回战场，且其上额外有一个+1/+1指示物。"}
+{"src": "This card has no color.", "trg": "此牌没有颜色。"}
+{"src": "Put a +1/+1 counter on each creature you control.", "trg": "在每个由你操控的生物上各放置一个+1/+1指示物。"}
+{"src": "This spell costs {1} less to cast for each creature you control.", "trg": "你每操控一个生物，此咒语便减少{1}来施放。"}
+{"src": "Crushing Pain deals 6 damage to target creature that was dealt damage this turn.", "trg": "剧痛再起对目标于本回合中曾受过伤害的生物造成6点伤害。"}
+{"src": "{1}{W}: Target attacking Zombie gains lifelink until end of turn.", "trg": "{1}{W}：目标进行攻击的灵俑获得系命异能直到回合结束。"}
+{"src": "Whenever you discard a card, exile that card from your graveyard.", "trg": "每当你弃一张牌时，将该牌从你的坟墓场放逐。"}
+{"src": "If you do, discard a card.", "trg": "若你如此作，则弃一张牌。"}
+{"src": "Exile target nonland permanent.", "trg": "放逐目标非地永久物。"}
+{"src": "Its controller discards a card.", "trg": "其操控者弃一张牌。"}
+{"src": "Menace", "trg": "威慑"}
+{"src": "You may exert Vizier of the True as it attacks.", "trg": "你可以于真信维齐尔攻击时耗竭之。"}
+{"src": "Target player mills half their library, rounded down.", "trg": "目标牌手磨其牌库一半数量的牌，小数点后舍去。"}
+{"src": "You can have two commanders if both have partner.", "trg": "你可将两个具有拍档异能的生物共同用作指挥官。"}
+{"src": "{2}, Exile a card from your graveyard: Create a 1/1 white Human Soldier creature token.", "trg": "{2}，从你的坟墓场放逐一张牌：将一个1/1白色人类／士兵衍生生物放进战场。"}
+{"src": "II, III — Each player returns two land cards from their graveyard to the battlefield.", "trg": "II, III — 每位牌手各将两张地牌从其坟墓场移回战场。"}
+{"src": "Return target creature card with mana value X or less from your graveyard to the battlefield.", "trg": "将目标总法术力费用等于或小于X的生物牌从你的坟墓场移回场上。"}
+{"src": "You may reveal a creature or land card from among them and put it into your hand.", "trg": "你可以展示其中的一张生物或地牌，并将它置于你手上。"}
+{"src": "If you discarded a nonland card, put a +1/+1 counter on this creature.", "trg": "如果你弃的牌不是地，则在此生物上放置一个+1/+1指示物。"}
+{"src": "{2}{R}{W}, Tap an untapped Rebel you control: Return Otharri from your graveyard to the battlefield tapped.", "trg": "{2}{R}{W}，横置一个由你操控且未横置的反抗军：将欧萨利从你的坟墓场横置移回战场。"}
+{"src": "Scry 1.", "trg": "占卜1。"}
+{"src": "Whenever an opponent casts an artifact, instant, or sorcery spell, counter that spell.", "trg": "每当任一对手施放神器，瞬间或法术咒语时，反击该咒语。"}
+{"src": "I — Create a 2/3 red Demon Berserker creature token with menace.", "trg": "I — 派出一个2/3红色，具威慑异能的恶魔／狂战士衍生生物。"}
+{"src": "Lifelink", "trg": "系命"}
+{"src": "{5}{U}: Until end of turn, Hall of Storm Giants becomes a 7/7 blue Giant creature with ward {3}.", "trg": "{5}{U}：直到回合结束，风暴巨人大厅成为7/7蓝色，具守护{3}的巨人生物。"}
+{"src": "Trample", "trg": "践踏"}
+{"src": "It becomes a creature again if it's not attached to a creature.", "trg": "如果它未结附于生物上，就会再度成为生物。"}
+{"src": "When Spawn of Thraxes enters the battlefield, it deals damage to any target equal to the number of Mountains you control.", "trg": "当特剌谢斯后裔进战场时，它对目标生物或牌手造成伤害，其数量等同于由你操控的山脉数量。"}
+{"src": "You may pay an additional {3} as you cast this spell.", "trg": "你施放此咒语时可以额外支付{3}。"}
+{"src": "When Arbiter of Knollridge enters the battlefield, each player's life total becomes the highest life total among all players.", "trg": "当丘脊仲裁者进场时，每位牌手的总生命成为所有牌手中总生命最高者的数值。"}
+{"src": "+2: Exile target permanent you own.", "trg": "+2：放逐目标由你拥有的永久物。"}
+{"src": "Whenever Sphinx Ambassador deals combat damage to a player, search that player's library for a card, then that player chooses a card name.", "trg": "每当史芬斯大使对牌手造成战斗伤害时，从该牌手的牌库中搜寻一张牌，然后该牌手说出一个牌名。"}
+{"src": "If you cast this card for its bestow cost, it's an Aura spell with enchant creature.", "trg": "如果你支付此牌的神授费用来施放它，则它便是具\"结附于生物\"的灵气咒语。"}
+{"src": "{T}: Add one mana of any color.", "trg": "{T}：加一点任意颜色的法术力。"}
+{"src": "You may cast sorcery spells as though they had flash.", "trg": "你可以将法术咒语视同具有闪现异能地来施放。"}
+{"src": "If that creature is black or red, destroy it.", "trg": "若该生物是红色或黑色，则将它消灭。"}
+{"src": "Swiftwater Cliffs enters the battlefield tapped.", "trg": "急流山崖须横置进战场。"}
+{"src": "Remove an indestructible counter from Myojin of Towering Might: Distribute eight +1/+1 counters among any number of target creatures you control.", "trg": "从雄力明神上移去一个不灭指示物：将八个+1/+1指示物分配给任意数量目标由你操控的生物。"}
+{"src": "Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.", "trg": "每当它进行阻挡或被阻挡时，它得+2/+2直到回合结束。"}
+{"src": "At the beginning of your end step, you may sacrifice an artifact, creature, enchantment, land, or planeswalker.", "trg": "在你的结束步骤开始时，你可以牺牲一个神器，生物，结界，地或鹏洛客。"}
+{"src": "After this main phase, there is an additional combat phase followed by an additional main phase.", "trg": "在此行动阶段后，额外多出一个战斗阶段，以及接于其后之一个额外的行动阶段。"}
+{"src": "Untap it.", "trg": "将它重置。"}
+{"src": "Explosive Revelation deals damage equal to that card's mana value to that permanent or player.", "trg": "爆烈启示对该生物或牌手造成伤害，其数量等同于所展示牌的总法术力费用。"}
+{"src": "{T}: Kjeldoran Javelineer deals damage equal to the number of age counters on it to target attacking or blocking creature.", "trg": "{T}：奇亚多掷枪手对目标进行攻击或阻挡的生物造成伤害，其数量等同于奇亚多掷枪手上岁月指示物的数量。"}
+{"src": "They remain paired for as long as you control both of them.", "trg": "只要你操控它们，此两者便持续搭档。"}
+{"src": "You lose life equal to its mana value.", "trg": "你失去与该牌之总法术力费用等量的生命。"}
+{"src": "At the beginning of each player's upkeep, if that player has no cards in hand, you draw a card and you lose 1 life.", "trg": "在每位牌手的维持开始时，若该牌手没有手牌，则你抓一张牌且你失去1点生命。"}
+{"src": "• Reckless Air Strike deals 3 damage to target creature with flying.", "trg": "•鲁莽空袭对目标具飞行异能的生物造成3点伤害。"}
+{"src": "Flying ", "trg": "飞行"}
+{"src": "Flying", "trg": "飞行"}
+{"src": "Master the Way deals damage to any target equal to the number of cards in your hand.", "trg": "通悟灵宗对目标生物或牌手造成等同于你手牌数量的伤害。"}
+{"src": "Activate only as a sorcery.", "trg": "只能于法术时机起动。"}
+{"src": "If you don't control one, create a 0/0 black Zombie Army creature token first.", "trg": "如果你未操控军队，则先派出一个0/0黑色灵俑／军队衍生物。"}
+{"src": "Whenever Sunhome Enforcer deals combat damage, you gain that much life.", "trg": "每当阳园执法者造成战斗伤害时，你获得等量的生命。"}
+{"src": "When Stadium Vendors enters the battlefield, choose a player.", "trg": "当竞技场卖商进战场时，选择一位牌手。"}
+{"src": "Minotaur spells you cast cost {B}{R} less to cast.", "trg": "你施放的牛头怪咒语减少{B}{R}来施放。"}
+{"src": "Target creature gains flying until end of turn.", "trg": "目标生物获得飞行异能直到回合结束。"}
+{"src": "You can have two commanders if both have partner.", "trg": "你可将两个具有拍档异能的生物共同用作指挥官。"}
+{"src": "At the beginning of combat on your turn, if The Ozolith has counters on it, you may move all counters from The Ozolith onto target creature.", "trg": "在你回合的战斗开始时，若欧佐晶岩上有指示物，则你可以将欧佐晶岩上的所有指示物移至目标生物上。"}
+{"src": "Equip {2}{B}", "trg": "佩带{2}{B}"}
+{"src": "As this Saga enters and after your draw step, add a lore counter.", "trg": "于此传纪进战场时及于你抓牌步骤后，加一个学问指示物。"}
+{"src": "Sliver creatures you control get +2/+0.", "trg": "由你操控的裂片妖生物得+2/+0。"}
+{"src": "{R/W}{R/W}{R/W}{R/W}: Fireborn Knight gets +1/+1 until end of turn.", "trg": "{R/W}{R/W}{R/W}{R/W}：雅鞍骑士得+1/+1直到回合结束。"}
+{"src": "−9: Gain control of up to three target creatures.", "trg": "−9：获得至多三个目标生物的操控权。"}
+{"src": "If you control three or more artifacts, it also gains first strike until end of turn.", "trg": "若你操控三个或更多神器，则它再获得先攻异能直到回合结束。"}
+{"src": "{T}, Sacrifice Golden Urn: You gain life equal to the number of charge counters on Golden Urn.", "trg": "{T}，牺牲黄金秘壶：你获得等同于黄金秘壶上充电指示物数量的生命。"}
+{"src": "Goldmire Bridge enters the battlefield tapped.", "trg": "金沼结桥须横置进战场。"}
+{"src": "Whenever an opponent casts a spell, that player mills two cards.", "trg": "每当任一对手使用咒语时，该牌手将其牌库顶的两张牌置入其坟墓场。"}
+{"src": "Target creature you control deals damage equal to its power to target player.", "trg": "目标由你操控的生物对目标牌手造成伤害，其数量等同于前者的力量。"}
+{"src": "If it shares a creature type with Winnower Patrol, you may reveal it.", "trg": "如果它与巡防筛除者有共通之生物类别，你可以展示该牌。"}
+{"src": "II — Return target sorcery card from your graveyard to your hand.", "trg": "II — 将目标法术牌从你的坟墓场移回你手上。"}
+{"src": "As this Saga enters and after your draw step, add a lore counter.", "trg": "于此传纪进战场时及于你抓牌步骤后，加一个学问指示物。"}
+{"src": "{B}, Tap another untapped creature you control: Black Oak of Odunos gets +1/+1 until end of turn.", "trg": "{B}，横置另一个由你操控且未横置的生物：俄渡诺陵黑橡树妖得+1/+1直到回合结束。"}
+{"src": "Exile target creature.", "trg": "将目标生物移出对战。"}
+{"src": "Lifelink", "trg": "系命"}
+{"src": "{2}{W}{B}, {T}, Sacrifice Moratorium Stone: Exile target nonland card from a graveyard, all other cards from graveyards with the same name as that card, and all permanents with that name.", "trg": "{2}{W}{B}，{T}，牺牲终焉石：从任一坟墓场将目标非地的牌移出对战，并将所有坟墓场中该名称的其它牌，以及场上所有该名称的永久物移出对战。"}
+{"src": "• Return target Saga or enchantment creature you control to its owner's hand.", "trg": "•将目标由你操控的传纪或结界生物移回其拥有者手上。"}
+{"src": "{B}: Endling gains deathtouch until end of turn.", "trg": "{B}：末灵精怪获得死触异能直到回合结束。"}
+{"src": "Landfall — Whenever a land enters the battlefield under your control, equipped creature gets +2/+2 until end of turn.", "trg": "地落～每当一个地在你的操控下进战场时，佩带此武具的生物得+2/+2直到回合结束。"}
+{"src": "Choose one —", "trg": "选择一项～"}
+{"src": "Enchanted creature has \"{T}: This creature deals 1 damage to any target.\"", "trg": "受此结界的生物具有\"{T}：此生物对目标生物或牌手造成1点伤害。\""}
+{"src": "When Shaman of Spring enters the battlefield, draw a card.", "trg": "当迎春祭师进战场时，抓一张牌。"}
+{"src": "Bigby's Hand — {T}: Untap two other target permanents.", "trg": "毕格比之掌～{T}：重置两个其他目标永久物。"}
+{"src": "{W}{U}{B}{R}{G}: Until end of turn, Paragon of the Amesha becomes an Angel, gets +3/+3, and gains flying and lifelink.", "trg": "{W}{U}{B}{R}{G}：直到回合结束，爱米莎守护者成为天使，得+3/+3，并获得飞行与系命异能。"}
+{"src": "Domain — {3}{G}: Until end of turn, Sunbathing Rootwalla gets +1/+1 for each basic land type among lands you control.", "trg": "领土～{3}{G}：直到回合结束，由你操控的地中每有一种基本地类别，浴日萝特瓦拉便得+1/+1。"}
+{"src": "If Ghastly Gloomhunter was kicked, it enters the battlefield with two +1/+1 counters on it.", "trg": "如果骇怖猎暗蝠已增幅，则它进战场时上面有两个+1/+1指示物。"}
+{"src": "{2}, Return a land you control to its owner's hand: Target creature with power 2 or less can't be blocked this turn.", "trg": "{2}，将由你操控的一个地移回其拥有者手上：目标力量等于或小于2的生物本回合中不能被阻挡。"}
+{"src": "Put the exiled cards on the bottom of your library in a random order.", "trg": "将所放逐的牌以随机顺序置于你的牌库底。"}
+{"src": "Flying, haste", "trg": "飞行，敏捷"}
+{"src": "Put that card into your hand and the rest on the bottom of your library in a random order.", "trg": "将该牌置于你手上，其余则以随机顺序置于你的牌库底。"}
+{"src": "Enchanted land is a 6/4 green Elemental creature.", "trg": "所结附的地是6/4绿色的元素生物。"}
+{"src": "0: Exile Kaya, Ghost Assassin or up to one target creature.", "trg": "0：放逐驱鬼卡娅或至多一个目标生物。"}
+{"src": "Target creature gets +2/+0 and gains first strike until end of turn.", "trg": "直到回合结束，目标生物得+2/+0且获得先攻异能。"}
+{"src": "{1}, Discard this card: Draw a card.", "trg": "{1}，弃掉此牌：抓一张牌。"}
+{"src": "Whenever enchanted land becomes tapped, its controller loses 2 life.", "trg": "每当受此结界的地成为横置时，其操控者失去2点生命。"}
+{"src": "Whenever this creature attacks, defending player sacrifices three permanents.", "trg": "每当此生物攻击时，防御牌手牺牲三个永久物。"}
+{"src": "Delirium — When Ishkanah, Grafwidow enters the battlefield, if there are four or more card types among cards in your graveyard, create three 1/2 green Spider creature tokens with reach.", "trg": "躁狂～当墓寡妇伊什卡娜进战场时，若你坟墓场中牌的类别有四种或更多，则将三个1/2绿色，具延势异能的蜘蛛衍生生物放进战场。"}
+{"src": "{T}: Add {R} or one mana of the chosen color.", "trg": "{T}：加{R}或一点所选颜色的法术力。"}
+{"src": "{W}, Sacrifice a Soldier: Prevent all combat damage that would be dealt this turn.", "trg": "{W}，牺牲一个士兵：于本回合中，防止将造成的所有战斗伤害。"}
+{"src": "If that spell is countered this way, put that card on the top or bottom of its owner's library instead of into that player's graveyard.", "trg": "若该咒语以此法被反击，则改为将之置于其拥有者的牌库顶或牌库底，而非置入其拥有者的坟墓场。"}
+{"src": "• Scry 1, then draw a card.", "trg": "•占卜1，然后抓一张牌。"}
+{"src": "Enchant creature", "trg": "结附于生物"}
+{"src": "End the Festivities deals 1 damage to each opponent and each creature and planeswalker they control.", "trg": "喜庆终结向每位对手和每个由对手操控的生物和鹏洛客各造成1点伤害。"}
+{"src": "Partner with Blaring Recruiter ", "trg": "与啸号征召员拍档"}
+{"src": "• Create a tapped Powerstone token.", "trg": "•派出一个已横置的魔力石衍生物。"}
+{"src": "If you do, create X 2/2 black Astartes Warrior creature tokens with menace.", "trg": "若你如此作，则派出X个2/2黑色，具威慑异能的阿斯塔特／战士衍生生物。"}
+{"src": "When Desperate Sentry dies, create a 3/2 colorless Eldrazi Horror creature token.", "trg": "当绝望哨兵死去时，将一个3/2无色奥札奇／惊惧兽衍生生物放进战场。"}
+{"src": "Overgrown Farmland enters the battlefield tapped unless you control two or more other lands.", "trg": "除非你操控两个或更多其他地，否则蔓生农地须横置进战场。"}
+{"src": "Escape—{3}{B}, Exile three other cards from your graveyard.", "trg": "逸脱～{3}{B}，从你的坟墓场放逐三张其他牌。"}
+{"src": "If {B} was spent to cast this spell, target player reveals their hand, you choose a nonland card from it, then that player discards that card.", "trg": "如果使用河流之攫时支付了{B}，则目标牌手展示其手牌，你选择其中一张非地的牌，然后该牌手弃掉该牌。"}
+{"src": "Fire of Tzeentch — Whenever you cast an instant or sorcery spell, Exalted Flamer of Tzeentch deals 1 damage to each opponent.", "trg": "奸奇之火～每当你施放瞬间或法术咒语时，奸奇至尊火妖向每位对手各造成1点伤害。"}
+{"src": "Flying", "trg": "飞行"}
+{"src": "Whenever Coalhauler Swine is dealt damage, it deals that much damage to each player.", "trg": "每当负煤猪受到伤害时，它对每位牌手造成等量的伤害。"}
+{"src": "Then shuffle.", "trg": "然后将你的牌库洗牌。"}
+{"src": "They gain haste until end of turn.", "trg": "它们获得敏捷异能直到回合结束。"}
+{"src": "Whenever another Merfolk enters the battlefield under your control, put a +1/+1 counter on Forerunner of the Heralds.", "trg": "每当另一个人鱼在你的操控下进战场时，在川流使先驱上放置一个+1/+1指示物。"}
+{"src": "If you do, it's sacrificed when it enters the battlefield.", "trg": "若你如此作，它进场时便被牺牲。"}
+{"src": "Damage causes loss of life.", "trg": "伤害会导致失去生命。"}
+{"src": "Whenever Abomination of Gudul deals combat damage to a player, you may draw a card.", "trg": "每当谷渡憎恨兽对任一牌手造成战斗伤害时，你可以抓一张牌。"}
+{"src": "Equipment, Auras you control, and counters are modifications.", "trg": "武具，指示物，以及由你操控的灵气均为饰装。"}
+{"src": "You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.", "trg": "你可以从游戏外展示一张由你拥有的课程牌并置于你手上，或弃一张牌来抓一张牌。"}
+{"src": "{1}{U}{R}: Mizzium Transreliquat becomes a copy of target artifact, except it has this ability.", "trg": "{1}{U}{R}：米捷摹态械成为目标神器的复制，且获得此异能。"}
+{"src": "Spells you cast have ripple 4.", "trg": "由你操控的咒语具有涟动4。"}
+{"src": "Enchant land", "trg": "结附于地"}
+{"src": "Return target creature with mana value X to its owner's hand.", "trg": "将目标总法术力费用为X的生物移回其拥有者手上。"}
+{"src": "Lifelink ", "trg": "系命"}
+{"src": "Cycling {2}", "trg": "循环{2}"}
+{"src": "It must be blocked this turn if able.", "trg": "它本回合若能被阻挡，则须如此作。"}
+{"src": "Choose five.", "trg": "选择五项。"}
+{"src": "Unearth only as a sorcery.", "trg": "破坟的时机视同法术。"}
+{"src": "Exile Calamity's Wake.", "trg": "放逐灾祸残迹。"}
+{"src": "{T}: Target creature gains haste until end of turn.", "trg": "{T}：目标生物获得敏捷异能直到回合结束。"}
+{"src": "Foretell {4}{U}{U}", "trg": "预示{4}{U}{U}"}
+{"src": "Target player reveals their library.", "trg": "目标牌手展示其牌库。"}
+{"src": "Whenever this creature mutates, exile cards from the top of your library until you exile a nonland permanent card.", "trg": "每当此生物合变时，从你的牌库顶开始放逐牌，直到放逐一张非地永久物牌为止。"}
+{"src": "This card has no color.", "trg": "此牌没有颜色。"}
+{"src": "Cycling {2}{R} ", "trg": "循环{2}{R}"}
+{"src": "Lifelink", "trg": "系命"}
+{"src": "Then that player shuffles.", "trg": "然后该牌手将其牌库洗牌。"}
+{"src": "Whenever one or more +1/+1 counters are put on Growth-Chamber Guardian, you may search your library for a card named Growth-Chamber Guardian, reveal it, put it into your hand, then shuffle.", "trg": "每当在生长室守护者上放置一个或数个+1/+1指示物时，你可以从你的牌库中搜寻一张名称为生长室守护者的牌，展示该牌，将它置于你手上，然后将你的牌库洗牌。"}
+{"src": "Flash", "trg": "闪现"}
+{"src": "Activate only once each turn.", "trg": "此异能每回合中只能起动一次。"}
+{"src": "{T}: Add {C}.", "trg": "{T}：加{1}到你的法术力池中。"}
+{"src": "It can't be the target of spells or abilities your opponents control.", "trg": "它不能成为由对手操控之咒语或异能的目标。"}
+{"src": "If you control three or more artifacts, draw two cards instead.", "trg": "如果你操控三个或更多神器，则改为抓两张牌。"}
+{"src": "Unearth {1}{R}", "trg": "破坟{1}{R}"}
+{"src": "When Dreadhound enters the battlefield, mill three cards.", "trg": "当恐惧猎犬进战场时，磨三张牌。"}
+{"src": "When the creature Cry of Contrition haunts dies, target player discards a card.", "trg": "当悔罪哭喊所缠身的生物置入坟墓场时，目标牌手弃一张牌。"}
+{"src": "{T}: Add {W}.", "trg": "{T}：加{W}。"}
+{"src": "Put a +1/+1 counter on Froghemoth for each creature card exiled this way.", "trg": "每以此法放逐一张生物牌，便在沼喉怪上放置一个+1/+1指示物。"}
+{"src": "Flying, trample", "trg": "飞行，践踏"}
+{"src": "Put a creature card with an even mana value from among the milled cards onto the battlefield under your control.", "trg": "你将这些牌其中一张总法术力费用为偶数的生物牌在你的操控下放进战场。"}
+{"src": "Other Minotaur creatures you control have deathtouch.", "trg": "由你操控的其他牛头怪生物具有死触异能。"}
+{"src": "Unearth only as a sorcery.", "trg": "破坟的时机视同法术。"}
+{"src": "Whenever a player sacrifices a permanent, Mayhem Devil deals 1 damage to any target.", "trg": "每当任一牌手牺牲一个永久物时，破坏魔鬼对任意一个目标造成1点伤害。"}
+{"src": "For each opponent, exile up to one target instant or sorcery card from that player's graveyard and put a page counter on it.", "trg": "为每位对手各进行以下流程～将至多一张目标瞬间或法术牌从该牌手的坟墓场放逐，并在其上放置一个书页指示物。"}
+{"src": "Flying", "trg": "飞行"}
+{"src": "Exile a creature card from your graveyard and pay its mana cost: Create a token that's a copy of that card.", "trg": "从你的坟墓场放逐一张生物牌并支付其法术力费用：将一个衍生物放进战场，且为该牌的复制品。"}
+{"src": "Equip {1}", "trg": "佩带{1}"}
+{"src": "If two creatures are put onto the battlefield this way, those creatures fight each other.", "trg": "若有两个生物以此法放进战场，则它们互斗。"}
+{"src": "Mishra's Juggernaut attacks each combat if able.", "trg": "米斯拉的攻城巨车每次战斗若能攻击，则必须攻击。"}
+{"src": "Unleash ", "trg": "脱缰"}
+{"src": "Flying, trample", "trg": "飞行，践踏"}
+{"src": "Players can't gain life this turn.", "trg": "本回合中，牌手不能获得生命。"}
+{"src": "You gain 2 life.", "trg": "你获得2点生命。"}
+{"src": "Kicker {U} ", "trg": "增幅{U}"}
+{"src": "Whenever you cast a Spirit or Arcane spell, you may return Kiri-Onna to its owner's hand.", "trg": "每当你使用精怪或古咒咒语时，你可以将雾女移回你手上。"}
+{"src": "Return target creature card from your graveyard to the battlefield.", "trg": "将目标生物牌从你的坟墓场移回战场。"}
+{"src": "Creatures you control have flying.", "trg": "由你操控的生物具有飞行异能。"}
+{"src": "Defender", "trg": "守军"}
+{"src": "• Target player puts a +1/+1 counter on each creature they control.", "trg": "•目标牌手在每个由其操控的生物上各放置一个+1/+1指示物。"}
+{"src": "Enchanted creature has protection from the chosen color.", "trg": "受此结界的生物具有反该色保护异能。"}
+{"src": "{3}{R}: Firehoof Cavalry gets +2/+0 and gains trample until end of turn.", "trg": "{3}{R}：直到回合结束，焰蹄骑兵得+2/+0且获得践踏异能。"}
+{"src": "As long as enchanted creature is red, it gets +1/+1 and has \"{R/W}: This creature gets +1/+0 until end of turn.\"", "trg": "只要受此结界的生物是红色，它便得+1/+1且具有\"{R/W}：此生物得+1/+0直到回合结束。\""}
+{"src": "• Creatures you control get +1/+1 and gain trample until end of turn.", "trg": "•直到回合结束，由你操控的生物得+1/+1且获得践踏异能。"}
+{"src": "−7: Create five 3/3 white Angel creature tokens with flying.", "trg": "−7：派出五个3/3白色，具飞行异能的天使衍生生物。"}
+{"src": "Create two 1/1 red Goblin creature tokens.", "trg": "将两个1/1红色精灵衍生物放置进场。"}
+{"src": "Enchant land", "trg": "结附于地"}
+{"src": "All lands have indestructible.", "trg": "所有地都不会毁坏。"}
+{"src": "Corrupted — {T}: Target 1/1 creature gets +2/+1 until end of turn.", "trg": "腐化～{T}：目标1/1生物得+2/+1直到回合结束。"}
+{"src": "This ability triggers only once each turn.", "trg": "此异能每回合只会触发一次。"}
+{"src": "When Staff of the Storyteller enters the battlefield, create a 1/1 white Spirit creature token with flying.", "trg": "当叙事人手杖进战场时，派出一个1/1白色，具飞行异能的精怪衍生生物。"}
+{"src": "Your life total can't change.", "trg": "你的总生命不会改变。"}
+{"src": "Pack tactics — Whenever Intrepid Outlander attacks, if you attacked with creatures with total power 6 or greater this combat, venture into the dungeon.", "trg": "集群战术～每当无畏化外之民攻击时，若你本次战斗中用以攻击之生物力量总和等于或大于6，则深入地城。"}
+{"src": "Ward {2} ", "trg": "守护{2}"}
+{"src": "Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.", "trg": "每当它进行阻挡或被阻挡时，它得+1/+1直到回合结束。"}
+{"src": "If you lose the flip, each blocked creature is sacrificed by its controller.", "trg": "否则，攻击牌手牺牲所有被阻挡的生物。"}
+{"src": "{1}, {T}, Sacrifice Nurturing Peatland: Draw a card.", "trg": "{1}，{T}，牺牲生机泥地：抓一张牌。"}
+{"src": "Otherwise put it into your hand.", "trg": "若否，则将它置于你手上。"}
+{"src": "Deathtouch", "trg": "死触"}
+{"src": "Deathtouch", "trg": "死触"}
+{"src": "You gain 2 life.", "trg": "你获得2点生命。"}
+{"src": "At the beginning of your end step, each player who controls the fewest creatures creates a 4/3 blue Salamander Warrior creature token.", "trg": "在你的结束步骤开始时，每位操控生物数量为所有牌手中最少者的牌手各派出一个4/3蓝色火蜥蜴／战士衍生生物。"}
+{"src": "Other Knights you control get +1/+1.", "trg": "由你操控的其他骑士得+1/+1。"}
+{"src": "At the beginning of your upkeep, return a white creature you control to its owner's hand.", "trg": "在你的维持开始时，将一个由你操控的白色生物移回其拥有者手上。"}
+{"src": "Golems you control get +1/+1.", "trg": "由你操控的魔像生物得+1/+1。"}
+{"src": "If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.", "trg": "如果你如此作，则它获得敏捷异能，且在下个结束步骤开始时便需从战场移回其拥有者手上。"}
+{"src": "Gain control of target Equipment, then create a 0/0 black Phyrexian Germ creature token and attach that Equipment to it.", "trg": "获得目标武具的操控权，然后派出一个0/0黑色病菌衍生生物，并将该武具装备于其上。"}
+{"src": "Exploit ", "trg": "榨取"}
+{"src": "Those spells cost {W} less to cast if you paid life this way.", "trg": "如果你以此法支付生命，则该咒语减少{W}来施放。"}
+{"src": "Whenever you cast a creature spell during an opponent's turn, tap up to one target creature.", "trg": "每当你在对手的回合中施放生物咒语时，横置至多一个目标生物。"}
+{"src": "When Pridemalkin enters the battlefield, put a +1/+1 counter on target creature you control.", "trg": "当高傲斑猫进战场时，在目标由你操控的生物上放置一个+1/+1指示物。"}
+{"src": "Flying", "trg": "飞行"}
+{"src": "Damage and effects that say \"destroy\" don't destroy it.", "trg": "伤害与注明\"消灭\"的效应不会将它消灭。"}
+{"src": "Cowards can't block Warriors.", "trg": "懦夫不能阻挡战士。"}
+{"src": "−2: Destroy target tapped creature.", "trg": "-2：消灭目标已横置的生物。"}
+{"src": "If a noncreature card is exiled this way, Deathgorge Scavenger gets +1/+1 until end of turn.", "trg": "如果以此法放逐的是非生物牌，则噬尸食腐龙得+1/+1直到回合结束。"}
+{"src": "Flying", "trg": "飞行"}

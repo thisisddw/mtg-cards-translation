@@ -1,0 +1,981 @@
+{"src": "{ 3 } : Destroy Detention Vortex . ", "trg": "0 0 0 0 0 1 1 0 "}
+{"src": "− 3 : Create two 2 / 1 black Spider creature tokens with menace and reach . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Counter target spell . ", "trg": "0 0 0 0 "}
+{"src": "As this enters the battlefield , you may sacrifice any number of creatures . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If you revealed a Dragon card or controlled a Dragon as you cast this spell , counter that spell instead . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 4 } , { T } : Target opponent loses 2 life , gets a poison counter , then mills six cards . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " When enchanted creature is dealt damage , destroy it . ", "trg": " 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Foretell { 4 } { U } ", "trg": "0 0 0 0 0 0 0 "}
+{"src": " Palladia - Mors , the Ruiner has hexproof if it has n't dealt damage yet . ", "trg": " 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Then you may have it become a 0 / 0 Elemental creature until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "When Deadlock Trap enters the battlefield , you get { E } { E } . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You may cast this spell any time you could cast an instant . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If you win , repeat this process . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": "Flying ", "trg": "0 "}
+{"src": "{ 4 } , { T } : For each planeswalker you control , you may activate one of its loyalty abilities once this turn as though non e of its loyalty abilities have been activated this turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Commander creatures you own have \" At the beginning of your end step , if a creature card was put into your graveyard from anywhere this turn , create two tapped 1 / 1 green Squirrel creature tokens . \" ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "It deals both first - strike and regular combat damage . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever another creature you control enters the battlefield or dies , if that creature 's power is greater than Pelt Collector 's , put a + 1 / + 1 counter on Pelt Collector . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 "}
+{"src": "Return target creature card from your graveyard to your hand . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Defender ", "trg": "0 "}
+{"src": "Shroud ", "trg": "0 "}
+{"src": "As you draft a creature card , you may reveal it , note its creature types , then turn Paliano Vanguard face down . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 "}
+{"src": "Whenever a creature you control attacks , put a + 1 / + 1 counter on it . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Spells with the chosen name cost { 1 } less to cast this turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Forecast — { 1 } { U } , Reveal Govern the Guildless from your hand : Target creature becomes the color or colors of your choice until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever Corrosive Ooze blocks or becomes blocked by an equipped creature , destroy all Equipment attached to that creature at end of combat . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "When Brain Maggot enters the battlefield , target opponent reveals their hand and you choose a non land card from it . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever Uro enters the battlefield or attacks , you gain 3 life and draw a card , then you may put a land card from your hand onto the battlefield . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Destructive Force deals 5 damage to each creature . ", "trg": "1 1 0 0 0 0 0 0 0 "}
+{"src": "Each creature you control ca n't be blocked as long as defending player controls an artifact land . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Put two + 1 / + 1 counters on an Army you control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "II — Exile up to two target cards from graveyards . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Reconfigure only as a sorcery . ", "trg": "0 0 0 0 0 0 "}
+{"src": "{ 4 } { W } { U } , Exile this card from your graveyard : Create a token that 's a copy of it , except it 's a white Zombie Bird Warrior with no mana cost . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Destructive Revelry deals 2 damage to that permanent 's controller . ", "trg": "1 1 0 0 0 0 0 0 0 0 0 "}
+{"src": " Whenever you cast a Vampire creature spell , it gains bloodthirst 3 . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "three energy counters ", "trg": "0 0 0 "}
+{"src": "Enter the first room or advance to the next room . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever that creature deals combat damage to a player , its controller may cast a copy of the encoded card without paying its mana cost . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Look at the top card of your library . ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "Destroy target creature . ", "trg": "0 0 0 0 "}
+{"src": "Equip only as a sorcery . ", "trg": "0 0 0 0 0 0 "}
+{"src": "Target creature gets + 3 / + 0 and gains first strike until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ T } : You gain 1 life . ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "If you win , Fire Juggler deals 4 damage to each creature blocking it . ", "trg": "0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 3 } , { T } : Copy target instant or sorcery spell you control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "First strike ", "trg": "0 0 "}
+{"src": "Flying ", "trg": "0 "}
+{"src": "Create a Treasure token . ", "trg": "0 0 0 0 0 "}
+{"src": "Flying , lifelink ", "trg": "0 0 0 "}
+{"src": "At the beginning of your upkeep , sacrifice Vapor Snare unless you return a land you control to its owner 's hand . ", "trg": "0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "The copy becomes a token . ", "trg": "0 0 0 0 0 0 "}
+{"src": " Enchanted creature gets + 4 / + 4 and has flying , first strike , vigilance , trample , and lifelink . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Target creature gets - 4 / - 1 until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Equipped creature gets + 1 / + 0 and has trample . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "At the beginning of your upkeep , remove a time counter . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Flying , trample ", "trg": " 0 0 0 "}
+{"src": "Draw a card . ", "trg": "0 0 0 0 "}
+{"src": "Whenever a creature you control with a mana ability attacks , untap it . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 3 } , Sacrifice Herbal Poultice : Regenerate target creature . ", "trg": "0 0 0 0 0 1 1 0 0 0 0 0 "}
+{"src": "Amass 1 . ", "trg": "0 0 0 "}
+{"src": "Whenever another legendary creature you control dies , create a token that 's a copy of that creature , except it 's not legendary and it 's a 2 / 2 black Zombie in addition to its other colors and types . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 3 } { B } : Target player discards a card . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Destroy target artifact , enchantment , or planeswalker . ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "{ R } , { T } : Target creature ca n't block this turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Trample , haste ", "trg": "0 0 0 "}
+{"src": "You may reveal a creature card or Garruk planeswalker card from among them and put it into your hand . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Protection from Werewolves ", "trg": "0 0 0 "}
+{"src": "You may cast this card from your graveyard by discarding a card in addition to paying its other costs . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " When Strands of Undeath enters the battlefield , target player discards two cards . ", "trg": " 0 1 1 1 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Landfall — Whenever a land enters the battlefield under your control , you may have Cosi 's Ravager deal 1 damage to target player or planeswalker . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 "}
+{"src": "If you do , that land becomes a 0 / 0 Elemental creature with haste that 's still a land . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "• Target land gains \" { T } : Add { G } { G } { G } \" until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Banefire deals X damage to any target . ", "trg": "1 0 0 0 0 0 0 0 "}
+{"src": "This spell costs { 2 } less to cast for each card exiled this way . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Draw three cards , then discard a card . ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "Create a token that 's a copy of a creature token you control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Flying ", "trg": "0 "}
+{"src": "+ 1 : Draw a card . ", "trg": "0 0 0 0 0 0 0 "}
+{"src": "Training Drone ca n't attack or block unless it 's equipped . ", "trg": "1 1 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 3 } { U } , Exile Cobbled Lancer from your graveyard : Draw a card . ", "trg": "0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 "}
+{"src": "That land does n't untap during its controller 's next untap step . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Whenever The Haunt of Hightower attacks , defending player discards a card . ", "trg": " 0 1 1 1 1 0 0 0 0 0 0 0 0 "}
+{"src": "The votes can be for different choices or for the same choice . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " When Rapacious Dragon enters the battlefield , create two Treasure tokens . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 "}
+{"src": "Put target artifact on the bottom of its owner 's library . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever an artifact an opponent controls is put into a graveyard from the battlefield , Sardian Avenger deals 1 damage to that player . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 "}
+{"src": " Evolve ", "trg": " 0 "}
+{"src": " As long as your devotion to white and black is less than seven , Athreos is n't a creature . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If you do , you gain 2 life . ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "Creatures your opponents control lose flying and ca n't have or gain flying . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If you search your library this way , shuffle . ", "trg": "0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Raid — When Mardu Skullhunter enters the battlefield , if you attacked this turn , target opponent discards a card . ", "trg": "0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Target creature gets + 3 / + 3 until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 2 } { W } , { Q } : Safehold Sentry gets + 0 / + 2 until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Each opponent who discarded a card that shares a card type with the card you discarded loses 3 life . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "• You gain 4 life . ", "trg": "0 0 0 0 0 0 "}
+{"src": "When this leaves the battlefield , that card returns to the battlefield . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " • Exile target creature with power 3 or greater . ", "trg": " 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You may cast this spell for its cleave cost . ", "trg": "0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Sacrifice Stormcaller 's Boon : Creatures you control gain flying until end of turn . ", "trg": "0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever a creature with power 5 or greater enters the battlefield under your control , you may put a + 1 / + 1 counter on Godtracker of Jund . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 "}
+{"src": "{ 1 } , { T } , Remove a gem counter from Briber 's Purse : Target creature ca n't attack or block this turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Temple Thief ca n't be blocked by enchanted creatures or enchantment creatures . ", "trg": "1 1 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Choose four . ", "trg": "0 0 0 "}
+{"src": " • Discard a card . ", "trg": " 0 0 0 0 0 "}
+{"src": " Champion an Elemental ", "trg": " 0 0 0 "}
+{"src": "Whenever you sacrifice a permanent , Havoc Jester deals 1 damage to any target . ", "trg": "0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 "}
+{"src": " At the beginning of the upkeep of enchanted creature 's controller , that player loses 1 life . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Choose one or more — ", "trg": "0 0 0 0 0 "}
+{"src": "Each Vampire creature card you own that is n't on the battlefield has madness . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Commander creatures you own have \" The first Dragon spell you cast each turn costs { 2 } less to cast . \" ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "When Glistening Sphere enters the battlefield , proliferate . ", "trg": "0 1 1 0 0 0 0 0 0 "}
+{"src": "Whenever Basri 's Lieutenant or another creature you control dies , if it had a + 1 / + 1 counter on it , create a 2 / 2 white Knight creature token with vigilance . ", "trg": "0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "This creature can block creatures with flying . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": "You may turn this conspiracy face up any time and reveal that name . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "All creatures able to block Shinen of Life 's Roar do so . ", "trg": "0 0 0 0 0 1 1 1 1 1 0 0 0 "}
+{"src": "At the beginning of each opponent 's end step , if that player did n't cast a creature spell this turn , create a 2 / 2 green Lizard creature token . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "I — Create two tapped Powerstone tokens . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": "Choose a creature with the least toughness among creatures you control and put a + 1 / + 1 counter on it . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Destroy target enchantment or land . ", "trg": "0 0 0 0 0 0 "}
+{"src": "Flying ", "trg": "0 "}
+{"src": "Flying ", "trg": "0 "}
+{"src": "Equip { 3 } ", "trg": "0 0 0 0 "}
+{"src": "Whenever you cast a non creature spell , this creature gets + 1 / + 1 until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Affinity for Islands ", "trg": "0 0 0 "}
+{"src": "If you do , target creature ca n't block this turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " War Falcon ca n't attack unless you control a Knight or a Soldier . ", "trg": " 1 1 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Enchant creature ", "trg": "0 0 "}
+{"src": "Each Vehicle you control gets + 1 / + 1 as long as it 's a creature . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Clash with an opponent . ", "trg": "0 0 0 0 0 "}
+{"src": "Choose one — ", "trg": "0 0 0 "}
+{"src": "Shuffle Green Sun 's Zenith into its owner 's library . ", "trg": "0 1 1 1 1 0 0 0 0 0 0 "}
+{"src": " Crew Captain has indestructible as long as it entered the battlefield this turn . ", "trg": " 1 1 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Flying ", "trg": "0 "}
+{"src": "Damage dealt by this creature also causes you to gain that much life . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Search target player 's library for a card and exile it . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If it 's legendary , it also gains lifelink until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "As the token enters the battlefield , you may sacrifice any number of creatures . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Each player secretly chooses a number 0 or greater , then all players reveal those numbers simultaneously and determine the highest and lowest numbers revealed this way . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever an Angel you control dies , create a 1 / 1 white Spirit creature token with flying . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If you do , it 's sacrificed when it enters the battlefield . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If this creature is n't monstrous , put three + 1 / + 1 counters on it and it becomes monstrous . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Sacrifice Vampire Hexmage : Remove all counters from target permanent . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 "}
+{"src": "You may cast this card face down as a 2 / 2 creature for { 3 } . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " • Destroy target creature or planeswalker . ", "trg": " 0 0 0 0 0 0 0 "}
+{"src": "Destroy all creatures . ", "trg": "0 0 0 0 "}
+{"src": "Enchant creature ", "trg": "0 0 "}
+{"src": "• Create an X / X green Spirit creature token , where X is the number of lands you control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If you do , repeat this process except that opponent ca n't choose a card already chosen for Shrouded Lore . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 "}
+{"src": "{ 2 } { U } , Remove a + 1 / + 1 counter from Academy Elite : Draw a card , then discard a card . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Enchanted land is a Mountain , Forest , and Plains . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Flash ", "trg": "0 "}
+{"src": "Creatures you control with no abilities get + 1 / + 1 . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Put nine + 1 / + 1 counters on target land you control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You may play that card this turn . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": "When Knights of the Black Rose enters the battlefield , you become the monarch . ", "trg": "0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 "}
+{"src": "The copies become tokens . ", "trg": "0 0 0 0 0 "}
+{"src": "{ T } : Add { C } . ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "{ U } { B } , { T } : Return a card exiled with Bane Alley Broker to its owner 's hand . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 "}
+{"src": "Put the rest on the bottom of your library in any order . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "When this creature dies , you may return target Spirit card with mana value 5 or less from your graveyard to your hand . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Target opponent reveals their hand . ", "trg": "0 0 0 0 0 0 "}
+{"src": "At the beginning of your end step , if there are thirty or more counters among artifacts and creatures you control , Lux Artillery deals 1 0 damage to each opponent . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 "}
+{"src": "Search your library for an instant card or a card with flash , reveal it , put it into your hand , then shuffle . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "II — Target player mills four cards . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": "Multikicker { 1 } { U } ", "trg": "0 0 0 0 0 0 0 "}
+{"src": "Exile target creature . ", "trg": "0 0 0 0 "}
+{"src": " When Squadron Hawk enters the battlefield , you may search your library for up to three cards named Squadron Hawk , reveal them , put them into your hand , then shuffle . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If a creature dying causes a triggered ability of a permanent you control to trigger , that ability triggers an additional time . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Whenever Emissary of Hope deals combat damage to a player , you gain 1 life for each artifact that player controls . ", "trg": " 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "− 6 : You get an emblem with \" At the beginning of combat on your turn , create a 1 / 1 white Soldier creature token , then put a + 1 / + 1 counter on each creature you control . \" ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "They remain paired for as long as you control both of them . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "As Manor Gate enters the battlefield , choose a color other than green . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Activate only if creatures you control have total power 8 or greater . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Formidable — { 9 } { G } { G } , { T } : Each player 's life total becomes the number of creatures they control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Destroy target attacking creature . ", "trg": "0 0 0 0 0 "}
+{"src": "When you do , cast it for its madness cost or put it into your graveyard . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "+ 1 : Until your next turn , you may cast sorcery spells as though they had flash . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If you cast this spell for its mutate cost , put it over or under target non - Human creature you own . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Trample ", "trg": " 0 "}
+{"src": "Equipped creature gets + 1 / + 0 and ca n't be blocked by creatures with flying . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever Phyrexian Totem is dealt damage , if it 's a creature , sacrifice that many permanents . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Whenever you gain life , Rodolf Duskbringer gains indestructible until end of turn . ", "trg": " 0 0 0 0 0 1 1 0 0 0 0 0 0 0 "}
+{"src": "When you cast this spell , tap up to two target creatures you do n't control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ T } , Tap an untapped creature you control : Add one mana of any color . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You may choose new targets for the copy . ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "Practiced Tactics deals damage to that creature equal to twice the number of creatures in your party . ", "trg": "1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Whenever a creature with the chosen name enters the battlefield under your control , you may search your library for any number of cards with that name , reveal them , put them into your hand , then shuffle . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ W } , { T } : Tap target creature . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If that spell is countered this way , put it on top of its owner 's library instead of into that player 's graveyard . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 1 } { R } , Discard a land card : Living Twister deals 2 damage to any target . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 "}
+{"src": "Enchant creature ", "trg": "0 0 "}
+{"src": "− 9 : You get an emblem with \" Whenever a creature you control deals combat damage to a player , that player loses the game . \" ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Flash ", "trg": "0 "}
+{"src": "Flying ", "trg": "0 "}
+{"src": "Activate only once each turn . ", "trg": "0 0 0 0 0 0 "}
+{"src": "Target creature you control gets + X / + 0 and gains first strike and trample until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Other Giant creatures you control get + 2 / + 2 and have trample . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Rebound ", "trg": "0 "}
+{"src": "{ T } : Add { R } or { G } . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Strive — This spell costs { R } more to cast for each target beyond the first . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Skip the untap step of that turn . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": "Permanents enter the battlefield tapped this turn . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": "Hidden agenda ", "trg": "0 0 "}
+{"src": "You may cast the copy . ", "trg": "0 0 0 0 0 0 "}
+{"src": "Trample ", "trg": "0 "}
+{"src": "{ 2 } , Discard this card : Draw a card . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Entwine { 3 } ", "trg": "0 0 0 0 "}
+{"src": "Creatures that were blocked by that creature this combat gain trample until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Cast this spell only if you 've cast another spell this turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Enchanted land is a 3 / 3 black Ooze creature . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Locus of Slaanesh — Demon spells you cast cost { 2 } less to cast . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ Q } is the untap symbol . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": "{ 2 } , Discard this card : Draw a card . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "1 — 1 4 | Return a creature card put into a graveyard this way to the battlefield under your control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " • Target player gains 4 life . ", "trg": " 0 0 0 0 0 0 0 "}
+{"src": "Sacrifice after III . ", "trg": "0 0 0 0 "}
+{"src": " Enchanted creature gets + 1 / + 1 and has deathtouch . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ T } : Add two mana in any combination of colors . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Whenever you cast a non creature spell , Seeker of the Way gains lifelink until end of turn . ", "trg": " 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 "}
+{"src": "{ 8 } : Creatures you control get + 3 / + 0 until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If you do , search your library for a Dragon creature card , put it onto the battlefield , then shuffle . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Exile target creature . ", "trg": " 0 0 0 0 "}
+{"src": "Choose one — ", "trg": "0 0 0 "}
+{"src": "− 8 : For each player , search that player 's library for a non land card and exile it , then that player shuffles . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "For each spell and ability your opponents control , counter it unless its controller pays { 4 } . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Whenever Gravity Negator attacks , you may pay { C } . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ T } : Add { G } . ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": " Whenever another permanent enters the battlefield under your control , look at the top card of your library . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Other Elf creatures you control get + 1 / + 1 . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Flying ", "trg": "0 "}
+{"src": "Flying ", "trg": "0 "}
+{"src": "All lands have indestructible . ", "trg": "0 0 0 0 0 "}
+{"src": "Flying ", "trg": "0 "}
+{"src": "When you cast your first spell from exile , exile cards from the top of your library until you exile a non land card that costs less . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever a creature dealt damage by Zurgo Helmsmasher this turn dies , put a + 1 / + 1 counter on Zurgo Helmsmasher . ", "trg": "0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 "}
+{"src": " Creatures with flying your opponents control get - 1 / - 1 . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Each opponent gets a poison counter . ", "trg": "0 0 0 0 0 0 0 "}
+{"src": "You may pay an additional { 4 } as you cast this spell . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " When Silumgar Sorcerer exploits a creature , counter target creature spell . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 "}
+{"src": "You may have this creature enter the battlefield with a + 1 / + 1 counter on it . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Vivid Marsh enters the battlefield tapped with two charge counters on it . ", "trg": "1 1 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Untap all creatures you control . ", "trg": "0 0 0 0 0 0 "}
+{"src": "Cycling { 1 } ", "trg": "0 0 0 0 "}
+{"src": "Then discard a card unless you attacked this turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Menace ", "trg": " 0 "}
+{"src": "When Graypelt Refuge enters the battlefield , you gain 1 life . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 "}
+{"src": " 8 / 8 ", "trg": " 0 0 0 "}
+{"src": "Bushido 1 ", "trg": "0 0 "}
+{"src": "At the beginning of your upkeep , put an age counter on this permanent , then sacrifice it unless you pay its upkeep cost for each age counter on it . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Target creature gets + 2 / + 2 and gains trample until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "When Ghitu Journeymage enters the battlefield , if you control another Wizard , Ghitu Journeymage deals 2 damage to each opponent . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 "}
+{"src": "That creature does n't untap during its controller 's next untap step . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You may cast this card for its miracle cost when you draw it if it 's the first card you drew this turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Attacking does n't cause this creature to tap . ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "Each artifact you tap after you 're done activating mana abilities pays for { 1 } . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Flying ", "trg": "0 "}
+{"src": "It does n't untap during its controller 's next untap step . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "That player discards that card . ", "trg": "0 0 0 0 0 0 "}
+{"src": "It ca n't be regenerated . ", "trg": "0 0 0 0 0 0 "}
+{"src": "Whenever a player casts a green spell , you may gain 1 life . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "For each card exiled this way , create a token that 's a copy of that card , except it 's a 4 / 4 black Zombie . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "II — Create a 1 / 1 green Elf Warrior creature token . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Target creature fights another target creature . ", "trg": "0 0 0 0 0 0 0 "}
+{"src": "At the beginning of your upkeep , remove a time counter . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "This creature ca n't be the target of spells or abilities . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Council 's dilemma — Starting with you , each player votes for time or money . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever you cast a legendary spell from your hand , exile cards from the top of your library until you exile a legendary non land card with lesser mana value . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 3 } { W } , { T } : For as long as Immovable Rod remains tapped , another target permanent loses all abilities and ca n't attack or block . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "It enters the battlefield with twice that many + 1 / + 1 counters on it . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Rogue Trader — Whenever Neyam Shai Murad deals combat damage to a player , you may have that player return target permanent card from their graveyard to their hand . ", "trg": "0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Converge — Search your library for a creature , instant , or sorcery card with mana value less than or equal to the number of colors of mana spent to cast this spell , exile that card , then shuffle . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Lifelink ", "trg": "0 "}
+{"src": "Sacrifice them at the beginning of the next end step . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " When Topiary Stomper enters the battlefield , search your library for a basic land card , put it onto the battlefield tapped , then shuffle . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ T } , Sacrifice X Clues : Target opponent reveals the top X cards of their library . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Destroy target creature . ", "trg": "0 0 0 0 "}
+{"src": "{ 4 } { B } , { T } : Creatures you control get + 1 / + 0 and gain menace until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Sunblade Elf gets + 1 / + 1 as long as you control a Plains . ", "trg": "1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "They put the top three cards of their library into their graveyard . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Equipped creature gets + 2 / + 1 . ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "Each player creates a 0 / 0 green and blue Fractal creature token and puts a number of + 1 / + 1 counters on it equal to the total power of creatures they controlled that were exiled this way . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever Ashling , the Extinguisher deals combat damage to a player , choose target creature that player controls . ", "trg": "0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "• Strike a Deal — You and target opponent each draw two cards . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Lifelink ", "trg": "0 "}
+{"src": "Choose any number of permanents and / or players , then give each another counter of each kind already there . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "They ca n't be blocked except by two or more creatures . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You may reveal a green card from among them and put it into your hand . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever you cast a green spell , Safehold Duo gets + 1 / + 1 until end of turn . ", "trg": "0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Lands you control do n't untap during your next untap step . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever a creature you control explores , put a + 1 / + 1 counter on Wildgrowth Walker and you gain 3 life . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 "}
+{"src": "Wither ", "trg": "0 "}
+{"src": " { 2 } { G } : Return Vivien 's Jaguar from your graveyard to your hand . ", "trg": " 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 "}
+{"src": "{ T } : Add one mana of any color . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Enchant creature ", "trg": "0 0 "}
+{"src": "Crash Landing deals damage to that creature equal to the number of Forests you control . ", "trg": "1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If you do , target player loses 1 life and you gain 1 life . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Kumena 's Speaker gets + 1 / + 1 as long as you control another Merfolk or an Island . ", "trg": "1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "When Cavalier of Thorns dies , you may exile it . ", "trg": "0 1 1 1 0 0 0 0 0 0 0 "}
+{"src": "Whenever you cast a creature spell , you may pay { G } . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "While an opponent is searching their library , they exile each card they find . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You may have Phyrexian Metamorph enter the battlefield as a copy of any artifact or creature on the battlefield , except it 's an artifact in addition to its other types . ", "trg": "0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "For each player , choose a creature card in that player 's graveyard . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You may pay an additional { R } as you cast this spell . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever a creature you control attacks alone , that creature gets + 1 / + 1 until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Enchanted creature gets + 2 / + 2 and has flying . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "When enchanted artifact is put into a graveyard , create a 2 / 2 red Gremlin creature token . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Vigilance ", "trg": "0 "}
+{"src": "You can have two commanders if both have partner . ", "trg": "0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever you cast a white permanent spell , create a 1 / 1 white Soldier creature token . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "First strike ", "trg": "0 0 "}
+{"src": "At the beginning of each end step , if you control no creatures , sacrifice Promise of Tomorrow and return all cards exiled with it to the battlefield under your control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "At the beginning of your upkeep , if you have exactly thirteen cards in your hand , you win the game . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Then you may exile this spell card encoded on a creature you control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever River Kelpie or another permanent enters the battlefield from a graveyard , draw a card . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Flame Discharge deals X damage to target creature or planeswalker . ", "trg": "1 1 0 0 0 0 0 0 0 0 0 "}
+{"src": "• Target permanent phases out . ", "trg": "0 0 0 0 0 0 "}
+{"src": "This creature ca n't attack . ", "trg": "0 0 0 0 0 0 "}
+{"src": "This creature can block creatures with flying . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": "{ 1 } , Discard this card : Draw a card . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Dinosaur spells you cast cost { 1 } less to cast . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ T } : Add { R } . ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "Create a 0 / 1 colorless Eldrazi Spawn creature token . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You may cast this spell any time you could cast an instant . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Put the rest on the bottom of your library in a random order . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever Immovable Rod becomes untapped , venture into the dungeon . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 "}
+{"src": "Gain control of target creature until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Flying , trample ", "trg": "0 0 0 "}
+{"src": "{ 1 } , Remove X storage counters from Fungal Reaches : Add X mana in any combination of { R } and / or { G } . ", "trg": "0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " { T } , Sacrifice an artifact : Search your library for a Construct card , reveal it , put it into your hand , then shuffle . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If it was a Jace planeswalker spell , scry 2 . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Target creature gets + 2 / + 0 until end of turn and ca n't be blocked this turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever you cast an instant or sorcery spell , put a charge counter on Firemind 's Research . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 "}
+{"src": "You may pay { 1 } and return a basic land you control to its owner 's hand rather than pay this spell 's mana cost . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " If Viashino Branchrider was kicked , it enters the battlefield with two + 1 / + 1 counters on it . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Exile it at the beginning of the next end step or if it would leave the battlefield . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " When Surgehacker Mech enters the battlefield , it deals damage equal to twice the number of Vehicles you control to target creature or planeswalker an opponent controls . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " When Lockjaw Snapper dies , put a - 1 / - 1 counter on each creature with a - 1 / - 1 counter on it . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Damage and effects that say \" destroy \" do n't destroy it . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " As long as Breathkeeper Seraph is paired with another creature , each of those creatures has \" When this creature dies , you may return it to the battlefield under its owner 's control at the beginning of your next upkeep . \" ", "trg": " 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "• Counter target non creature spell unless its controller pays { 3 } . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Haste ", "trg": "0 "}
+{"src": "This creature ca n't be blocked except by creatures with flying or reach . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Soulshift 5 ", "trg": " 0 0 "}
+{"src": "Put a + 1 / + 1 counter on an Army you control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Other Archer creatures you control get + 1 / + 1 . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Choose any number of target creatures , planeswalkers , and / or players . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Combat Inspiration — At the beginning of combat on your turn , target creature you control gets + 1 / + 0 until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Landfall — Whenever a land enters the battlefield under your control , if it 's your main phase , there 's an additional combat phase after this phase . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If that spell would be put into a graveyard , exile it instead . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You may play lands from your graveyard . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": "Return target non land permanent to its owner 's hand . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "This creature ca n't be the target of spells or abilities . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Creature spells you control with power 5 or greater ca n't be countered . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 1 } { R / G } : Put a + 1 / + 1 counter on Savageborn Hydra . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 "}
+{"src": "Until end of turn , whenever a creature an opponent controls blocks , draw a card . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ T } : Add { U } or { B } . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Crew 4 ", "trg": "0 0 "}
+{"src": "{ 1 } { W } , Sacrifice Silverchase Fox : Exile target enchantment . ", "trg": "0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 "}
+{"src": " Flying ", "trg": " 0 "}
+{"src": "You may choose new targets for the copy . ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 2 } , { T } , Remove a charge counter from Trigon of Infestation : Create a 1 / 1 green Phyrexian Insect creature token with infect . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Treat it and anything attached to it as though they do n't exist until your next turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Your creatures can help cast this spell . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": "Then copy it . ", "trg": "0 0 0 0 "}
+{"src": "Suspend 5 — { 1 } { B } ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever Etali , Primal Storm attacks , exile the top card of each player 's library , then you may cast any number of spells from among those cards without paying their mana costs . ", "trg": "0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Trample ", "trg": "0 "}
+{"src": "If you do , draw a card . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": "If you do , create an X / X black Demon creature token with flying . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "When Sand Strangler enters the battlefield , if you control a Desert or there is a Desert card in your graveyard , you may have Sand Strangler deal 3 damage to target creature . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 "}
+{"src": " Flying ", "trg": " 0 "}
+{"src": " Creatures ca n't attack you or planeswalkers you control unless their controller pays { 1 } for each of those creatures . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Draw two cards . ", "trg": "0 0 0 0 "}
+{"src": "{ 2 } , { T } : Exile target creature you control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Enchant creature ", "trg": "0 0 "}
+{"src": "At the beginning of your upkeep , scry 1 . ", "trg": "0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Its controller manifests the top card of their library . ", "trg": "0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever enchanted creature attacks , scry 1 . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": "When Elderfang Disciple enters the battlefield , each opponent discards a card . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Activated abilities cost { 2 } more to activate unless they 're mana abilities . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Each creature card in your hand has ninjutsu { 2 } { U } { B } . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Level up only as a sorcery . ", "trg": "0 0 0 0 0 0 0 "}
+{"src": "Each card you exile from your graveyard while casting this spell pays for { 1 } . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ T } : Add { G } , { W } , or { U } . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Choose one — ", "trg": "0 0 0 "}
+{"src": "Roll two d 4 and choose one result . ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 1 } { G / P } , { T } , Sacrifice a creature : Search your library for a creature card with mana value equal to 1 plus the sacrificed creature 's mana value , put that card onto the battlefield , then shuffle . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ T } , Remove a charge counter from Sphere of the Suns : Add one mana of any color . ", "trg": "0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 "}
+{"src": "You can cast only one more spell this turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Creatures attacking the last chosen player get + 1 / + 0 . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "That creature returns under its owner 's control . ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "Parley — At the beginning of combat on your turn , each player reveals the top card of their library . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Wither ", "trg": "0 "}
+{"src": "During your turn , you may pay { 2 } and exile this card from your hand face down . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Create two 2 / 2 black Zombie creature tokens . ", "trg": "0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Unearth { 2 } { B } ", "trg": "0 0 0 0 0 0 0 "}
+{"src": "{ 0 } : Attach target Equipment you control to Kazuul 's Toll Collector . ", "trg": "0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 "}
+{"src": "Once during each of your turns , you may cast a Dragon creature spell from your graveyard . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Those spells cost { R } less to cast if you paid life this way . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "For each money vote , choose a permanent owned by the voter and gain control of it . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Destroy all Equipment attached to that creature . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": "Puncture Bolt deals 1 damage to target creature . ", "trg": "1 1 0 0 0 0 0 0 0 "}
+{"src": "{ 2 } , { T } , Sacrifice Dungeoneer 's Pack : You take the initiative , gain 3 life , draw a card , and create a Treasure token . ", "trg": "0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 3 } , { T } : Target player exiles a card from their hand . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Round up each time . ", "trg": "0 0 0 0 0 "}
+{"src": "Whenever Najal , the Storm Runner attacks , you may pay { 2 } . ", "trg": "0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 "}
+{"src": "For each flip you lose , Yusri deals 2 damage to you . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ T } : Add { C } . ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "Exile target creature . ", "trg": "0 0 0 0 "}
+{"src": "This creature can block creatures with flying . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": "Demonstrate ", "trg": "0 "}
+{"src": " Whenever Zara , Renegade Recruiter attacks , look at defending player 's hand . ", "trg": " 0 1 1 1 1 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever Miara , Thorn of the Glade or another Elf you control dies , you may pay { 1 } and 1 life . ", "trg": "0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Enchanted land has \" { T } : Add { G } { G } . \" ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "When Keymaster Rogue enters the battlefield , return a creature you control to its owner 's hand . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Whenever Jetting Glasskite becomes the target of a spell or ability for the first time each turn , counter that spell or ability . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever a creature an opponent controls becomes the target of a spell or ability you control , gain control of that creature for as long as you control Willbreaker . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 "}
+{"src": " 1 / 4 ", "trg": " 0 0 0 "}
+{"src": "Modular 3 ", "trg": "0 0 "}
+{"src": "Choose any number of permanents and / or players , then give each another counter of each kind already there . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "• Target player draws two cards , then discards two cards . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Flying ", "trg": "0 "}
+{"src": "Vigilance , trample ", "trg": "0 0 0 "}
+{"src": "{ 2 } , Discard this card : Draw a card . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You may pay an additional { 2 } { U } as you cast this spell . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " When Shining Armor enters the battlefield , attach it to target Knight you control . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Your creatures can help cast this spell . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": "+ 2 : You gain 2 life . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": "Crown of Madness — { 1 } { R } , Sacrifice an artifact or creature : Goad target creature . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Enchanted creature has base power and toughness 0 / 2 . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Exile it at the beginning of the next end step or if it would leave the battlefield . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Ramunap Hydra gets + 1 / + 1 as long as you control a Desert . ", "trg": " 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Counter target spell . ", "trg": "0 0 0 0 "}
+{"src": "Fretwork Colony ca n't block . ", "trg": "1 1 0 0 0 0 "}
+{"src": "Skipped chapters do n't trigger . ", "trg": "0 0 0 0 0 0 "}
+{"src": "The spell has no effect . ", "trg": "0 0 0 0 0 0 "}
+{"src": "As long as equipped creature is untapped , untapped creatures you control get + 0 / + 2 . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "I — Search your library for a basic Plains card , reveal it , put it into your hand , then shuffle . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Flying ", "trg": " 0 "}
+{"src": "{ 4 } , { T } : Roll a d 2 0 . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Create a token that 's a copy of target creature . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "+ 1 : Until your next turn , prevent all damage target permanent would deal . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Target creature gets - 3 / - 3 until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever an opponent casts a non creature spell , Cindervines deals 1 damage to that player . ", "trg": "0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 "}
+{"src": "Untap it . ", "trg": "0 0 0 "}
+{"src": " Haste ", "trg": " 0 "}
+{"src": "+ 1 : Each player discards a card . ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "{ T } , Sacrifice Soul - Guide Lantern : Exile each opponent 's graveyard . ", "trg": "0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 "}
+{"src": "Target creature gets + 2 / + 2 until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You may play that card this turn . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": "{ T } : Draw a card , then discard a card . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Discard your hand . ", "trg": "0 0 0 0 "}
+{"src": "{ 1 } { B } { R } : Until end of turn , Lavaclaw Reaches becomes a 2 / 2 black and red Elemental creature with \" { X } : This creature gets + X / + 0 until end of turn . \" It 's still a land . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " When Silumgar Assassin is turned face up , destroy target creature with power 3 or less an opponent controls . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Flying ", "trg": " 0 "}
+{"src": "Return Gift of Immortality to the battlefield attached to that creature at the beginning of the next end step . ", "trg": "0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Whenever an enchantment enters the battlefield under your control , Steelclad Spirit can attack this turn as though it did n't have defender . ", "trg": " 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Learn . ", "trg": " 0 0 "}
+{"src": "Reach ", "trg": "0 "}
+{"src": "Flying ", "trg": "0 "}
+{"src": "Whenever Eternal Taskmaster attacks , you may pay { 2 } { B } . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "This spell costs { X } less to cast , where X is the greatest power among creatures you control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Haughty Djinn 's power is equal to the number of instant and sorcery cards in your graveyard . ", "trg": " 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Inspired — Whenever Servant of Tymaret becomes untapped , each opponent loses 1 life . ", "trg": "0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 1 } { B } : Target creature you control gains deathtouch until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You may cast that card without paying its mana cost . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Proliferate . ", "trg": "0 0 "}
+{"src": "Walking Ballista enters the battlefield with X + 1 / + 1 counters on it . ", "trg": "1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "This creature ca n't be blocked except by two or more creatures . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Flying ", "trg": "0 "}
+{"src": "Put target creature card from an opponent 's graveyard onto the battlefield under your control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "At the beginning of your upkeep , remove a time counter from it . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If you would put one or more counters on a creature or planeswalker you control or on yourself , put that many plus one of each of those kinds of counters on that permanent or player instead . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Level up only as a sorcery . ", "trg": "0 0 0 0 0 0 0 "}
+{"src": "When Felidar Guardian enters the battlefield , you may exile another target permanent you control , then return that card to the battlefield under its owner 's control . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "This creature enters the battlefield with X + 1 / + 1 counters on it . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Escape — { 3 } { R } , Exile three other cards from your graveyard . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ T } : Add { B } or { G } . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If it 's a land card , put that card onto the battlefield under your control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Commander creatures you own have \" Whenever this creature attacks , it gains double strike until end of turn . \" ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Battlefront Krushok ca n't be blocked by more than one creature . ", "trg": "1 1 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Untap that creature . ", "trg": "0 0 0 0 "}
+{"src": "The first creature spell you cast each turn costs { 2 } less to cast . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ T } : Draw a card , then discard a card . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " When Patagia Viper enters the battlefield , create two 1 / 1 green and blue Snake creature tokens . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Then you may exile this spell card encoded on a creature you control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "When Carrion Thrash dies , you may pay { 2 } . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever you cast an instant or sorcery spell , Guttersnipe deals 2 damage to each opponent . ", "trg": "0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 "}
+{"src": "If you control a commander as you cast this spell , you may choose both . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "At the beginning of your upkeep , if you control a commander , create a token that 's a copy of Biowaste Blob . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 "}
+{"src": " When Shipwreck Dowser enters the battlefield , return target instant or sorcery card from your graveyard to your hand . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Lurking Roper does n't untap during your untap step . ", "trg": "1 1 0 0 0 0 0 0 0 0 "}
+{"src": " When Angel of the Ruins enters the battlefield , exile up to two target artifacts and / or enchantments . ", "trg": " 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "When Stromkirk Mentor enters the battlefield , put a + 1 / + 1 counter on another target Vampire you control . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Take an extra turn after this one . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": "As Stenn , Paranoid Partisan enters the battlefield , choose a card type other than creature or land . ", "trg": "0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Its controller loses 1 life . ", "trg": "0 0 0 0 0 0 "}
+{"src": " Whenever a creature card is put into an opponent 's graveyard from anywhere , you may have Lazav , Dimir Mastermind become a copy of that card , except its name is Lazav , Dimir Mastermind , it 's legendary in addition to its other types , and it has hexproof and this ability . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever you sacrifice a green creature , you may gain 2 life . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 3 } { W } : Create a 1 / 1 white Soldier creature token . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Echo { 0 } ", "trg": " 0 0 0 0 "}
+{"src": "Ravenous ", "trg": "0 "}
+{"src": "This ability costs { 1 } less to activate for each legendary creature you control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Destroy target creature or planeswalker . ", "trg": "0 0 0 0 0 0 "}
+{"src": "When Sanity Gnawers enters the battlefield , target player discards a card at random . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Protection from Vampires ", "trg": "0 0 0 "}
+{"src": "Hellbent — Cutthroat il - Dal has shadow as long as you have no cards in hand . ", "trg": "0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ B } { G } : Exile target creature blocking or blocked by Sisters of Stone Death . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 "}
+{"src": "Whenever this creature mutates , put a + 1 / + 1 counter on it . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ U } , { T } : You may tap or untap another target creature . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ T } , Sacrifice three other artifacts and / or creatures : Look at the top three cards of your library . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " When Gilded Goose enters the battlefield , create a Food token . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 "}
+{"src": "Flying ", "trg": "0 "}
+{"src": "Search target opponent 's graveyard , hand , and library for any number of cards with the chosen name and exile them . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 1 } { B } , Discard this card : Search your library for a basic land card , reveal it , put it into your hand , then shuffle . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Champion a Kithkin ", "trg": " 0 0 0 "}
+{"src": "Whenever you gain life , each Advisor , Artificer , and Monk you control gains vigilance and gets + X / + 0 until end of turn , where X is the amount of life you gained . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You may cast Spirit spells as though they had flash . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Sacrifice a Saproling : Target creature gets + 1 / + 1 until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Equip { 2 } ", "trg": "0 0 0 0 "}
+{"src": "You may cast it without paying its mana cost . ", "trg": "0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You may exile Dragon 's Approach and four cards named Dragon 's Approach from your graveyard . ", "trg": "0 0 0 1 1 1 0 0 0 0 1 1 1 0 0 0 0 "}
+{"src": "Life Drain — Whenever a creature dealt damage by Wight this turn dies , create a tapped 2 / 2 black Zombie creature token and exile that card . ", "trg": "0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Expedition Healer has lifelink as long as you control another Cleric . ", "trg": " 1 1 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Enchanted creature has intimidate . ", "trg": "0 0 0 0 0 "}
+{"src": " Whenever Kangee , Sky Warden attacks , attacking creatures with flying get + 2 / + 0 until end of turn . ", "trg": " 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever you cast a white spell , you gain 1 life . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Barricade Breaker attacks each combat if able . ", "trg": " 1 1 0 0 0 0 0 0 "}
+{"src": "Tap it . ", "trg": "0 0 0 "}
+{"src": " If one or more tokens would be created under your control , twice that many of those tokens are created instead . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "When Izzet Chronarch enters the battlefield , return target instant or sorcery card from your graveyard to your hand . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Other black creatures you control get + 1 / + 1 . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Enchant land ", "trg": "0 0 "}
+{"src": "Heroic — Whenever you cast a spell that targets Meletis Astronomer , look at the top three cards of your library . ", "trg": "0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "1 0 — 2 0 | Look at the top three cards of your library . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " As Iona , Shield of Emeria enters the battlefield , choose a color . ", "trg": " 0 1 1 1 1 1 0 0 0 0 0 0 0 0 "}
+{"src": "Cycling { 3 } { G } ", "trg": "0 0 0 0 0 0 0 "}
+{"src": "Reinforce 1 — { 1 } { G } ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "It gains haste until end of turn . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": "Put up to one of them on top of your library and the rest on the bottom of your library in a random order . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Kicker { B } ", "trg": "0 0 0 0 "}
+{"src": "Put two + 1 / + 1 counters on up to one target creature . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ C } represents colorless mana . ", "trg": "0 0 0 0 0 0 0 "}
+{"src": " Enchanted creature gets + 2 / + 2 and attacks each combat if able . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Rather than pay { 2 } for each previous time you 've cast this spell from the command zone this game , pay 2 life that many times . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Revolt — When Deadeye Harpooner enters the battlefield , if a permanent you controlled left the battlefield this turn , destroy target tapped creature an opponent controls . ", "trg": "0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If this card is your chosen companion , you may put it into your hand from outside the game for { 3 } any time you could cast a sorcery . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 2 } , { T } , Remove a charge counter from Reckoner Bankbuster : Draw a card . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 "}
+{"src": "When Disciple of Caelus Nin enters the battlefield , starting with you , each player chooses up to five permanents they control . ", "trg": "0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "They gain trample until end of turn . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": " Flying ", "trg": " 0 "}
+{"src": "Target creature gets + X / + X until end of turn , where X is your devotion to green . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " { 2 } { R } : Phoenix of Ash gets + 2 / + 0 until end of turn . ", "trg": " 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " I — You may sacrifice a creature . ", "trg": " 0 0 0 0 0 0 0 0 "}
+{"src": " { 1 } , Sacrifice Resolute Watchdog : Target creature you control gains indestructible until end of turn . ", "trg": " 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If they ca n't , they lose 2 life and you draw a card . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Choose land or non land . ", "trg": "0 0 0 0 0 0 "}
+{"src": " Champion a Faerie ", "trg": " 0 0 0 "}
+{"src": "Return target permanent to its owner 's hand . ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "Exile it at the beginning of the next end step or if it would leave the battlefield . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Noble 's Purse enters the battlefield tapped and with three coin counters on it . ", "trg": "1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Repeat this process once . ", "trg": "0 0 0 0 0 "}
+{"src": " Protection from red ", "trg": " 0 0 0 "}
+{"src": "{ T } : Add { C } . ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "Enraged Ceratok ca n't be blocked by creatures with power 2 or less . ", "trg": "1 1 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "As an additional cost to cast this spell , sacrifice X lands . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Counter target non creature spell . ", "trg": "0 0 0 0 0 0 "}
+{"src": "Creatures you control also get + 1 / + 0 and have trample as long as you control six or more creatures . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Each creature you control with a + 1 / + 1 counter on it has trample . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Pay 2 life : Surveil 2 . ", "trg": " 0 0 0 0 0 0 0 "}
+{"src": " Discard a creature card : Erebos 's Emissary gets + 2 / + 2 until end of turn . ", "trg": " 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Choose one — ", "trg": "0 0 0 "}
+{"src": "• Target creature you control fights target creature you do n't control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ G } , Sacrifice Dawntreader Elk : Search your library for a basic land card , put it onto the battlefield tapped , then shuffle . ", "trg": "0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Target creature gains deathtouch until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 2 } , { T } : You gain 1 life . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Kicker { 2 } { G } ", "trg": "0 0 0 0 0 0 0 "}
+{"src": "Treefolk spells and Shaman spells you cast cost { 1 } less to cast . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 2 } { W } { U } { B } { R } { G } , Sacrifice Path to the World Tree : You gain 2 life and draw two cards . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "I — Create an 8 / 8 blue Kraken creature token with hexproof . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ T } : Add { W } , { U } , or { B } . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Flying ", "trg": "0 "}
+{"src": " { 1 } { W } : Prevent the next 1 combat damage that would be dealt to you this turn . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "At the beginning of your next upkeep , you may cast this card from exile without paying its mana cost . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " At the beginning of each end step , if you gained life this turn , create a 1 / 1 black Bat creature token with flying . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "When The Scorpion God dies , return it to its owner 's hand at the beginning of the next end step . ", "trg": "0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Put a + 1 / + 1 counter on up to one target creature . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Scavenge only as a sorcery . ", "trg": "0 0 0 0 0 0 "}
+{"src": " Kinship — At the beginning of your upkeep , you may look at the top card of your library . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Other Merfolk creatures you control get + 1 / + 1 . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You can have a Background as a second commander . ", "trg": "0 0 0 0 0 0 0 0 0 0 "}
+{"src": "When Loxodon Lifechanter enters the battlefield , you may have your life total become the total toughness of creatures you control . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Heroic — Whenever you cast a spell that targets Hero of Iroas , put a + 1 / + 1 counter on Hero of Iroas . ", "trg": "0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1 1 0 "}
+{"src": "{ 2 } { U } : Exchange this Aura with an Aura card in your hand . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ C } represents colorless mana . ", "trg": "0 0 0 0 0 0 0 "}
+{"src": "When Journey to Nowhere leaves the battlefield , return the exiled card to the battlefield under its owner 's control . ", "trg": "0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Flying ", "trg": " 0 "}
+{"src": "You ca n't be the target of spells or abilities your opponents control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Flying ", "trg": "0 "}
+{"src": "Exile target creature you control , then return that card to the battlefield under its owner 's control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If it shares a creature type with Mudbutton Clanger , you may reveal it . ", "trg": "0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 "}
+{"src": "− 2 : Choose target creature an opponent controls . ", "trg": "0 0 0 0 0 0 0 0 0 0 "}
+{"src": "• Gnostro , Voice of the Crags deals X damage to target creature . ", "trg": "0 1 1 1 1 1 1 0 0 0 0 0 0 0 "}
+{"src": " Other creatures you control get + 2 / + 2 . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You each lose life equal to the mana value of the card revealed by the other player . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "This creature ca n't be blocked except by two or more creatures . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Dread Slag gets - 4 / - 4 for each card in your hand . ", "trg": " 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You may pay an additional { 3 } { W } as you cast this spell . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever a land card is put into your graveyard from anywhere , put a + 1 / + 1 counter on Countryside Crusher . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 "}
+{"src": "{ 2 } { G } , { T } , Put a verse counter on Yisan , the Wanderer Bard : Search your library for a creature card with mana value equal to the number of verse counters on Yisan , put it onto the battlefield , then shuffle . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "A creature with trample can deal excess combat damage to the player or planeswalker it 's attacking . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Enchant creature you control ", "trg": "0 0 0 0 "}
+{"src": "Bushido 2 ", "trg": "0 0 "}
+{"src": "Any amount of damage this deals to a creature is enough to destroy it . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Activate only once each turn . ", "trg": "0 0 0 0 0 0 "}
+{"src": " Whenever Thrakkus the Butcher attacks , double the power of each Dragon you control until end of turn . ", "trg": " 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Cliffrunner Behemoth has haste as long as you control a red permanent . ", "trg": "1 1 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Vampire creatures you control get + 2 / + 0 and gain first strike until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 2 } : Attach to target creature you control ; or unattach from a creature . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "As an additional cost to cast this spell , sacrifice any number of creatures . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Until end of turn , target creature gets + 3 / + 3 , up to one other target creature gets + 2 / + 2 , and up to one other target creature gets + 1 / + 1 . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " When Omen of the Forge enters the battlefield , it deals 2 damage to any target . ", "trg": " 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Constellation — Whenever Doomwake Giant or another enchantment enters the battlefield under your control , creatures your opponents control get - 1 / - 1 until end of turn . ", "trg": "0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If you discarded a non land card , put a + 1 / + 1 counter on this creature . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "This spell costs { 1 } less to cast for each Citizen you control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "It 's an artifact with \" { T } , Sacrifice this artifact : Add one mana of any color . \" ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Target creature you control gets + 2 / + 1 until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever Rasaad yn Bashir attacks , if you have the initiative , double the toughness of each creature you control until end of turn . ", "trg": "0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If you do , draw a card . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": "As long as Skyclave Sentinel has a + 1 / + 1 counter on it , it can attack as though it did n't have defender . ", "trg": "0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Lifelink ", "trg": "0 "}
+{"src": "{ 1 } , { T } : You may put a land card from your hand onto the battlefield tapped . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Destroy target artifact or enchantment . ", "trg": " 0 0 0 0 0 0 "}
+{"src": "When Citizen 's Arrest enters the battlefield , exile target creature or planeswalker an opponent controls until Citizen 's Arrest leaves the battlefield . ", "trg": "0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 "}
+{"src": "Whenever a Goblin enters the battlefield under your control , you may put a quest counter on Quest for the Goblin Lord . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 "}
+{"src": "four energy counters ", "trg": "0 0 0 "}
+{"src": "Whenever an opponent casts a non artifact spell , put a charge counter on Chimeric Egg . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 "}
+{"src": "Choose one or both — ", "trg": "0 0 0 0 0 "}
+{"src": "When Invasive Species enters the battlefield , return another permanent you control to its owner 's hand . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Enchanted creature has first strike as long as you control a white or black permanent . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Choose a Background ", "trg": "0 0 0 "}
+{"src": "When Irreverent Revelers enters the battlefield , choose one — ", "trg": "0 1 1 0 0 0 0 0 0 0 "}
+{"src": "Enchanted creature does n't untap during its controller 's untap step . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If you cast this spell from your hand , exile it as it resolves . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Protection from black ", "trg": " 0 0 0 "}
+{"src": "I , II — Mill two cards , then you may return a creature card from your graveyard to your hand . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever one or more creatures attack , you may pay { 1 } { R } . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " • Look at the top seven cards of your library . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Reach , trample ", "trg": " 0 0 0 "}
+{"src": "If they do , spells they cast this turn cost { 2 } more to cast . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If you do n't put the card onto the battlefield , put it into your hand . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Defender , vigilance , reach , trample ", "trg": "0 0 0 0 0 0 0 "}
+{"src": "Whenever a non token creature you control dies , create a 1 / 1 green Saproling creature token . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Exile it at the beginning of the next end step or if it would leave the battlefield . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "It becomes an 8 / 8 Elemental creature with trample and haste until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Target creature gets + 2 / + 1 until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "It 's an artifact with \" { T } , Sacrifice this artifact : Add one mana of any color . \" ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever you lose life during your turn , put a + 1 / + 1 counter on Vampire Scrivener . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 "}
+{"src": " { T } : This creature deals X damage to any target , where X is the number of times this creature has mutated . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ T } , Sacrifice a Forest or Plains : Search your library for a land card , put it onto the battlefield , then shuffle . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "When Spell Queller leaves the battlefield , the exiled card 's owner may cast that card without paying its mana cost . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "They deal damage to creatures in the form of - 1 / - 1 counters . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Prowess ", "trg": "0 "}
+{"src": "1 — 9 | Lightfoot Rogue gains deathtouch until end of turn . ", "trg": "0 0 0 0 1 1 0 0 0 0 0 0 0 "}
+{"src": "Activate only if you control two or more blue permanents . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " When Spire Patrol enters the battlefield , tap target creature an opponent controls . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Enchant creature you control ", "trg": " 0 0 0 0 "}
+{"src": "Trample ", "trg": "0 "}
+{"src": " Whenever Merfolk Spy deals combat damage to a player , that player reveals a card at random from their hand . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "At the beginning of your upkeep , if you have seven or more cards in hand , you gain 4 life . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Whenever The Unspeakable deals combat damage to a player , you may return target Arcane card from your graveyard to your hand . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Vigilance ", "trg": "0 "}
+{"src": "Create a 2 / 2 black Zombie creature token . ", "trg": "0 0 0 0 0 0 0 0 0 0 "}
+{"src": "+ 1 : Look at the top four cards of your library . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Target creature gets + 2 / + 1 and gains haste until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 2 } { B } , { T } : Exile target creature card from a graveyard . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Flying ", "trg": " 0 "}
+{"src": "Flying , vigilance ", "trg": "0 0 0 "}
+{"src": "Equipped creature gets + 0 / + 2 . ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "When Ainok Guide enters the battlefield , choose one — ", "trg": "0 1 1 0 0 0 0 0 0 0 "}
+{"src": "Whenever Vedalken Mesmerist attacks , target creature an opponent controls gets - 2 / - 0 until end of turn . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Hexproof ", "trg": "0 "}
+{"src": "Whenever Historian 's Boon or another non token enchantment enters the battlefield under your control , create a 1 / 1 white Soldier creature token . ", "trg": "0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever a Samurai or Warrior you control attacks alone , tap target creature you do n't control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "I — Create a 1 / 1 white Human Warrior creature token . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "At the beginning of your upkeep , each player discards a card . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Creatures you control get + 2 / + 1 until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Flying , haste ", "trg": "0 0 0 "}
+{"src": "{ B } , { T } , Tap X untapped Knights you control : Destroy target creature with power X or less . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " When Nimble Larcenist enters the battlefield , target opponent reveals their hand . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If you control an Angel , you gain 5 life . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Equipment , Auras you control , and counters are modifications . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 3 } : Attach to target creature you control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Exile target instant or sorcery card from your graveyard and target instant or sorcery card from an opponent 's graveyard . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "III — Create a 4 / 4 red Dragon creature token with flying . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Spara 's Headquarters enters the battlefield tapped . ", "trg": "1 1 1 0 0 0 0 0 "}
+{"src": "When you cast this spell , you may reveal the top four cards of your library . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 2 } { W } , { T } : Tap target creature . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Enchant creature ", "trg": "0 0 "}
+{"src": "I , II — Chainer 's Torment deals 2 damage to each opponent and you gain 2 life . ", "trg": "0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Bolster 4 . ", "trg": "0 0 0 "}
+{"src": "{ U } : Target artifact creature becomes blue until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Flash ", "trg": "0 "}
+{"src": "When Squad Commander enters the battlefield , create a 1 / 1 white Kor Warrior creature token for each creature in your party . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " • Put target creature on top of its owner 's library . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever equipped creature blocks or becomes blocked by one or more creatures , you may exile one of those creatures . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 1 } , Sacrifice a creature : You gain 2 life . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever a player loses the game , if they were attacked this turn by an Assassin you controlled , you win the game . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Flying , trample ", "trg": "0 0 0 "}
+{"src": " When Gravelighter enters the battlefield , draw a card if a creature died this turn . ", "trg": " 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 2 } , { T } , Sacrifice Letter of Acceptance : Draw a card . ", "trg": "0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 "}
+{"src": "{ 1 } , Remove X storage counters from Saltcrusted Steppe : Add X mana in any combination of { G } and / or { W } . ", "trg": "0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If you discard this card , discard it into exile . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 4 } { B } , Exile this card from your graveyard : For each opponent , create a token copy that attacks that opponent this turn if able . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ T } : Add { C } . ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "Suspend 4 — { B } ", "trg": "0 0 0 0 0 0 "}
+{"src": "Amrou Seekers ca n't be blocked except by artifact creatures and / or white creatures . ", "trg": "1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Draw cards equal to the result . ", "trg": "0 0 0 0 0 0 0 "}
+{"src": "Whenever Surge Mare deals damage to an opponent , you may draw a card . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Flying ", "trg": "0 "}
+{"src": "Trample ", "trg": "0 "}
+{"src": "Damage and effects that say \" destroy \" do n't destroy it . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "− 7 : Destroy all lands target player controls . ", "trg": "0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ G / W } { G / W } { G / W } { G / W } , { T } , Sacrifice Selesnya Locket : Draw two cards . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 "}
+{"src": "If it 's a permanent card , you may put it onto the battlefield . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Blitz { 4 } { G } { G } ", "trg": "0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Exile the top ten cards of your library . ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "When you do , exile up to two target cards from graveyards . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "That creature is a black Zombie in addition to its other colors and types . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " • You draw a card and you lose 1 life . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Flying ", "trg": "0 "}
+{"src": "Lightning Javelin deals 3 damage to any target . ", "trg": "1 1 0 0 0 0 0 0 0 "}
+{"src": "Flash ", "trg": "0 "}
+{"src": "First strike , deathtouch ", "trg": "0 0 0 0 "}
+{"src": "Emerge { 6 } { B } ", "trg": "0 0 0 0 0 0 0 "}
+{"src": "Unearth only as a sorcery . ", "trg": "0 0 0 0 0 0 "}
+{"src": "Whenever an ability of equipped creature is activated , if it is n't a mana ability , you may pay { 1 } . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever you cast an instant or sorcery spell , Ghitu Amplifier gets + 2 / + 0 until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Do both if { W } { U } was spent . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Deathtouch ", "trg": "0 "}
+{"src": " Enchanted creature gets + 1 / - 1 and attacks each combat if able . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "As long as Voice of the Blessed has ten or more + 1 / + 1 counters on it , it has indestructible . ", "trg": "0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " • Cabaretti Charm deals damage equal to the number of creatures you control to target creature or planeswalker . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " { T } : Add { G } { G } . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "When Deathbloom Thallid dies , create a 1 / 1 green Saproling creature token . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "• Dragons — At the beginning of combat on each opponent 's turn , tap target creature that player controls . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Equip { 2 } ", "trg": "0 0 0 0 "}
+{"src": "You choose one of them . ", "trg": "0 0 0 0 0 0 "}
+{"src": "When Wistful Selkie enters the battlefield , draw a card . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 "}
+{"src": "First strike ", "trg": "0 0 "}
+{"src": " Whenever Treasury Thrull attacks , you may return target artifact , creature , or enchantment card from your graveyard to your hand . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever equipped creature deals combat damage to a player , create that many 1 / 1 green and white Citizen creature tokens . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Flying ", "trg": "0 "}
+{"src": " When Thunder Brute enters the battlefield , if tribute was n't paid , it gains haste until end of turn . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Mana cost includes color . ", "trg": "0 0 0 0 0 "}
+{"src": "Cumulative upkeep { 2 } ", "trg": "0 0 0 0 0 "}
+{"src": "Landfall — Whenever a land enters the battlefield under your control , you gain 4 life if this is the first time this ability has resolved this turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 1 } , Sacrifice a non token artifact : Create a 1 / 1 blue Thopter artifact creature token with flying . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Creatures with power less than Champion of Lambholt 's power ca n't block creatures you control . ", "trg": "0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ T } : Add an amount of { G } equal to Marwyn 's power . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Megamorph { 2 } { B } ", "trg": "0 0 0 0 0 0 0 "}
+{"src": " Enchanted creature has flying . ", "trg": " 0 0 0 0 0 "}
+{"src": "Put a + 1 / + 1 counter on each of up to two other target creatures . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "At the beginning of combat on your turn , you may have target creature get + 2 / + 0 until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 2 } : Reveal the top card of your library . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Boast — { 1 } { B } , Sacrifice a creature : Each opponent sacrifices a creature or planeswalker . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Flying ", "trg": "0 "}
+{"src": "Vigilance ", "trg": "0 "}
+{"src": "This card is every creature type . ", "trg": "0 0 0 0 0 0 0 "}
+{"src": "It gains haste . ", "trg": "0 0 0 0 "}
+{"src": "Flash ", "trg": "0 "}
+{"src": "First strike ", "trg": "0 0 "}
+{"src": "Enchanted creature does n't untap during its controller 's untap step . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If you do , amass 2 . ", "trg": "0 0 0 0 0 0 0 "}
+{"src": "Enchant creature ", "trg": "0 0 "}
+{"src": "This creature ca n't be blocked except by two or more creatures . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Splice onto Arcane { 1 } { R } ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "Then each player draws a card . ", "trg": "0 0 0 0 0 0 0 "}
+{"src": "Choose any number of permanents and / or players , then give each another counter of each kind already there . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever a player casts an artifact spell , you may gain 1 life . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " When Thunderhawk Gunship enters the battlefield , create two 2 / 2 white Astartes Warrior creature tokens with vigilance . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Irrigated Farmland enters the battlefield tapped . ", "trg": "1 1 0 0 0 0 0 "}
+{"src": "If you do , create a 1 / 1 red Goblin creature token with haste . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Spend this mana only to cast an Angel spell . ", "trg": "0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If you won , that creature does n't untap during its controller 's next untap step . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Flying ", "trg": "0 "}
+{"src": "Whenever World Shaper attacks , you may mill three cards . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 "}
+{"src": "{ T } : Add one mana of any color . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ T } : Put a charge counter on Ratchet Bomb . ", "trg": "0 0 0 0 0 0 0 0 0 1 1 0 "}
+{"src": "• Target opponent loses 2 life and you gain 2 life . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " As an additional cost to cast red permanent spells , you may pay 2 life . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Trample ", "trg": "0 "}
+{"src": "Tap any number of creatures you control with total power 2 or more : This Vehicle becomes an artifact creature until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "+ 1 : Up to one target creature gets - 2 / - 1 until your next turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Magecraft — Whenever you cast or copy an instant or sorcery spell , scry 1 . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 2 } { B } , Sacrifice a creature : Target opponent reveals their hand . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Bestow { 2 } { W } ", "trg": "0 0 0 0 0 0 0 "}
+{"src": "You may reveal a Human creature card from among them and put it into your hand . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Searing Blood deals 2 damage to target creature . ", "trg": "1 1 0 0 0 0 0 0 0 "}
+{"src": "Create a 1 / 1 colorless Servo artifact creature token . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You may pay { 1 } and return a basic land you control to its owner 's hand rather than pay this spell 's mana cost . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ W } , { T } : Untap another target creature . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 1 } : Attach to target creature you control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "As long as Quest for the Goblin Lord has five or more quest counters on it , creatures you control get + 2 / + 0 . ", "trg": "0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Partner with Soulblade Renewer ", "trg": "0 0 0 0 "}
+{"src": "{ T } : Add one mana of any color . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Trample ", "trg": "0 "}
+{"src": "If you do , draw a card . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": "Haste ", "trg": "0 "}
+{"src": " Whenever Coiling Stalker deals combat damage to a player , put a + 1 / + 1 counter on target creature you control that does n't have a + 1 / + 1 counter on it . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "At the beginning of your end step , you may sacrifice a Zombie . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " As long as you control six or more lands , Sylvan Advocate and land creatures you control get + 2 / + 2 . ", "trg": " 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "This creature ca n't be blocked except by two or more creatures . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 1 } { G } , Sacrifice Hana Kami : Return target Arcane card from your graveyard to your hand . ", "trg": "0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Trample ", "trg": "0 "}
+{"src": "When you do , up to that many target creatures gain double strike until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Whenever you cast a non creature spell , create a 1 / 1 white Monk creature token with prowess . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "That player shuffles , then draws a card for each card exiled from their hand this way . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Choose target creature . ", "trg": "0 0 0 0 "}
+{"src": "Level up { 4 } ", "trg": "0 0 0 0 0 "}
+{"src": "If you do , copy that ability . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": "They put the top two cards of their library into their graveyard . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Living weapon ", "trg": "0 0 "}
+{"src": "It has haste . ", "trg": "0 0 0 0 "}
+{"src": "When Gray Merchant of Asphodel enters the battlefield , each opponent loses X life , where X is your devotion to black . ", "trg": "0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "• 1 / 3 Turtle with hexproof . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": " Hotheaded Giant enters the battlefield with two - 1 / - 1 counters on it unless you 've cast another red spell this turn . ", "trg": " 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "It 's an artifact with \" { 1 } , { T } , Discard a card , Sacrifice this artifact : Draw a card . \" ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "That player adds two mana of any one color they choose . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If this spell was kicked , instead creatures you control get + 2 / + 2 and gain first strike until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If you do n't , Secluded Glen enters the battlefield tapped . ", "trg": "0 0 0 0 0 1 1 0 0 0 0 0 "}
+{"src": "Fateful Showdown deals damage to any target equal to the number of cards in your hand . ", "trg": "1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Flying ", "trg": "0 "}
+{"src": "Waterfront District enters the battlefield tapped . ", "trg": "1 1 0 0 0 0 0 "}
+{"src": "At the beginning of your end step , you may sacrifice a non token creature . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Domain — Until end of turn , creatures you control gain trample and get + 1 / + 1 for each basic land type among lands you control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "This creature deals damage to creatures in the form of - 1 / - 1 counters and to players in the form of poison counters . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " • Exile the top two cards of your library . ", "trg": " 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "It ca n't be blocked except by two or more creatures . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "As an additional cost to cast this spell , you may reveal a Dragon card from your hand . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ T } : Add one mana of any color . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Exile it at the beginning of the next end step . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Reach ", "trg": "0 "}
+{"src": " When Frilled Mystic enters the battlefield , you may counter target spell . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Punishing Fire deals 2 damage to any target . ", "trg": "1 1 0 0 0 0 0 0 0 "}
+{"src": "Cycling { 2 } ", "trg": "0 0 0 0 "}
+{"src": "Creatures target opponent controls attack this turn if able . ", "trg": "0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If it shares a creature type with Wandering Graybeard , you may reveal it . ", "trg": "0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 "}
+{"src": "You may cast this card from your graveyard by discarding a land card in addition to paying its other costs . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "When Admonition Angel leaves the battlefield , return all cards exiled with it to the battlefield under their owners ' control . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever Radha , Heir to Keld attacks , you may add { R } { R } . ", "trg": "0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Crew 4 ", "trg": " 0 0 "}
+{"src": "Whenever you draw a card , you may have target player mill a card . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Look at the top card of your library . ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "You may play the exiled card this turn . ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "Flying , haste ", "trg": "0 0 0 "}
+{"src": "If you do , put a + 1 / + 1 counter on target creature . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Enchanted creature gets + 3 / + 3 and has flying . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ T } , Sacrifice Mimic : Add one mana of any color . ", "trg": "0 0 0 0 0 1 0 0 0 0 0 0 0 0 "}
+{"src": " When Awakened Awareness enters the battlefield , put X + 1 / + 1 counters on enchanted permanent . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " When Thalia 's Lancers enters the battlefield , you may search your library for a legendary card , reveal it , put it into your hand , then shuffle . ", "trg": " 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Adaptive Shimmerer enters the battlefield with three + 1 / + 1 counters on it . ", "trg": " 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Target creature gets - 1 1 / - 1 1 until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Flying ", "trg": "0 "}
+{"src": "{ 2 } { G } : Put a level counter on this . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You may pay an additional { G } as you cast this spell . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If that creature is a Demon , exile it instead . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "At the beginning of your upkeep , exile the top four cards of your library , then roll a d 2 0 . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "During your turn , you may pay { 2 } and exile this card from your hand face down . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You gain 2 life . ", "trg": "0 0 0 0 0 "}
+{"src": "If you do , create a token that 's a copy of that creature , except it 's 1 / 1 and it 's a Nightmare in addition to its other types . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ 2 } { W } , { T } : Return all exiled cards with aegis counters on them to the battlefield under their owners ' control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Whenever Mindlink Mech becomes crewed for the first time each turn , until end of turn , Mindlink Mech becomes a copy of target non legendary creature that crewed it this turn , except it 's 4 / 3 , it 's a Vehicle artifact in addition to its other types , and it has flying . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ T } : Add { G } { U } . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Each other planeswalker you control has the loyalty abilities of Kasmina , Enigma Sage . ", "trg": "0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 "}
+{"src": " Seraph of the Masses 's power and toughness are each equal to the number of creatures you control . ", "trg": " 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " As long as Spectral Gateguards is paired with another creature , both creatures have vigilance . ", "trg": " 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Then return a creature card with lesser mana value than the creature that died from your graveyard to your hand . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever another creature enters the battlefield , you may move a + 1 / + 1 counter from this creature onto it . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Prevent all combat damage that would be dealt this turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Flash ", "trg": " 0 "}
+{"src": "{ 1 } { U } , { T } : You may tap or untap target permanent . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ C } represents colorless mana . ", "trg": "0 0 0 0 0 0 0 "}
+{"src": "{ 1 } , { T } : Draw two cards , then discard a card . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " When Rattleclaw Mystic is turned face up , add { G } { U } { R } . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Deathtouch ", "trg": "0 "}
+{"src": "Zagoth Triome enters the battlefield tapped . ", "trg": "1 1 0 0 0 0 0 "}
+{"src": "Equip { 4 } ", "trg": "0 0 0 0 "}
+{"src": "If this creature is n't monstrous , put a + 1 / + 1 counter on it and it becomes monstrous . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Whenever another colorless creature enters the battlefield under your control , target opponent loses 1 life . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Scry 1 , then draw a card . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": "Whenever Warteye Witch or another creature you control dies , scry 1 . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "They gain trample until end of turn . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": " When Solitude enters the battlefield , exile up to one other target creature . ", "trg": " 0 1 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Flash ", "trg": "0 "}
+{"src": "Whenever a player casts a green spell , you may pay { 1 } . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Target player draws two cards , then discards four cards . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "+ 1 : Until end of turn , Sarkhan , the Dragonspeaker becomes a legendary 4 / 4 red Dragon creature with flying , indestructible , and haste . ", "trg": "0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever one or more other Elves enter the battlefield under your control , create a 1 / 1 green Elf Warrior creature token . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Until end of turn , target creature you control becomes a blue Dragon Illusion with base power and toughness 4 / 4 , loses all abilities , and gains flying . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " • Exile target land creature . ", "trg": " 0 0 0 0 0 0 "}
+{"src": "Ferocious — If you control a creature with power 4 or greater , those creatures do n't untap during their controllers ' next untap steps . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Your creatures can help cast those spells . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": "As you cast this spell , you may sacrifice a creature with power 3 or greater . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Landfall — Whenever a land enters the battlefield under your control , Territorial Baloth gets + 2 / + 2 until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You may pair this creature with another unpaired creature when either enters the battlefield . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Ignition Team enters the battlefield with X + 1 / + 1 counters on it , where X is the number of tapped lands on the battlefield . ", "trg": "1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ G } { W } { W } , { T } , Sacrifice Bretagard Stronghold : Put a + 1 / + 1 counter on each of up to two target creatures you control . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Deathtouch ", "trg": "0 "}
+{"src": "Activated abilities of artifacts ca n't be activated . ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "Defender ", "trg": "0 "}
+{"src": "You may cast this card face down as a 2 / 2 creature for { 3 } . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Enchanted creature gets + 1 / + 1 . ", "trg": " 0 0 0 0 0 0 0 0 0 "}
+{"src": "Imminent Doom enters the battlefield with a doom counter on it . ", "trg": "1 1 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Target creature 's controller sacrifices it , then creates X 1 / 1 green and white Elf Warrior creature tokens , where X is that creature 's power . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You may cast Spirit spells as though they had flash . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "When Roalesk dies , proliferate , then proliferate again . ", "trg": "0 0 0 0 0 0 0 0 0 0 "}
+{"src": "At the beginning of your upkeep , put an age counter on this permanent , then sacrifice it unless you pay its upkeep cost for each age counter on it . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "− 3 : Return target permanent card from your graveyard to your hand . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If you do , draw a card . ", "trg": "0 0 0 0 0 0 0 0 "}
+{"src": "Morbid — When you cast this spell , if a creature died this turn , you may copy Malicious Affliction and may choose a new target for the copy . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever Krydle of Baldur 's Gate deals combat damage to a player , that player loses 1 life and mills a card , then you gain 1 life and scry 1 . ", "trg": "0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You may cast this card face down as a 2 / 2 creature for { 3 } . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Other red attacking creatures you control gain trample until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Turn it face up any time for its morph cost . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ U } , Discard this card : Draw a card . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " When Obscura Interceptor enters the battlefield , it connives . ", "trg": " 0 1 1 0 0 0 0 0 0 0 "}
+{"src": "You may cast that card for as long as it remains exiled , and you may spend mana as though it were mana of any color to cast that spell . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "{ G } , Sacrifice a creature : You gain 1 life . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever an Aura you control is put into your graveyard from the battlefield , exile it . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "If you search your library this way , shuffle . ", "trg": "0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Return it only if it 's on the battlefield . ", "trg": "0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Delirium — At the beginning of each opponent 's upkeep , if there are four or more card types among cards in your graveyard , that player mills three cards . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You choose the value of X . ", "trg": "0 0 0 0 0 0 0 "}
+{"src": "As you cast this spell , you may tap two untapped creatures you control that share a color with it . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Enchanted creature ca n't attack or block . ", "trg": " 0 0 0 0 0 0 0 0 "}
+{"src": "If an opponent has more life than you , you gain 4 life . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You may reveal an artifact card from among them and put it into your hand . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " When Liliana 's Specter enters the battlefield , each opponent discards a card . ", "trg": " 0 1 1 1 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Haste ", "trg": "0 "}
+{"src": " Target creature gets + 3 / + 3 until end of turn . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Create two 1 / 1 white Soldier Ally creature tokens . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "At the beginning of your upkeep , put an age counter on this permanent , then sacrifice it unless you pay its upkeep cost for each age counter on it . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Polukranos enters the battlefield with six + 1 / + 1 counters on it . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " As long as enchanted creature is white , it gets + 1 / + 1 and has lifelink . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Cards in graveyards ca n't be the targets of spells or abilities . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Reach ", "trg": " 0 "}
+{"src": "Whenever equipped creature dies , attach Forebear 's Blade to target creature you control . ", "trg": "0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 "}
+{"src": "Destroy target non black creature that entered the battlefield since your last turn ended . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Enchanted permanent is a colorless land with \" { T } : Add { C } \" and loses all other card types and abilities . ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever you cast a red spell , if Runaway Steam - Kin has fewer than three + 1 / + 1 counters on it , put a + 1 / + 1 counter on Runaway Steam - Kin . ", "trg": "0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 "}
+{"src": "Put Ever After on the bottom of its owner 's library . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever a creature you control attacks alone , that creature gets + 1 / + 1 until end of turn . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Draw a card , then discard a card . ", "trg": "0 0 0 0 0 0 0 0 0 "}
+{"src": "Burn from Within deals X damage to any target . ", "trg": "1 1 1 0 0 0 0 0 0 0 "}
+{"src": "At the beginning of each other player 's draw step , that player draws an additional card . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "When Ashen - Skin Zubera dies , target opponent discards a card for each Zubera that died this turn . ", "trg": "0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You may pay an additional { X } as you cast this spell . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever Takenuma Bleeder attacks or blocks , you lose 1 life if you do n't control a Demon . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " When Expedition Raptor enters the battlefield , support 2 . ", "trg": " 0 1 1 0 0 0 0 0 0 0 "}
+{"src": "At the beginning of your end step , if you control three or more permanents you do n't own , draw three cards . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "It gains haste . ", "trg": "0 0 0 0 "}
+{"src": " When Howling Giant enters the battlefield , create two 2 / 2 green Wolf creature tokens . ", "trg": " 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Damage dealt by the creature also causes its controller to gain that much life . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Flying , haste ", "trg": "0 0 0 "}
+{"src": "Whenever a Mountain enters the battlefield under your control , if you control at least five other Mountains , you may have Valakut , the Molten Pinnacle deal 3 damage to any target . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 "}
+{"src": "Exile each creature with mana value of the chosen quality . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "You choose an instant or sorcery card from it . ", "trg": "0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Put one of them into your hand and the rest on the bottom of your library in a random order . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": " Enchanted creature has \" { 1 } { U } , { T } : Target player mills three cards . \" ", "trg": " 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Put all Island cards revealed this way into your hand and the rest on the bottom of your library in any order . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "As Fortified Village enters the battlefield , you may reveal a Forest or Plains card from your hand . ", "trg": "0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever you put one or more counters on a creature you do n't control , draw a card . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Each artifact you tap after you 're done activating mana abilities pays for { 1 } . ", "trg": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Draw a card . ", "trg": "0 0 0 0 "}
+{"src": "This card has no color . ", "trg": "0 0 0 0 0 0 "}
+{"src": " When Twin - Silk Spider enters the battlefield , create a 1 / 2 green Spider creature token with reach . ", "trg": " 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Whenever Naomi , Pillar of Order enters the battlefield or attacks , if you control an artifact and an enchantment , create a 2 / 2 white Samurai creature token with vigilance . ", "trg": "0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "}
+{"src": "Tasha , the Witch Queen can be your commander . ", "trg": "1 1 1 1 1 0 0 0 0 0 "}

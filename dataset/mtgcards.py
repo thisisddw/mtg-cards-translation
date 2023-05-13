@@ -3,19 +3,27 @@ import os
 
 
 class RuleText:
-    versions = {'default', 'plain'}
+    versions = {'v1', 'v2', 'cnd', 'outdated/default', 'outdated/plain'}
 
     @classmethod
-    def splits(cls, fields, version='default', train='train.json', validation='valid.json', test='test.json'):
+    def splits(cls, fields, version='v1', train='train.json', validation='valid.json', test='test.json'):
         """
         Load data from ./data/rule-text/$version
 
         Each example has two fields .src and .trg, corresponding to source language
         and target language.
 
+        Recent update remove 2 sets from rule-text dataset for testing reason. Two previous versions were move
+        into outdated directory.
+
         Versions:
-            default: Sentence level alignment. Replace card name with '<cn>' in trg, while src remains untouched.
-            plain: Sentence level alignment without further processing.
+            v1: Sentence level alignment. Replace card name with '<cn>' in trg, while src remains untouched.
+            v2: Sentence level alignment. Wrap card name in src with pair of '<>', substitute card name in trg with <src-name>.
+                Aiming at teaching the modal to leave string wraped in '<>' notations untouched.
+            cnd: Card name detection. Used to train a model to detect card names in rule text.
+                Already tokenized, seperated with spaces.
+            outdated/default: Sentence level alignment. Replace card name with '<cn>' in trg, while src remains untouched.
+            outdated/plain: Sentence level alignment without further processing.
 
         Todo:   1. 去掉重复的短句
                 2. 把整张牌的文本作为样本
@@ -29,6 +37,7 @@ class RuleText:
                                      test=test,
                                      format='json',
                                      fields=fields)
+    
 class CardName:
     versions={'swamp'}
     """
@@ -50,3 +59,27 @@ class CardName:
                                      test=test,
                                      format='json',
                                      fields=fields)
+
+class TestSets:
+    """
+    Sets that not appear in training.
+    Fields: key, src-name, trg-name, stc-rule, trg-rule, src-flavor, trg-flavor
+    """
+
+    versions = {'bro', 'one'}
+
+    @classmethod
+    def load(cls, fields, version='one'):
+        """
+        Load data from ./data/test-sets/$version
+
+        Available versions: bro, one
+        """
+        path = os.path.dirname(os.path.abspath(__file__)) + '/data/test-sets/'
+
+        return TabularDataset.splits(path=path,
+                                     train=version,
+                                     validation=None,
+                                     test=None,
+                                     format='json',
+                                     fields=fields)[0]

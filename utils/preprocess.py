@@ -6,7 +6,7 @@ from typing import Callable
 spacy_en = spacy.load('en_core_web_sm')
 spacy_zh = spacy.load("zh_core_web_sm")
 
-special_symbol_exp = '\{[^{}]*\}|[\dX/+-]|<cn>'
+special_symbol_exp = '\{[^{}]*\}|[\dX/+-]|<cn>|<[^>]*>'
 def tokenize_wraper(text: str, tokenize: Callable[[str], list[str]]):
     """
     Tokenizes text to a list of tokens using the arg 'tokenize', except split substrings 
