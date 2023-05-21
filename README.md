@@ -18,3 +18,7 @@
 - 数据集新增rule-text/cnd，用于训练卡牌名称检测模型
 - 新增models/card_name_detector模块，定义了从规则文字的单个句子中检测卡牌名的模型，基于双向RNN
 - 简单训练了一个名称检测模型，可以通过models.card_name_detector.definition.TrainedDetector加载
+
+## 5.21
+
+utils/translate.py增加sentencize和CardTranslator，用于翻译包含多个句子的一段文本。

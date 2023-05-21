@@ -22,5 +22,42 @@ class Translator:
         Comparing to the translate method, this one returns a list of attention weights additionally.
         """
         return self.beam_search(text, self.src_field, self.trg_field, self.model, self.device,
-                                max_len=50, beam_size=beam_size)[:3]
+                                max_len=max_len, beam_size=beam_size)[:3]
     
+
+def sentencize(text: str):
+    ignore = {' ', '(', ')', '\n'}
+    while len(text) and text[0] in ignore:
+        text = text[1:]
+    if len(text) == 0:
+        return []
+    
+    r = 0
+    delims = {'.', '\n', '('}
+    while r < len(text) and text[r] not in delims:
+        r += 1
+    
+    if r < len(text) and text[r] == '.':
+        return [text[:r + 1]] + sentencize(text[r + 1:])
+    return [text[:r]] + sentencize(text[r:])
+
+
+class CardTranslator:
+    def __init__(self, sentencize, sent_translator, preprocess=None, postprocess=None) -> None:
+        self.sentencize = sentencize
+        self.sent_translator = sent_translator
+        self.preprocess = preprocess
+        self.postprocess = postprocess
+    
+    def translate(self, text: str)->str:
+        sents = self.sentencize(text)
+        result = []
+        for sent in sents:
+            if self.preprocess:
+                sent = self.preprocess(sent)
+            sent, _ = self.sent_translator.translate(sent)
+            sent = ''.join(sent[0][:-1])
+            if self.postprocess:
+                sent = self.postprocess(sent)
+            result.append(sent)
+        return ' '.join(result)

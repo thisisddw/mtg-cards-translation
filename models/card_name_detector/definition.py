@@ -72,7 +72,7 @@ def detect_card_name(sentence: str, src_field: Field, trg_field: Field, model, d
 
     with torch.no_grad():
         tokens = src_field.preprocess(sentence)
-        print(tokens)
+        # print(tokens)
         input, len = src_field.process([tokens])
         logits = model(input.to(device), len).squeeze(dim=1)
         probs = F.softmax(logits, dim=1)[:,trg_field.vocab.stoi['1']]
