@@ -89,3 +89,43 @@ def calculate_bleu(data, translate):
         trgs.append([trg])
         
     return bleu_score(pred_trgs, trgs)
+
+import spacy
+import re
+from torchtext.data.metrics import bleu_score
+
+spacy_zh = spacy.load("zh_core_web_sm")
+special_symbol_exp = '\{[^{}]*\}|[\dX/+-]|<cn>|<[^>]*>'
+def tokenize_for_bleu(text: str):
+    """
+    Special symbols are treated as single word.
+    """
+    tokenize = spacy_zh.tokenizer
+    tokens = []
+    text = text.lower()
+    while len(text):
+        m = re.search(special_symbol_exp, text)
+        if m is None:
+            tokens = tokens + [tok.text for tok in tokenize(text)]
+            break
+        else:
+            l,r = m.span()
+            tokens = tokens + [tok.text for tok in tokenize(text[:l])]
+            tokens.append(text[l:r])
+            text = text[r:]
+            while len(text) and text[0] == ' ':
+                text = text[1:]
+    return tokens
+
+
+def calculate_testset_bleu(TestSet, CT):
+    trgs = []
+    pred_trgs = []
+    for t in tqdm(TestSet, total=len(TestSet)):
+        trgs.append([tokenize_for_bleu(''.join(t.trg))])
+        pred = CT.translate(' '.join(t.src))
+        pred = [x.replace(' ', '_') for x in tokenize_for_bleu(pred)]
+        pred_trgs.append(pred)
+        # print(pred_trgs)
+        # print(trgs)
+    return bleu_score(pred_trgs, trgs)

@@ -22,3 +22,7 @@
 ## 5.21
 
 utils/translate.py增加sentencize和CardTranslator，用于翻译包含多个句子的一段文本。
+
+## 5.26
+
+utils添加了calculate_testset_bleu，用于计算模型在测试系列上的bleu score。

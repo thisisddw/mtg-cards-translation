@@ -130,6 +130,7 @@ class TrainedDetector:
         tokens = self.detect(sentence)
         ret = ''
         state = 0
+        is_simbol = 0
         for tok, p in tokens:
             if p >= threshold and state == 0:
                 state = 1
@@ -138,8 +139,8 @@ class TrainedDetector:
                 state = 0
                 ret += '> '
             else:
-                ret += ' '
-            ret += tok            
+                ret += '' if is_simbol else ' '
+            ret += tok
+            if tok == '{': is_simbol = 1
+            if tok == '}': is_simbol = 0
         return ret
-
-    
