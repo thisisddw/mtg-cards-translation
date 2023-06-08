@@ -34,7 +34,12 @@ def sentencize(text: str):
     
     r = 0
     delims = {'.', '\n', '('}
-    while r < len(text) and text[r] not in delims:
+    ignore = False
+    while r < len(text):
+        if text[r] == '\"':
+            ignore = not ignore
+        if not ignore and text[r] in delims:
+            break
         r += 1
     
     if r < len(text) and text[r] == '.':
