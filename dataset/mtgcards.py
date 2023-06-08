@@ -3,7 +3,7 @@ import os
 
 
 class RuleText:
-    versions = {'v1', 'v2', 'cnd', 'outdated/default', 'outdated/plain'}
+    versions = {'v1', 'v2', 'v2.1', 'cnd', 'outdated/default', 'outdated/plain'}
 
     @classmethod
     def splits(cls, fields, version='v1', train='train.json', validation='valid.json', test='test.json'):
@@ -20,6 +20,7 @@ class RuleText:
             v1: Sentence level alignment. Replace card name with '<cn>' in trg, while src remains untouched.
             v2: Sentence level alignment. Wrap card name in src with pair of '<>', substitute card name in trg with <src-name>.
                 Aiming at teaching the modal to leave string wraped in '<>' notations untouched.
+            v2.1: Substitute card name and some keywords with '<id>', id is 0-9.
             cnd: Card name detection. Used to train a model to detect card names in rule text.
                 Already tokenized, seperated with spaces.
             outdated/default: Sentence level alignment. Replace card name with '<cn>' in trg, while src remains untouched.
@@ -29,6 +30,7 @@ class RuleText:
                 2. 把整张牌的文本作为样本
                 3. 把某些单词替换成<unk>，或许可以改进低频词翻译错误的问题 （鼓励模型把少见的词翻译成<unk>）
         """
+        assert version in cls.versions
         path = os.path.dirname(os.path.abspath(__file__)) + '/data/rule-text/' + version + '/'
 
         return TabularDataset.splits(path=path,
