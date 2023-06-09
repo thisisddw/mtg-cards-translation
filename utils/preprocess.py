@@ -56,7 +56,7 @@ def letter_level_tokenizer_en(text):
     """
     return [letter for letter in text]
 
-def fields_for_rule_text(include_lengths = True):
+def fields_for_rule_text(include_lengths = True, batch_first = False):
     """
     return a tupe (SRC, TRG)
     """
@@ -64,9 +64,11 @@ def fields_for_rule_text(include_lengths = True):
                 init_token = '<sos>', 
                 eos_token = '<eos>', 
                 lower = True, 
-                include_lengths=include_lengths)
+                include_lengths=include_lengths,
+                batch_first=batch_first)
     TRG = Field(tokenize = tokenize_zh, 
                 init_token = '<sos>', 
                 eos_token = '<eos>', 
-                lower = True)
+                lower = True,
+                batch_first=batch_first)
     return SRC, TRG

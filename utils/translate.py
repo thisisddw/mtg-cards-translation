@@ -66,3 +66,41 @@ class CardTranslator:
                 sent = self.postprocess(sent)
             result.append(sent)
         return ' '.join(result)
+
+
+import re
+class CTHelper:
+    def __init__(self, name_detector, dictionary={}) -> None:
+        self.D = name_detector
+        self.dictionary = dictionary
+    
+    def preprocess(self, x:str, silent:bool=True):
+        self.tag2str = {}
+        x = self.D.annotate(x).removeprefix(' ') # x become lowercase after go through detector
+        m = re.search('<[^0-9>]+>', x)
+        id = 0
+        while m:
+            l, r = m.span()
+            tag = '<' + str(id) + '>'
+            self.tag2str[tag] = x[l:r]
+            x = x[:l] + tag + x[r:]
+            id += 1
+            m = re.search('<[^0-9>]+>', x)
+
+        for s in self.dictionary.keys():
+            m = re.search(s, x)
+            if m:
+                tag = '<' + str(id) + '>'
+                self.tag2str[tag] = s
+                x = x.replace(s, tag)
+                id += 1
+        if not silent:
+            print(f'[after preprocess]:{x}')
+        return x
+
+    def postprocess(self, x:str, silent:bool=True):
+        if not silent:
+            print(f'[before postprocess]:{x}')
+        for tag, s in self.tag2str.items():
+            x = x.replace(tag, self.dictionary[s] if s in self.dictionary else s)
+        return x

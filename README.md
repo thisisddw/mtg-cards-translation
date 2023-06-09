@@ -34,3 +34,7 @@ utils添加了calculate_testset_bleu，用于计算模型在测试系列上的bl
 - 改进方向：
     - 增强数据
     - 尝试transformer模型
+
+## 6.9
+
+- 添加models.model6
