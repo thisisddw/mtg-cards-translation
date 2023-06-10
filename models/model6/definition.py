@@ -380,37 +380,6 @@ class Seq2Seq(nn.Module):
         return output, attention
     
 
-def create_model(INPUT_DIM, OUTPUT_DIM, SRC_PAD_IDX, TRG_PAD_IDX, device):
-    HID_DIM = 256
-    ENC_LAYERS = 3
-    DEC_LAYERS = 3
-    ENC_HEADS = 8
-    DEC_HEADS = 8
-    ENC_PF_DIM = 512
-    DEC_PF_DIM = 512
-    ENC_DROPOUT = 0.1
-    DEC_DROPOUT = 0.1
-
-    enc = Encoder(INPUT_DIM, 
-                HID_DIM, 
-                ENC_LAYERS, 
-                ENC_HEADS, 
-                ENC_PF_DIM, 
-                ENC_DROPOUT, 
-                device)
-
-    dec = Decoder(OUTPUT_DIM, 
-                HID_DIM, 
-                DEC_LAYERS, 
-                DEC_HEADS, 
-                DEC_PF_DIM, 
-                DEC_DROPOUT, 
-                device)
-    model = Seq2Seq(enc, dec, SRC_PAD_IDX, TRG_PAD_IDX, device).to(device)
-
-    return model
-
-
 def tok_cat(toks: list, delim: str = '')->str:
     s = ''
     for t in toks:
