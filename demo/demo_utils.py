@@ -40,3 +40,18 @@ def load_test_data(set_code: str):
               'trg-rule': ('trg', Field(tokenize=lambda x: x.split('\n')))}
     test_data = TestSets.load(fields, version=set_code)
     return {' '.join(data.key): {'src': ' '.join(data.src), 'trg': ' '.join(data.trg)} for data in test_data}
+
+def reformat(str):
+    num=0
+    list1 = list(str)
+    for i in range(len(list1)):
+        if list1[i]=='<': 
+            num+=1
+        if list1[i]=='>':
+            num-=1
+        if u'\u4e00' <= list1[i] <= u'\u9fff':
+            num=0
+        if list1[i]==' ' and num==0:
+            list1[i]='<br>'
+    return "".join(list1)
+    
