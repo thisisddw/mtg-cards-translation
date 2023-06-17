@@ -47,8 +47,10 @@ def reformat(str):
     for i in range(len(list1)):
         if list1[i]=='<': 
             num+=1
+            list1[i]=''
         if list1[i]=='>':
             num-=1
+            list1[i]=''
         if u'\u4e00' <= list1[i] <= u'\u9fff':
             num=0
         if list1[i]==' ' and num==0:
