@@ -54,7 +54,7 @@ st.markdown('<p class="big-font">简介</p>', unsafe_allow_html=True)
 ROOT_DIR = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
 c1, c2= st.columns([1,2])
 with c1:
-    image=Image.open(ROOT_DIR+'\demo\mtgcard.jpg')
+    image=Image.open(ROOT_DIR+'/demo/mtgcard.jpg')
     st.image(image,caption='一张稀有的万智牌，中文名\"飘萍皇\"',use_column_width=True)
 with c2:
     st.markdown('MTG是一款风靡全球的集换式卡牌游戏。本研究旨在构建一种机器翻译模型，它能够相对准确地将卡牌的英文描述翻译为中文描述。\n\n'
@@ -87,10 +87,10 @@ model4是采用RNNSearch架构的模型，model6是采用Transformer架构的模
 # st.markdown("""我们基于两种模型进行了实验，分别是RNNsearch和Transformer。下面是这两种模型的架构图。""")
 c1, c2= st.columns(2)
 with c1:
-    image=Image.open(ROOT_DIR+'\demo\RNNsearch.png')
+    image=Image.open(ROOT_DIR+'/demo/RNNsearch.png')
     st.image(image,caption='RNNsearch(model 4)',use_column_width=True)
 with c2:
-    image=Image.open(ROOT_DIR+'\demo\Transformer.png')
+    image=Image.open(ROOT_DIR+'/demo/Transformer.png')
     st.image(image,caption='Transformer(model 6)',use_column_width=True)
 
 st.markdown('<p class="big-font">模型特点</p>', unsafe_allow_html=True)
