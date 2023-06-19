@@ -3,7 +3,7 @@
 ```
 .
 ├─dataset 
-│  └─data   #每一个子文件夹代表一个数据集
+│  └─data   # 每一个子文件夹代表一个数据集
 │      ├─card-name      # 存放卡牌名数据集
 │      │  └─swamp
 │      ├─rule-text      # 存放规则文字数据集
@@ -16,13 +16,14 @@
 │      │  ├─v2.1        # 一些中英文卡牌名被替换为 <id> 标签
 │      │  └─v2.2        # 在 v2.1 的基础上做了更多替换，并且保留了未做替换的版本
 │      └─test-sets
+├─demo      # 演示网页
 ├─models
 │  ├─card_name_detector     # 名称检测模型
 │  ├─hybrid                 # 混合模型
 │  ├─model4                 # RNNSearch模型
 │  ├─model6                 # Transformer (可学习位置编码)  
 │  └─model6_1               # Transformer (固定位置编码)
-├─result    #存放模型参数
+├─result    # 存放模型参数
 └─utils
 ```
 ## 日志
